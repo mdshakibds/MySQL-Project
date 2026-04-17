@@ -1,0 +1,1471 @@
+record_id,user_id,user_name,region,subscription_type,movie_id,title,genre,type,watch_time_minutes,duration_minutes,watch_date,rating,device,status
+10001,U538,Oliver Brown,UAE,Premium,M517,Dark,Action,TV Show,31,51,2025-08-15,4,Tablet,Incomplete
+10002,U841,Ella Turner,USA,Standard,M302,Extraction,Thriller,TV Show,40,52,2025-08-25,1,Mobile,Incomplete
+10003,U121,Sophia Hall,India,Free,M747,Jawan,Sci-Fi,TV Show,33,50,2025-10-05,2,Smart TV,Incomplete
+10004,U461,Isabella Thomas,Canada,Free,M247,The Mandalorian,Fantasy,Movie,43,83,2025-09-17,4,Smart TV,Incomplete
+10005,U307,Meera Kapoor,UAE,Premium,M683,Vikings,Crime,Movie,47,49,2025-08-27,4,Laptop,Completed
+10006,U532,Benjamin Scott,UK,Standard,M737,Black Mirror,Action,TV Show,18,32,2025-08-16,3,Smart TV,Incomplete
+10007,U543,Meera Kapoor,UK,Free,M218,Peaky Blinders,Crime,Movie,17,28,2025-08-31,1,Tablet,Incomplete
+10008,U569,Lily Martin,Canada,Free,M781,Dark,Adventure,Movie,67,92,2025-10-22,4,Mobile,Incomplete
+10009,U560,Ryan Moore,UK,Free,M589,Friends,Comedy,Movie,150,172,2025-09-16,1,Tablet,Incomplete
+10010,U429,Sarah Lee,Australia,Free,M930,Money Heist,Romance,Movie,86,148,2025-08-28,4,Smart TV,Incomplete
+10011,U581,Meera Kapoor,Japan,Free,M731,Friends,Sci-Fi,Movie,67,91,2025-10-26,4,Laptop,Incomplete
+10012,U920,Ethan Davis,USA,Standard,M384,The Witcher,Sci-Fi,Movie,92,144,2025-08-18,1,Mobile,Incomplete
+10013,U131,Ryan Moore,Canada,Standard,M922,The Boys,Crime,TV Show,27,37,2025-08-25,5,Smart TV,Incomplete
+10014,U751,Diya Reddy,UAE,Premium,M637,The Witcher,Action,TV Show,29,36,2025-10-24,4,Laptop,Incomplete
+10015,U308,Saanvi Jain,UAE,Premium,M416,The Office,Romance,Movie,89,100,2025-10-19,1,Tablet,Incomplete
+10016,U763,David Wilson,USA,Free,M354,Squid Game,Fantasy,TV Show,49,55,2025-08-16,3,Tablet,Incomplete
+10017,U749,Emma Johnson,Australia,Premium,M100,The Mandalorian,Thriller,TV Show,26,44,2025-10-24,3,Smart TV,Incomplete
+10018,U889,Lucas Green,UK,Premium,M558,Narcos,Sci-Fi,Movie,110,158,2025-10-27,4,Tablet,Incomplete
+10019,U848,Ryan Moore,Australia,Premium,M248,Breaking Bad,Fantasy,Movie,28,48,2025-10-23,4,Tablet,Incomplete
+10020,U158,Arnav Joshi,Australia,Premium,M498,Sacred Games,Comedy,Movie,132,138,2025-08-18,5,Tablet,Completed
+10021,U260,Arnav Joshi,India,Premium,M183,Bridgerton,Comedy,Movie,63,93,2025-08-27,5,Tablet,Incomplete
+10022,U178,Priya Nair,UK,Premium,M578,Sacred Games,Romance,TV Show,37,58,2025-10-06,2,Smart TV,Incomplete
+10023,U878,Aarav Gupta,USA,Free,M908,Breaking Bad,Action,Movie,97,154,2025-09-22,2,Tablet,Incomplete
+10024,U875,Charlotte Adams,UAE,Standard,M802,The Boys,Crime,TV Show,40,55,2025-09-27,2,Tablet,Incomplete
+10025,U529,Oliver Brown,Australia,Free,M616,House of the Dragon,Crime,Movie,138,141,2025-10-19,4,Mobile,Completed
+10026,U699,Priya Nair,USA,Free,M666,Interstellar,Drama,Movie,108,161,2025-10-09,5,Tablet,Incomplete
+10027,U362,Rohan Singh,Japan,Free,M746,The Mandalorian,Action,TV Show,31,33,2025-09-18,4,Mobile,Completed
+10028,U423,Arnav Joshi,Japan,Free,M326,Dark,Fantasy,TV Show,27,32,2025-08-20,2,Laptop,Incomplete
+10029,U519,Oliver Brown,UAE,Premium,M997,The Boys,Crime,Movie,144,177,2025-09-15,2,Tablet,Incomplete
+10030,U230,Saanvi Jain,Japan,Standard,M603,The Mandalorian,Fantasy,TV Show,22,42,2025-08-25,5,Smart TV,Incomplete
+10031,U891,Ava White,UAE,Premium,M397,Money Heist,Adventure,TV Show,18,35,2025-09-23,1,Tablet,Incomplete
+10032,U362,Neha Verma,UK,Standard,M797,The Office,Comedy,Movie,51,64,2025-08-16,3,Laptop,Incomplete
+10033,U497,Isabella Thomas,Canada,Standard,M436,Friends,Comedy,Movie,96,149,2025-10-06,4,Mobile,Incomplete
+10034,U917,Ethan Davis,Canada,Premium,M111,Dune,Crime,TV Show,29,39,2025-08-24,1,Laptop,Incomplete
+10035,U359,Arjun Mehra,Canada,Free,M354,Squid Game,Drama,TV Show,41,48,2025-10-10,3,Tablet,Incomplete
+10036,U466,Oliver Brown,UAE,Standard,M105,Sacred Games,Romance,Movie,65,130,2025-09-03,3,Tablet,Incomplete
+10037,U784,Diya Reddy,India,Free,M355,Squid Game,Romance,TV Show,17,30,2025-09-14,4,Laptop,Incomplete
+10038,U904,Isabella Thomas,Canada,Premium,M524,Money Heist,Drama,TV Show,22,44,2025-08-01,3,Tablet,Incomplete
+10039,U227,Saanvi Jain,Japan,Free,M672,Dark,Drama,TV Show,17,28,2025-08-09,2,Mobile,Incomplete
+10040,U709,Meera Kapoor,Japan,Free,M477,Reacher,Crime,Movie,61,84,2025-09-29,2,Mobile,Incomplete
+10041,U860,Ava White,India,Premium,M136,Cobra Kai,Fantasy,TV Show,35,54,2025-10-09,3,Laptop,Incomplete
+10042,U991,Priya Nair,India,Free,M175,The Flash,Sci-Fi,TV Show,43,44,2025-10-01,3,Tablet,Completed
+10043,U514,Ryan Moore,Australia,Free,M153,Extraction,Adventure,Movie,98,111,2025-10-13,5,Mobile,Incomplete
+10044,U111,Lucas Green,Australia,Standard,M112,The Boys,Adventure,TV Show,40,45,2025-10-21,4,Tablet,Incomplete
+10045,U390,Ethan Davis,Australia,Standard,M520,Narcos,Sci-Fi,Movie,36,73,2025-08-30,2,Smart TV,Incomplete
+10046,U120,Ethan Davis,Japan,Standard,M223,The Mandalorian,Adventure,TV Show,19,34,2025-10-13,2,Laptop,Incomplete
+10047,U482,Priya Nair,UK,Premium,M136,The Witcher,Drama,TV Show,25,29,2025-09-19,4,Smart TV,Incomplete
+10048,U990,Sarah Lee,Canada,Standard,M265,Wednesday,Fantasy,Movie,149,165,2025-08-07,3,Laptop,Completed
+10049,U662,Meera Kapoor,USA,Premium,M625,Interstellar,Comedy,Movie,43,50,2025-10-09,4,Mobile,Incomplete
+10050,U443,Ryan Moore,Australia,Premium,M442,Money Heist,Sci-Fi,Movie,101,144,2025-08-29,4,Mobile,Incomplete
+10051,U758,David Wilson,USA,Free,M439,Wednesday,Drama,TV Show,16,33,2025-08-12,4,Tablet,Incomplete
+10052,U509,Saanvi Jain,Japan,Standard,M959,Wednesday,Comedy,Movie,114,153,2025-08-01,4,Mobile,Incomplete
+10053,U235,Diya Reddy,Australia,Premium,M696,Narcos,Comedy,TV Show,29,39,2025-09-14,1,Laptop,Incomplete
+10054,U490,Raj Sharma,Australia,Free,M582,Vikings,Comedy,Movie,48,65,2025-09-08,4,Tablet,Incomplete
+10055,U426,David Wilson,Australia,Standard,M405,Breaking Bad,Adventure,TV Show,17,29,2025-10-22,3,Mobile,Incomplete
+10056,U612,Rohan Singh,Japan,Free,M573,Reacher,Thriller,Movie,99,154,2025-09-28,3,Tablet,Incomplete
+10057,U867,Lily Martin,UK,Premium,M377,The Crown,Sci-Fi,Movie,62,69,2025-10-10,1,Mobile,Incomplete
+10058,U220,Isabella Thomas,Japan,Premium,M506,Jawan,Comedy,TV Show,23,36,2025-09-03,1,Smart TV,Incomplete
+10059,U900,Emma Johnson,Japan,Standard,M825,Mirzapur,Romance,Movie,56,97,2025-09-28,2,Laptop,Incomplete
+10060,U280,Harshit Tiwari,India,Standard,M928,The Mandalorian,Romance,TV Show,36,52,2025-10-10,4,Smart TV,Incomplete
+10061,U330,Raj Sharma,Canada,Premium,M760,Money Heist,Comedy,TV Show,34,48,2025-10-22,5,Laptop,Incomplete
+10062,U983,Diya Reddy,India,Standard,M181,Jawan,Adventure,Movie,56,58,2025-10-24,4,Tablet,Completed
+10063,U336,Rohan Singh,India,Premium,M261,Squid Game,Action,TV Show,49,59,2025-09-18,1,Tablet,Incomplete
+10064,U876,Ella Turner,Canada,Free,M249,Avatar,Thriller,TV Show,21,23,2025-08-15,5,Tablet,Completed
+10065,U463,Priya Nair,Australia,Premium,M969,Inception,Sci-Fi,Movie,91,141,2025-09-09,3,Mobile,Incomplete
+10066,U369,Raj Sharma,Canada,Free,M406,Jawan,Thriller,Movie,35,37,2025-08-21,1,Tablet,Completed
+10067,U933,Oliver Brown,UK,Premium,M636,The Boys,Drama,TV Show,24,47,2025-10-19,5,Smart TV,Incomplete
+10068,U298,Rohan Singh,Japan,Premium,M170,Breaking Bad,Fantasy,TV Show,45,49,2025-09-17,2,Smart TV,Completed
+10069,U850,Arjun Mehra,India,Standard,M355,Friends,Fantasy,Movie,84,151,2025-08-14,5,Smart TV,Incomplete
+10070,U154,Harshit Tiwari,UK,Premium,M665,Mirzapur,Romance,Movie,104,132,2025-10-28,3,Mobile,Incomplete
+10071,U613,Ryan Moore,Japan,Premium,M156,Avatar,Action,Movie,75,117,2025-09-05,1,Mobile,Incomplete
+10072,U129,Ella Turner,Australia,Premium,M190,Peaky Blinders,Fantasy,Movie,81,121,2025-10-17,1,Laptop,Incomplete
+10073,U998,Ryan Moore,UK,Standard,M383,Dune,Adventure,Movie,79,85,2025-10-05,3,Smart TV,Completed
+10074,U834,Emma Johnson,UAE,Premium,M790,Black Mirror,Sci-Fi,Movie,140,149,2025-08-24,2,Tablet,Completed
+10075,U796,Harshit Tiwari,UK,Premium,M838,Sacred Games,Fantasy,Movie,165,165,2025-08-29,5,Tablet,Completed
+10076,U556,Noah Clark,UK,Standard,M497,Lucifer,Drama,TV Show,49,54,2025-08-10,1,Tablet,Completed
+10077,U293,Yash Garg,UK,Free,M758,House of the Dragon,Crime,Movie,104,107,2025-10-14,1,Laptop,Completed
+10078,U182,Harshit Tiwari,Japan,Premium,M841,The Mandalorian,Fantasy,Movie,90,160,2025-08-22,3,Tablet,Incomplete
+10079,U686,Charlotte Adams,UK,Premium,M782,Loki,Sci-Fi,TV Show,44,56,2025-10-02,2,Laptop,Incomplete
+10080,U202,Priya Nair,India,Standard,M345,Mirzapur,Drama,Movie,29,42,2025-08-01,4,Laptop,Incomplete
+10081,U212,Noah Clark,USA,Premium,M295,Extraction,Sci-Fi,Movie,123,155,2025-10-27,4,Tablet,Incomplete
+10082,U852,Jack Anderson,Japan,Free,M377,Bridgerton,Action,TV Show,45,53,2025-08-07,4,Tablet,Incomplete
+10083,U386,Benjamin Scott,India,Free,M540,Peaky Blinders,Comedy,Movie,30,50,2025-10-27,2,Laptop,Incomplete
+10084,U191,Lucas Green,India,Premium,M737,House of the Dragon,Action,Movie,28,39,2025-09-20,1,Tablet,Incomplete
+10085,U459,Yash Garg,Japan,Standard,M464,Breaking Bad,Romance,Movie,71,118,2025-09-07,1,Mobile,Incomplete
+10086,U175,Sarah Lee,UK,Free,M976,Loki,Fantasy,Movie,86,163,2025-09-10,4,Mobile,Incomplete
+10087,U294,Meera Kapoor,India,Premium,M129,Bridgerton,Comedy,Movie,40,51,2025-10-01,2,Mobile,Incomplete
+10088,U747,Ava White,UK,Premium,M396,House of the Dragon,Adventure,TV Show,21,35,2025-10-12,4,Tablet,Incomplete
+10089,U779,David Wilson,USA,Free,M940,The Boys,Adventure,Movie,156,171,2025-10-02,2,Laptop,Completed
+10090,U839,Arnav Joshi,UAE,Standard,M448,Inception,Sci-Fi,TV Show,29,44,2025-10-17,3,Laptop,Incomplete
+10091,U266,Emma Johnson,UK,Standard,M977,The Crown,Comedy,TV Show,33,49,2025-08-23,4,Mobile,Incomplete
+10092,U181,Charlotte Adams,Canada,Premium,M574,Loki,Fantasy,TV Show,43,53,2025-08-06,5,Tablet,Incomplete
+10093,U528,Mia Patel,India,Free,M342,Bridgerton,Fantasy,TV Show,25,29,2025-09-05,3,Smart TV,Incomplete
+10094,U982,Ava White,UAE,Free,M540,Interstellar,Action,Movie,68,100,2025-10-28,4,Smart TV,Incomplete
+10095,U879,Mia Patel,UAE,Premium,M457,The Boys,Fantasy,Movie,109,134,2025-09-13,2,Mobile,Incomplete
+10096,U582,Arjun Mehra,India,Standard,M861,The Witcher,Adventure,TV Show,22,29,2025-10-26,3,Tablet,Incomplete
+10097,U950,Mia Patel,USA,Free,M501,Reacher,Crime,TV Show,42,55,2025-10-29,5,Smart TV,Incomplete
+10098,U106,Oliver Brown,UK,Standard,M955,Reacher,Drama,TV Show,19,27,2025-09-17,5,Smart TV,Incomplete
+10099,U837,Yash Garg,Australia,Standard,M556,Inception,Action,TV Show,27,54,2025-09-11,1,Mobile,Incomplete
+10100,U272,Isabella Thomas,India,Free,M845,Dark,Fantasy,Movie,90,146,2025-09-16,1,Mobile,Incomplete
+10101,U869,Aarav Gupta,UK,Free,M728,Sacred Games,Drama,TV Show,12,25,2025-10-04,5,Smart TV,Incomplete
+10102,U221,Sarah Lee,USA,Premium,M955,Black Mirror,Action,TV Show,40,46,2025-10-05,3,Laptop,Incomplete
+10103,U495,Ethan Davis,Canada,Premium,M273,The Boys,Thriller,TV Show,43,46,2025-08-12,2,Laptop,Completed
+10104,U611,Sophia Hall,UK,Free,M252,The 100,Thriller,Movie,59,64,2025-09-19,4,Tablet,Completed
+10105,U971,Sophia Hall,UAE,Free,M229,Friends,Crime,TV Show,27,45,2025-10-21,3,Laptop,Incomplete
+10106,U842,Raj Sharma,Australia,Free,M840,Friends,Adventure,TV Show,56,58,2025-08-06,1,Laptop,Completed
+10107,U287,Lucas Green,Japan,Standard,M142,The Flash,Drama,Movie,128,164,2025-08-29,5,Laptop,Incomplete
+10108,U111,Raj Sharma,India,Premium,M648,Dark,Drama,Movie,50,88,2025-08-08,5,Laptop,Incomplete
+10109,U565,Jack Anderson,USA,Premium,M588,Breaking Bad,Thriller,Movie,47,80,2025-09-24,2,Smart TV,Incomplete
+10110,U386,Aisha Khan,Australia,Standard,M732,Inception,Comedy,TV Show,22,28,2025-08-08,4,Tablet,Incomplete
+10111,U919,Emma Johnson,Japan,Standard,M777,The Mandalorian,Adventure,TV Show,15,22,2025-08-21,2,Tablet,Incomplete
+10112,U416,Arnav Joshi,India,Standard,M557,Wednesday,Crime,TV Show,25,31,2025-08-17,1,Smart TV,Incomplete
+10113,U890,Emma Johnson,Japan,Standard,M483,Dark,Adventure,TV Show,18,22,2025-08-06,1,Smart TV,Incomplete
+10114,U390,Isabella Thomas,USA,Free,M663,Lucifer,Romance,TV Show,15,22,2025-08-22,3,Mobile,Incomplete
+10115,U193,Aisha Khan,Japan,Free,M414,Money Heist,Adventure,TV Show,32,36,2025-08-26,3,Smart TV,Incomplete
+10116,U502,Priya Nair,Japan,Premium,M462,Interstellar,Romance,Movie,109,135,2025-09-04,3,Smart TV,Incomplete
+10117,U833,Diya Reddy,UK,Standard,M275,Inception,Comedy,Movie,18,30,2025-09-16,2,Smart TV,Incomplete
+10118,U766,Benjamin Scott,Canada,Free,M441,The Flash,Thriller,TV Show,31,45,2025-08-23,3,Smart TV,Incomplete
+10119,U138,Meera Kapoor,UAE,Standard,M133,The Mandalorian,Drama,Movie,28,39,2025-08-10,3,Mobile,Incomplete
+10120,U929,Lily Martin,India,Premium,M166,Jawan,Romance,Movie,37,69,2025-09-17,3,Laptop,Incomplete
+10121,U692,Ella Turner,Canada,Premium,M159,Narcos,Drama,TV Show,44,60,2025-10-01,3,Mobile,Incomplete
+10122,U338,Ava White,Canada,Free,M732,Dune,Fantasy,TV Show,25,35,2025-08-19,4,Laptop,Incomplete
+10123,U677,Ella Turner,UK,Free,M808,Squid Game,Comedy,TV Show,17,24,2025-10-06,3,Tablet,Incomplete
+10124,U316,Charlotte Adams,UK,Free,M673,Loki,Crime,Movie,147,160,2025-09-26,5,Tablet,Completed
+10125,U958,David Wilson,Canada,Standard,M590,Peaky Blinders,Romance,Movie,24,34,2025-09-29,2,Laptop,Incomplete
+10126,U694,Benjamin Scott,USA,Standard,M359,The Mandalorian,Romance,Movie,35,65,2025-09-20,2,Mobile,Incomplete
+10127,U158,Isabella Thomas,UK,Standard,M241,Mirzapur,Crime,Movie,163,171,2025-10-25,1,Mobile,Completed
+10128,U396,Charlotte Adams,Japan,Premium,M971,Money Heist,Crime,Movie,43,54,2025-09-04,2,Tablet,Incomplete
+10129,U407,Ryan Moore,Australia,Standard,M762,Friends,Romance,TV Show,24,38,2025-10-12,1,Tablet,Incomplete
+10130,U834,Oliver Brown,Japan,Standard,M960,The Flash,Drama,Movie,83,148,2025-10-29,4,Smart TV,Incomplete
+10131,U640,Lucas Green,Australia,Free,M463,Vikings,Crime,TV Show,36,51,2025-09-30,1,Mobile,Incomplete
+10132,U834,Priya Nair,India,Standard,M666,Loki,Fantasy,TV Show,31,50,2025-10-02,5,Laptop,Incomplete
+10133,U521,Ava White,Japan,Free,M416,Black Mirror,Thriller,Movie,156,179,2025-10-12,3,Smart TV,Incomplete
+10134,U280,Aarav Gupta,USA,Free,M688,Jawan,Sci-Fi,TV Show,40,50,2025-08-27,1,Laptop,Incomplete
+10135,U664,Priya Nair,Australia,Premium,M599,The Crown,Comedy,Movie,136,167,2025-10-17,2,Mobile,Incomplete
+10136,U528,Emma Johnson,UAE,Premium,M976,Interstellar,Romance,Movie,65,106,2025-09-27,2,Tablet,Incomplete
+10137,U689,Lily Martin,USA,Free,M262,The Flash,Sci-Fi,TV Show,44,59,2025-09-18,4,Tablet,Incomplete
+10138,U887,Charlotte Adams,Australia,Free,M366,Bridgerton,Sci-Fi,Movie,86,166,2025-10-01,4,Tablet,Incomplete
+10139,U150,Charlotte Adams,Australia,Premium,M797,Wednesday,Drama,TV Show,17,31,2025-10-26,2,Mobile,Incomplete
+10140,U788,Yash Garg,India,Standard,M235,The Flash,Adventure,Movie,47,56,2025-10-27,4,Laptop,Incomplete
+10141,U321,Lily Martin,Canada,Standard,M758,Friends,Sci-Fi,Movie,34,63,2025-10-08,3,Tablet,Incomplete
+10142,U271,Jack Anderson,Japan,Standard,M805,The Mandalorian,Action,Movie,108,117,2025-09-19,1,Mobile,Completed
+10143,U921,Harshit Tiwari,India,Premium,M505,Loki,Drama,TV Show,32,52,2025-09-26,3,Mobile,Incomplete
+10144,U440,Lily Martin,Japan,Standard,M176,The Witcher,Comedy,TV Show,16,30,2025-10-19,1,Mobile,Incomplete
+10145,U789,Sarah Lee,UAE,Free,M979,The Witcher,Adventure,Movie,58,60,2025-08-13,2,Smart TV,Completed
+10146,U892,Priya Nair,Japan,Premium,M152,Peaky Blinders,Adventure,TV Show,24,44,2025-09-26,2,Mobile,Incomplete
+10147,U927,Yash Garg,UK,Standard,M132,Inception,Crime,Movie,145,157,2025-10-27,5,Smart TV,Completed
+10148,U273,Ava White,UAE,Standard,M223,Mirzapur,Action,TV Show,22,24,2025-09-21,2,Tablet,Completed
+10149,U572,Ava White,India,Standard,M163,The Crown,Crime,TV Show,27,34,2025-10-01,4,Tablet,Incomplete
+10150,U861,Arjun Mehra,Japan,Free,M492,Spider-Man: No Way Home,Fantasy,Movie,62,80,2025-08-05,2,Tablet,Incomplete
+10151,U472,Yash Garg,India,Premium,M323,Avatar,Fantasy,TV Show,46,47,2025-10-17,4,Mobile,Completed
+10152,U167,Oliver Brown,Japan,Standard,M446,Jawan,Fantasy,Movie,93,132,2025-09-15,3,Tablet,Incomplete
+10153,U494,Mia Patel,Japan,Standard,M505,Reacher,Sci-Fi,TV Show,32,45,2025-10-13,4,Mobile,Incomplete
+10154,U932,Aisha Khan,UAE,Free,M416,Avatar,Romance,Movie,82,139,2025-10-30,1,Tablet,Incomplete
+10155,U204,Ella Turner,India,Premium,M144,Inception,Romance,Movie,25,35,2025-09-29,5,Tablet,Incomplete
+10156,U777,Aarav Gupta,UK,Standard,M724,Wednesday,Crime,Movie,87,145,2025-08-29,3,Tablet,Incomplete
+10157,U179,Lily Martin,Japan,Free,M536,Squid Game,Thriller,Movie,56,93,2025-10-23,3,Mobile,Incomplete
+10158,U749,Arjun Mehra,India,Premium,M795,Dark,Romance,Movie,101,125,2025-10-09,3,Mobile,Incomplete
+10159,U374,Jack Anderson,UK,Standard,M482,Game of Thrones,Comedy,TV Show,22,34,2025-09-15,1,Tablet,Incomplete
+10160,U529,Rohan Singh,Japan,Free,M172,Stranger Things,Comedy,Movie,87,157,2025-09-21,3,Smart TV,Incomplete
+10161,U821,Isabella Thomas,Japan,Premium,M876,Jawan,Sci-Fi,TV Show,27,52,2025-10-16,1,Smart TV,Incomplete
+10162,U182,Oliver Brown,USA,Standard,M296,Extraction,Comedy,TV Show,44,48,2025-09-28,3,Mobile,Completed
+10163,U462,Raj Sharma,Japan,Premium,M293,The Boys,Action,TV Show,26,46,2025-09-04,4,Laptop,Incomplete
+10164,U337,Ryan Moore,USA,Premium,M938,Wednesday,Action,Movie,78,130,2025-09-11,1,Laptop,Incomplete
+10165,U380,Isabella Thomas,Australia,Premium,M239,House of the Dragon,Romance,TV Show,25,41,2025-09-21,3,Tablet,Incomplete
+10166,U905,Jack Anderson,Japan,Free,M406,Inception,Romance,TV Show,22,22,2025-10-01,1,Laptop,Completed
+10167,U623,David Wilson,UK,Premium,M585,Black Mirror,Crime,Movie,34,46,2025-09-22,1,Tablet,Incomplete
+10168,U715,Benjamin Scott,Japan,Standard,M235,Dark,Romance,Movie,86,96,2025-08-21,3,Smart TV,Incomplete
+10169,U599,Sarah Lee,UK,Free,M889,Stranger Things,Adventure,Movie,40,40,2025-08-25,1,Smart TV,Completed
+10170,U459,Neha Verma,Japan,Free,M172,Interstellar,Crime,TV Show,42,45,2025-09-17,5,Smart TV,Completed
+10171,U681,Ella Turner,UAE,Free,M612,Jawan,Thriller,Movie,88,98,2025-08-12,1,Mobile,Incomplete
+10172,U206,Jack Anderson,Japan,Free,M653,Bridgerton,Thriller,Movie,65,99,2025-09-07,3,Laptop,Incomplete
+10173,U727,Isabella Thomas,Japan,Premium,M812,The Office,Romance,TV Show,16,24,2025-08-24,5,Tablet,Incomplete
+10174,U952,Ryan Moore,UAE,Standard,M909,The Witcher,Thriller,TV Show,53,56,2025-10-18,1,Tablet,Completed
+10175,U931,Ryan Moore,USA,Standard,M987,Spider-Man: No Way Home,Sci-Fi,TV Show,18,23,2025-09-29,3,Mobile,Incomplete
+10176,U176,Ella Turner,Canada,Standard,M919,Mirzapur,Drama,TV Show,46,49,2025-08-27,5,Smart TV,Completed
+10177,U272,Isabella Thomas,Australia,Free,M112,Vikings,Action,TV Show,12,22,2025-08-18,4,Mobile,Incomplete
+10178,U225,Mia Patel,Australia,Premium,M556,The Boys,Romance,Movie,61,108,2025-09-04,4,Mobile,Incomplete
+10179,U145,Saanvi Jain,India,Standard,M502,The Boys,Drama,TV Show,45,53,2025-08-26,2,Tablet,Incomplete
+10180,U432,Noah Clark,UAE,Standard,M239,Spider-Man: No Way Home,Adventure,TV Show,18,32,2025-09-14,1,Laptop,Incomplete
+10181,U619,David Wilson,USA,Standard,M908,The Crown,Adventure,TV Show,19,32,2025-09-08,1,Smart TV,Incomplete
+10182,U745,Arnav Joshi,Canada,Premium,M248,Narcos,Drama,Movie,85,110,2025-10-20,3,Tablet,Incomplete
+10183,U241,Noah Clark,Canada,Premium,M946,Dark,Thriller,Movie,131,135,2025-09-08,3,Smart TV,Completed
+10184,U884,Ella Turner,UAE,Free,M962,The Flash,Thriller,TV Show,22,42,2025-08-24,1,Tablet,Incomplete
+10185,U849,Ryan Moore,USA,Standard,M175,Dune,Sci-Fi,TV Show,41,44,2025-08-01,4,Tablet,Completed
+10186,U415,Meera Kapoor,Canada,Standard,M867,Extraction,Comedy,TV Show,48,52,2025-08-05,2,Mobile,Completed
+10187,U205,Sarah Lee,Canada,Standard,M501,Inception,Thriller,Movie,70,104,2025-10-01,4,Mobile,Incomplete
+10188,U514,Mia Patel,UK,Free,M116,Lucifer,Comedy,TV Show,27,47,2025-08-12,1,Laptop,Incomplete
+10189,U158,Sarah Lee,India,Premium,M251,The Office,Comedy,Movie,112,171,2025-10-26,4,Laptop,Incomplete
+10190,U309,Charlotte Adams,UK,Standard,M747,Avatar,Fantasy,Movie,37,41,2025-08-04,4,Laptop,Completed
+10191,U229,Ethan Davis,India,Free,M682,Lucifer,Comedy,Movie,22,35,2025-10-16,3,Tablet,Incomplete
+10192,U336,Benjamin Scott,Canada,Free,M922,Friends,Action,Movie,106,176,2025-08-15,5,Smart TV,Incomplete
+10193,U248,Priya Nair,Australia,Free,M303,Inception,Adventure,TV Show,36,38,2025-08-21,3,Mobile,Completed
+10194,U701,Neha Verma,Japan,Free,M162,House of the Dragon,Fantasy,Movie,65,71,2025-10-23,4,Tablet,Completed
+10195,U576,Priya Nair,UK,Free,M860,Lucifer,Thriller,TV Show,21,36,2025-08-17,3,Laptop,Incomplete
+10196,U497,Benjamin Scott,Australia,Free,M371,Friends,Sci-Fi,Movie,146,154,2025-10-03,3,Smart TV,Completed
+10197,U823,Harshit Tiwari,UK,Premium,M104,Cobra Kai,Thriller,TV Show,29,47,2025-08-21,3,Mobile,Incomplete
+10198,U526,Aisha Khan,India,Premium,M303,Interstellar,Thriller,TV Show,41,52,2025-09-11,5,Tablet,Incomplete
+10199,U892,Ryan Moore,Japan,Premium,M147,Bridgerton,Sci-Fi,Movie,126,165,2025-09-23,5,Smart TV,Incomplete
+10200,U121,Diya Reddy,Japan,Premium,M600,Dark,Comedy,Movie,135,158,2025-10-27,3,Smart TV,Incomplete
+10201,U671,Yash Garg,Japan,Standard,M878,Lucifer,Drama,TV Show,26,27,2025-09-04,5,Laptop,Completed
+10202,U210,Aisha Khan,India,Premium,M847,The Witcher,Adventure,TV Show,14,22,2025-09-18,5,Laptop,Incomplete
+10203,U804,Lucas Green,India,Free,M150,Jawan,Crime,TV Show,31,34,2025-08-23,2,Smart TV,Completed
+10204,U268,Yash Garg,Canada,Standard,M628,Money Heist,Comedy,TV Show,12,24,2025-08-14,4,Laptop,Incomplete
+10205,U593,Arnav Joshi,Japan,Free,M624,Peaky Blinders,Romance,Movie,85,121,2025-10-22,1,Tablet,Incomplete
+10206,U561,Lily Martin,Australia,Standard,M961,Lucifer,Crime,Movie,43,43,2025-10-26,5,Smart TV,Completed
+10207,U141,Raj Sharma,USA,Premium,M709,Narcos,Drama,Movie,104,156,2025-08-14,3,Tablet,Incomplete
+10208,U398,Ava White,UK,Free,M344,Game of Thrones,Adventure,TV Show,13,22,2025-09-02,5,Tablet,Incomplete
+10209,U234,Yash Garg,Canada,Free,M713,Sacred Games,Drama,TV Show,20,23,2025-09-23,3,Mobile,Incomplete
+10210,U282,Yash Garg,UK,Standard,M944,The Office,Comedy,TV Show,39,57,2025-09-10,3,Smart TV,Incomplete
+10211,U589,Lucas Green,UAE,Premium,M527,The Mandalorian,Sci-Fi,TV Show,27,37,2025-09-14,1,Mobile,Incomplete
+10212,U561,Mia Patel,UK,Standard,M474,Lucifer,Action,Movie,44,66,2025-10-17,5,Smart TV,Incomplete
+10213,U101,Isabella Thomas,UK,Premium,M464,Reacher,Crime,TV Show,31,44,2025-10-26,4,Tablet,Incomplete
+10214,U351,Sarah Lee,Canada,Free,M298,House of the Dragon,Comedy,TV Show,31,43,2025-08-07,1,Laptop,Incomplete
+10215,U118,Mia Patel,India,Premium,M886,Squid Game,Drama,Movie,137,149,2025-10-10,1,Mobile,Completed
+10216,U114,Jack Anderson,USA,Free,M546,Vikings,Crime,TV Show,33,51,2025-09-15,4,Tablet,Incomplete
+10217,U333,Ava White,UAE,Premium,M819,Inception,Romance,TV Show,57,59,2025-10-15,1,Smart TV,Completed
+10218,U534,Raj Sharma,India,Free,M452,Squid Game,Thriller,Movie,66,74,2025-08-07,5,Laptop,Incomplete
+10219,U135,Raj Sharma,Australia,Standard,M641,Wednesday,Fantasy,TV Show,25,44,2025-09-29,5,Mobile,Incomplete
+10220,U512,Lucas Green,Japan,Free,M731,The 100,Crime,TV Show,38,55,2025-08-05,3,Laptop,Incomplete
+10221,U334,Aisha Khan,UAE,Free,M337,Narcos,Thriller,TV Show,40,54,2025-08-26,1,Tablet,Incomplete
+10222,U131,Aarav Gupta,USA,Standard,M596,Game of Thrones,Drama,Movie,107,172,2025-09-29,5,Tablet,Incomplete
+10223,U226,Noah Clark,Canada,Free,M361,The Mandalorian,Crime,TV Show,22,37,2025-09-11,3,Mobile,Incomplete
+10224,U504,Isabella Thomas,USA,Standard,M321,Friends,Adventure,TV Show,39,48,2025-09-05,2,Smart TV,Incomplete
+10225,U247,Mia Patel,UAE,Free,M380,Peaky Blinders,Sci-Fi,TV Show,23,23,2025-09-13,5,Laptop,Completed
+10226,U333,Priya Nair,Australia,Free,M751,Wednesday,Crime,Movie,36,47,2025-08-25,4,Tablet,Incomplete
+10227,U654,Arjun Mehra,Japan,Standard,M236,Avatar,Sci-Fi,TV Show,12,22,2025-08-12,3,Laptop,Incomplete
+10228,U846,Meera Kapoor,India,Standard,M798,The Witcher,Comedy,TV Show,43,47,2025-09-13,4,Tablet,Completed
+10229,U825,David Wilson,Japan,Premium,M861,The 100,Comedy,Movie,51,97,2025-08-15,4,Laptop,Incomplete
+10230,U145,Rohan Singh,India,Standard,M936,Inception,Comedy,Movie,137,167,2025-08-10,1,Mobile,Incomplete
+10231,U631,Harshit Tiwari,Japan,Premium,M434,Bridgerton,Comedy,Movie,25,28,2025-08-13,4,Mobile,Incomplete
+10232,U897,David Wilson,Canada,Free,M415,Extraction,Sci-Fi,Movie,157,158,2025-09-10,2,Tablet,Completed
+10233,U776,Sophia Hall,UK,Free,M295,Reacher,Adventure,TV Show,38,45,2025-08-10,1,Mobile,Incomplete
+10234,U564,Harshit Tiwari,USA,Standard,M973,Loki,Action,Movie,28,42,2025-10-24,1,Smart TV,Incomplete
+10235,U158,Neha Verma,Canada,Premium,M925,House of the Dragon,Adventure,TV Show,31,35,2025-09-12,1,Mobile,Incomplete
+10236,U287,Emma Johnson,Australia,Standard,M930,Black Mirror,Sci-Fi,Movie,92,145,2025-10-21,5,Tablet,Incomplete
+10237,U204,Benjamin Scott,UK,Premium,M399,Dune,Crime,Movie,92,105,2025-10-22,5,Laptop,Incomplete
+10238,U594,Saanvi Jain,Japan,Standard,M483,Vikings,Sci-Fi,Movie,139,148,2025-09-21,4,Smart TV,Completed
+10239,U574,Lily Martin,Canada,Premium,M940,Cobra Kai,Thriller,TV Show,47,54,2025-09-14,4,Laptop,Incomplete
+10240,U936,Neha Verma,UAE,Standard,M168,House of the Dragon,Crime,Movie,53,87,2025-08-02,5,Laptop,Incomplete
+10241,U173,Neha Verma,Japan,Free,M825,Extraction,Sci-Fi,Movie,26,48,2025-10-14,5,Smart TV,Incomplete
+10242,U347,Arjun Mehra,USA,Premium,M330,Spider-Man: No Way Home,Comedy,TV Show,35,36,2025-08-22,5,Smart TV,Completed
+10243,U223,Harshit Tiwari,India,Free,M443,Peaky Blinders,Romance,TV Show,12,25,2025-08-25,1,Smart TV,Incomplete
+10244,U213,Priya Nair,USA,Premium,M945,The Witcher,Romance,Movie,108,109,2025-08-14,2,Tablet,Completed
+10245,U905,David Wilson,UAE,Premium,M926,Stranger Things,Drama,TV Show,22,24,2025-08-23,1,Laptop,Completed
+10246,U800,Ryan Moore,USA,Premium,M584,The 100,Romance,TV Show,43,57,2025-09-10,1,Smart TV,Incomplete
+10247,U792,Neha Verma,UAE,Standard,M808,Lucifer,Comedy,Movie,94,156,2025-10-19,3,Mobile,Incomplete
+10248,U696,Jack Anderson,Australia,Free,M777,The 100,Action,TV Show,17,34,2025-08-02,2,Tablet,Incomplete
+10249,U990,Isabella Thomas,UAE,Premium,M809,Extraction,Thriller,Movie,112,135,2025-10-10,2,Laptop,Incomplete
+10250,U655,Oliver Brown,Australia,Free,M135,The 100,Drama,TV Show,17,22,2025-09-12,3,Laptop,Incomplete
+10251,U771,Aarav Gupta,Australia,Premium,M195,Dune,Drama,Movie,74,147,2025-08-07,3,Laptop,Incomplete
+10252,U619,Neha Verma,USA,Standard,M809,Vikings,Crime,Movie,44,58,2025-10-30,5,Smart TV,Incomplete
+10253,U540,Diya Reddy,Canada,Premium,M349,Sacred Games,Romance,TV Show,13,20,2025-10-18,3,Smart TV,Incomplete
+10254,U576,Jack Anderson,UK,Free,M876,Money Heist,Fantasy,Movie,154,156,2025-10-14,3,Smart TV,Completed
+10255,U206,Ella Turner,India,Standard,M334,Spider-Man: No Way Home,Adventure,Movie,65,83,2025-10-07,4,Tablet,Incomplete
+10256,U642,Saanvi Jain,UK,Standard,M122,Vikings,Fantasy,Movie,54,54,2025-10-06,2,Tablet,Completed
+10257,U506,David Wilson,UK,Free,M530,Money Heist,Comedy,Movie,64,120,2025-10-26,1,Laptop,Incomplete
+10258,U555,Priya Nair,Australia,Free,M904,Avatar,Drama,Movie,149,166,2025-10-04,4,Laptop,Incomplete
+10259,U867,Ethan Davis,Australia,Premium,M754,The Crown,Action,TV Show,29,30,2025-08-16,3,Mobile,Completed
+10260,U849,Yash Garg,Canada,Free,M316,Money Heist,Thriller,Movie,37,56,2025-10-08,2,Tablet,Incomplete
+10261,U820,Meera Kapoor,Japan,Premium,M956,Inception,Drama,TV Show,35,48,2025-10-28,1,Mobile,Incomplete
+10262,U175,Ava White,USA,Premium,M296,Friends,Action,Movie,71,102,2025-08-23,2,Laptop,Incomplete
+10263,U407,Sophia Hall,UK,Free,M475,Peaky Blinders,Adventure,Movie,88,116,2025-08-29,4,Mobile,Incomplete
+10264,U325,Neha Verma,USA,Standard,M601,Squid Game,Sci-Fi,Movie,19,37,2025-09-04,2,Tablet,Incomplete
+10265,U784,Priya Nair,USA,Free,M673,Loki,Action,Movie,68,110,2025-10-04,2,Laptop,Incomplete
+10266,U807,Ethan Davis,UAE,Free,M848,Lucifer,Thriller,TV Show,48,60,2025-09-28,2,Mobile,Incomplete
+10267,U520,Harshit Tiwari,UK,Premium,M585,Vikings,Adventure,Movie,54,65,2025-08-04,2,Smart TV,Incomplete
+10268,U826,Rohan Singh,Japan,Free,M651,The Office,Drama,TV Show,42,42,2025-08-04,3,Tablet,Completed
+10269,U892,Priya Nair,India,Standard,M704,Stranger Things,Action,Movie,21,33,2025-10-04,4,Smart TV,Incomplete
+10270,U206,Arjun Mehra,UK,Premium,M749,The Crown,Adventure,Movie,66,81,2025-08-26,2,Mobile,Incomplete
+10271,U280,Rohan Singh,Australia,Free,M443,Dune,Drama,Movie,17,31,2025-08-23,1,Mobile,Incomplete
+10272,U267,Lucas Green,Australia,Standard,M914,Sacred Games,Crime,TV Show,15,28,2025-08-10,2,Smart TV,Incomplete
+10273,U811,Charlotte Adams,Canada,Free,M210,The Mandalorian,Comedy,TV Show,18,22,2025-10-11,1,Smart TV,Incomplete
+10274,U468,Yash Garg,UAE,Free,M909,The Boys,Sci-Fi,TV Show,21,27,2025-08-26,3,Smart TV,Incomplete
+10275,U210,David Wilson,Australia,Standard,M762,Inception,Fantasy,TV Show,49,60,2025-10-13,3,Smart TV,Incomplete
+10276,U149,Saanvi Jain,Canada,Free,M428,Stranger Things,Sci-Fi,TV Show,40,59,2025-10-27,5,Laptop,Incomplete
+10277,U623,Sophia Hall,USA,Standard,M362,Interstellar,Fantasy,Movie,77,112,2025-10-23,5,Laptop,Incomplete
+10278,U974,Mia Patel,India,Standard,M948,The Flash,Thriller,TV Show,24,36,2025-09-04,4,Smart TV,Incomplete
+10279,U785,Raj Sharma,USA,Free,M643,Reacher,Thriller,TV Show,32,49,2025-08-28,4,Tablet,Incomplete
+10280,U101,Charlotte Adams,UAE,Standard,M683,Money Heist,Action,Movie,34,47,2025-10-30,3,Smart TV,Incomplete
+10281,U738,Ella Turner,Australia,Standard,M756,Vikings,Comedy,TV Show,40,44,2025-10-17,3,Smart TV,Completed
+10282,U406,Ava White,Japan,Standard,M185,Dark,Thriller,TV Show,44,47,2025-10-01,1,Mobile,Completed
+10283,U879,Rohan Singh,Canada,Standard,M469,Interstellar,Adventure,TV Show,22,24,2025-09-03,2,Mobile,Completed
+10284,U314,Emma Johnson,UK,Free,M610,Extraction,Thriller,Movie,83,144,2025-10-27,5,Laptop,Incomplete
+10285,U350,Priya Nair,India,Free,M836,Narcos,Sci-Fi,Movie,101,137,2025-08-31,4,Laptop,Incomplete
+10286,U840,Diya Reddy,Japan,Free,M711,Peaky Blinders,Adventure,TV Show,37,60,2025-08-02,2,Smart TV,Incomplete
+10287,U704,Mia Patel,India,Premium,M923,Dark,Fantasy,TV Show,37,45,2025-08-08,4,Mobile,Incomplete
+10288,U492,Neha Verma,USA,Premium,M925,Squid Game,Action,Movie,162,162,2025-10-09,5,Mobile,Completed
+10289,U957,Noah Clark,USA,Standard,M483,Mirzapur,Adventure,Movie,116,118,2025-10-10,1,Tablet,Completed
+10290,U885,Diya Reddy,Japan,Premium,M853,Bridgerton,Fantasy,TV Show,31,51,2025-08-07,1,Laptop,Incomplete
+10291,U142,Aarav Gupta,Australia,Standard,M129,Vikings,Crime,Movie,44,72,2025-08-14,5,Smart TV,Incomplete
+10292,U452,Aarav Gupta,Canada,Free,M814,Peaky Blinders,Action,Movie,87,148,2025-08-13,3,Laptop,Incomplete
+10293,U627,Yash Garg,Japan,Premium,M427,Mirzapur,Romance,Movie,28,37,2025-10-17,4,Laptop,Incomplete
+10294,U976,Mia Patel,India,Premium,M771,Game of Thrones,Sci-Fi,Movie,75,108,2025-08-09,2,Mobile,Incomplete
+10295,U503,Mia Patel,UK,Standard,M175,Interstellar,Crime,Movie,105,119,2025-10-06,1,Smart TV,Incomplete
+10296,U941,Sarah Lee,UK,Standard,M597,The Office,Romance,TV Show,27,29,2025-08-21,4,Mobile,Completed
+10297,U269,David Wilson,Canada,Standard,M906,Reacher,Fantasy,TV Show,30,46,2025-09-15,2,Tablet,Incomplete
+10298,U623,David Wilson,UAE,Free,M706,The Flash,Comedy,Movie,135,138,2025-08-22,4,Laptop,Completed
+10299,U717,Yash Garg,Japan,Standard,M237,Dark,Action,TV Show,15,23,2025-09-29,3,Laptop,Incomplete
+10300,U227,Jack Anderson,Australia,Standard,M742,Friends,Sci-Fi,TV Show,23,29,2025-09-23,2,Mobile,Incomplete
+10301,U254,Arnav Joshi,Canada,Free,M774,The Flash,Sci-Fi,Movie,133,169,2025-09-12,4,Smart TV,Incomplete
+10302,U782,Ethan Davis,UAE,Standard,M485,Narcos,Crime,Movie,44,44,2025-08-07,1,Tablet,Completed
+10303,U921,Meera Kapoor,India,Premium,M930,Vikings,Sci-Fi,TV Show,45,50,2025-08-25,3,Smart TV,Completed
+10304,U402,Jack Anderson,Australia,Free,M764,The Office,Crime,TV Show,22,44,2025-09-30,3,Tablet,Incomplete
+10305,U972,Ryan Moore,USA,Free,M354,Black Mirror,Romance,Movie,122,157,2025-08-30,1,Tablet,Incomplete
+10306,U153,Jack Anderson,Canada,Standard,M184,Wednesday,Fantasy,Movie,35,59,2025-09-09,1,Mobile,Incomplete
+10307,U415,Aarav Gupta,Japan,Premium,M668,Mirzapur,Fantasy,TV Show,36,37,2025-08-21,4,Tablet,Completed
+10308,U323,Meera Kapoor,Canada,Free,M970,Extraction,Crime,TV Show,18,30,2025-09-03,4,Mobile,Incomplete
+10309,U200,Diya Reddy,Japan,Standard,M489,Jawan,Comedy,TV Show,44,45,2025-08-31,4,Laptop,Completed
+10310,U277,Ethan Davis,Canada,Free,M629,The 100,Thriller,Movie,49,70,2025-08-09,5,Smart TV,Incomplete
+10311,U773,Priya Nair,UK,Standard,M121,Loki,Fantasy,Movie,40,71,2025-10-29,2,Tablet,Incomplete
+10312,U112,Charlotte Adams,Australia,Free,M688,The 100,Adventure,TV Show,25,46,2025-09-06,1,Smart TV,Incomplete
+10313,U699,Raj Sharma,USA,Free,M110,The 100,Drama,Movie,108,151,2025-09-06,2,Mobile,Incomplete
+10314,U407,Ava White,Japan,Premium,M693,Narcos,Fantasy,TV Show,32,46,2025-10-21,2,Laptop,Incomplete
+10315,U603,Sarah Lee,India,Premium,M377,Dune,Comedy,Movie,43,73,2025-10-11,4,Mobile,Incomplete
+10316,U169,Meera Kapoor,Japan,Premium,M176,Extraction,Fantasy,TV Show,53,53,2025-10-09,2,Tablet,Completed
+10317,U794,Meera Kapoor,USA,Premium,M772,Peaky Blinders,Adventure,TV Show,25,35,2025-09-21,3,Laptop,Incomplete
+10318,U138,Sarah Lee,Japan,Free,M270,Interstellar,Action,Movie,124,168,2025-10-09,2,Smart TV,Incomplete
+10319,U715,Ryan Moore,India,Standard,M991,Reacher,Action,Movie,92,105,2025-08-05,4,Mobile,Incomplete
+10320,U761,Priya Nair,Australia,Free,M857,Reacher,Romance,TV Show,35,51,2025-08-21,2,Smart TV,Incomplete
+10321,U799,Saanvi Jain,Japan,Standard,M450,Money Heist,Adventure,Movie,72,110,2025-10-15,3,Smart TV,Incomplete
+10322,U114,Arnav Joshi,Japan,Standard,M460,Reacher,Action,TV Show,51,54,2025-08-20,5,Laptop,Completed
+10323,U879,Diya Reddy,Japan,Premium,M638,Stranger Things,Action,Movie,56,58,2025-10-14,1,Tablet,Completed
+10324,U114,Isabella Thomas,Japan,Premium,M221,Breaking Bad,Fantasy,TV Show,19,20,2025-09-25,4,Smart TV,Completed
+10325,U966,Noah Clark,India,Free,M749,The Boys,Thriller,Movie,87,121,2025-09-24,1,Smart TV,Incomplete
+10326,U386,Mia Patel,India,Premium,M414,Stranger Things,Thriller,TV Show,28,51,2025-10-21,5,Tablet,Incomplete
+10327,U775,Neha Verma,India,Premium,M475,The Boys,Adventure,TV Show,32,55,2025-09-03,3,Tablet,Incomplete
+10328,U518,Rohan Singh,Australia,Free,M786,Narcos,Sci-Fi,TV Show,24,40,2025-10-09,4,Smart TV,Incomplete
+10329,U411,Neha Verma,UK,Premium,M354,The Crown,Romance,Movie,71,83,2025-09-16,2,Tablet,Incomplete
+10330,U383,Saanvi Jain,India,Standard,M584,Dark,Thriller,Movie,27,28,2025-09-26,2,Smart TV,Completed
+10331,U740,Charlotte Adams,India,Premium,M910,Cobra Kai,Fantasy,TV Show,43,55,2025-09-11,1,Laptop,Incomplete
+10332,U289,Aisha Khan,USA,Free,M405,The Office,Thriller,Movie,35,67,2025-10-17,2,Laptop,Incomplete
+10333,U572,Charlotte Adams,India,Free,M591,Game of Thrones,Thriller,TV Show,19,30,2025-08-14,2,Laptop,Incomplete
+10334,U906,Priya Nair,USA,Standard,M399,The Flash,Comedy,TV Show,42,43,2025-09-20,3,Mobile,Completed
+10335,U671,Oliver Brown,UK,Premium,M995,Jawan,Sci-Fi,TV Show,24,24,2025-09-10,1,Laptop,Completed
+10336,U413,Priya Nair,India,Premium,M740,Dark,Sci-Fi,Movie,38,54,2025-10-30,1,Laptop,Incomplete
+10337,U118,Ella Turner,Japan,Free,M399,Mirzapur,Thriller,Movie,98,98,2025-09-02,2,Tablet,Completed
+10338,U102,Arnav Joshi,India,Premium,M479,House of the Dragon,Sci-Fi,TV Show,17,20,2025-10-26,3,Tablet,Incomplete
+10339,U788,Raj Sharma,UK,Standard,M235,Squid Game,Thriller,TV Show,36,55,2025-09-20,4,Mobile,Incomplete
+10340,U789,Arnav Joshi,Australia,Premium,M561,Narcos,Thriller,Movie,127,175,2025-09-21,1,Tablet,Incomplete
+10341,U498,Raj Sharma,Australia,Standard,M727,Avatar,Comedy,TV Show,15,24,2025-08-26,4,Mobile,Incomplete
+10342,U607,Ryan Moore,Canada,Free,M512,Dark,Thriller,TV Show,31,35,2025-10-09,3,Smart TV,Incomplete
+10343,U846,Neha Verma,UK,Standard,M287,Stranger Things,Thriller,TV Show,24,39,2025-10-13,2,Laptop,Incomplete
+10344,U100,Mia Patel,USA,Premium,M889,Black Mirror,Comedy,Movie,50,101,2025-08-12,5,Laptop,Incomplete
+10345,U692,Diya Reddy,UAE,Premium,M696,The Mandalorian,Sci-Fi,TV Show,37,39,2025-09-07,2,Mobile,Completed
+10346,U864,Lucas Green,UAE,Premium,M421,House of the Dragon,Sci-Fi,TV Show,38,51,2025-10-19,4,Mobile,Incomplete
+10347,U134,Raj Sharma,USA,Standard,M602,Bridgerton,Adventure,Movie,132,149,2025-09-25,1,Mobile,Incomplete
+10348,U639,Priya Nair,India,Premium,M465,Extraction,Drama,TV Show,25,39,2025-08-21,3,Smart TV,Incomplete
+10349,U810,Lily Martin,Australia,Standard,M442,The Witcher,Thriller,TV Show,47,52,2025-08-09,4,Smart TV,Completed
+10350,U351,Jack Anderson,UAE,Premium,M927,Black Mirror,Fantasy,Movie,94,103,2025-08-11,5,Tablet,Completed
+10351,U581,Ella Turner,UK,Standard,M824,Wednesday,Thriller,TV Show,36,53,2025-10-26,4,Smart TV,Incomplete
+10352,U232,Diya Reddy,Australia,Premium,M717,Avatar,Thriller,Movie,58,84,2025-08-27,5,Smart TV,Incomplete
+10353,U926,Aarav Gupta,UAE,Free,M229,The Flash,Thriller,Movie,81,111,2025-08-14,2,Laptop,Incomplete
+10354,U453,Meera Kapoor,UAE,Standard,M983,Jawan,Adventure,Movie,118,122,2025-10-25,4,Tablet,Completed
+10355,U509,Ethan Davis,Japan,Standard,M635,The Mandalorian,Sci-Fi,TV Show,33,54,2025-10-16,1,Laptop,Incomplete
+10356,U785,Benjamin Scott,UK,Free,M262,Wednesday,Adventure,Movie,27,32,2025-10-03,3,Tablet,Incomplete
+10357,U632,Noah Clark,Canada,Premium,M106,Lucifer,Romance,Movie,98,178,2025-08-05,2,Laptop,Incomplete
+10358,U274,Priya Nair,Australia,Free,M433,Bridgerton,Sci-Fi,TV Show,15,24,2025-10-03,1,Smart TV,Incomplete
+10359,U835,Lucas Green,UK,Free,M941,The Witcher,Crime,Movie,81,113,2025-08-09,4,Mobile,Incomplete
+10360,U998,Charlotte Adams,UAE,Standard,M278,Sacred Games,Sci-Fi,Movie,63,94,2025-08-20,5,Mobile,Incomplete
+10361,U812,Aisha Khan,Canada,Standard,M671,Dark,Comedy,Movie,93,159,2025-10-13,5,Tablet,Incomplete
+10362,U135,Charlotte Adams,UAE,Premium,M244,The Mandalorian,Crime,Movie,153,172,2025-08-09,2,Tablet,Incomplete
+10363,U190,Emma Johnson,UK,Free,M868,Reacher,Drama,TV Show,22,41,2025-10-19,2,Laptop,Incomplete
+10364,U971,Jack Anderson,UK,Standard,M660,Mirzapur,Adventure,Movie,65,101,2025-10-17,2,Smart TV,Incomplete
+10365,U383,Rohan Singh,Australia,Premium,M673,Jawan,Fantasy,TV Show,17,32,2025-09-29,5,Laptop,Incomplete
+10366,U151,Aisha Khan,Canada,Free,M203,Avatar,Action,Movie,101,159,2025-09-09,3,Laptop,Incomplete
+10367,U788,Aisha Khan,USA,Standard,M933,Money Heist,Adventure,Movie,41,55,2025-08-11,4,Smart TV,Incomplete
+10368,U554,Priya Nair,UAE,Free,M238,Cobra Kai,Action,Movie,53,58,2025-09-25,2,Laptop,Completed
+10369,U848,Ava White,USA,Free,M154,Breaking Bad,Crime,TV Show,49,60,2025-08-10,3,Laptop,Incomplete
+10370,U500,Emma Johnson,Japan,Standard,M646,Narcos,Action,TV Show,36,45,2025-10-21,5,Mobile,Incomplete
+10371,U536,Saanvi Jain,Japan,Premium,M575,Friends,Action,TV Show,35,52,2025-09-29,4,Laptop,Incomplete
+10372,U577,Isabella Thomas,UK,Free,M194,Wednesday,Fantasy,Movie,28,44,2025-08-27,2,Mobile,Incomplete
+10373,U851,Aarav Gupta,UK,Free,M590,The Flash,Fantasy,Movie,102,119,2025-10-07,5,Mobile,Incomplete
+10374,U413,Mia Patel,India,Free,M249,Inception,Fantasy,Movie,74,138,2025-09-18,1,Laptop,Incomplete
+10375,U444,Jack Anderson,Australia,Standard,M458,Mirzapur,Sci-Fi,Movie,50,87,2025-08-14,1,Smart TV,Incomplete
+10376,U429,David Wilson,India,Standard,M979,Sacred Games,Drama,Movie,101,112,2025-09-28,3,Mobile,Completed
+10377,U759,Priya Nair,UAE,Free,M456,Wednesday,Adventure,Movie,103,113,2025-09-09,5,Mobile,Completed
+10378,U398,Lily Martin,USA,Premium,M222,Sacred Games,Fantasy,TV Show,34,57,2025-10-09,3,Laptop,Incomplete
+10379,U104,Benjamin Scott,Japan,Premium,M911,Dune,Adventure,TV Show,39,46,2025-08-31,4,Mobile,Incomplete
+10380,U905,Mia Patel,Japan,Free,M554,Narcos,Thriller,TV Show,21,38,2025-10-20,4,Tablet,Incomplete
+10381,U972,Neha Verma,Japan,Premium,M719,Spider-Man: No Way Home,Fantasy,Movie,61,106,2025-08-22,4,Tablet,Incomplete
+10382,U606,Sophia Hall,Japan,Standard,M812,Peaky Blinders,Crime,TV Show,18,27,2025-10-29,2,Tablet,Incomplete
+10383,U421,Isabella Thomas,Canada,Standard,M970,Extraction,Adventure,TV Show,21,38,2025-09-11,4,Smart TV,Incomplete
+10384,U582,Ava White,Canada,Premium,M683,Friends,Drama,Movie,127,176,2025-08-09,5,Tablet,Incomplete
+10385,U449,Lily Martin,USA,Free,M403,Jawan,Romance,Movie,46,61,2025-09-18,5,Laptop,Incomplete
+10386,U620,Arnav Joshi,UAE,Premium,M874,The Office,Sci-Fi,TV Show,21,24,2025-09-07,4,Laptop,Incomplete
+10387,U310,David Wilson,UK,Free,M998,Cobra Kai,Fantasy,TV Show,57,60,2025-10-02,1,Mobile,Completed
+10388,U520,David Wilson,Japan,Premium,M189,Spider-Man: No Way Home,Fantasy,Movie,116,162,2025-08-27,5,Tablet,Incomplete
+10389,U475,Mia Patel,Japan,Free,M179,The Boys,Adventure,Movie,119,129,2025-10-20,5,Smart TV,Completed
+10390,U173,Saanvi Jain,UAE,Premium,M349,Money Heist,Action,Movie,83,93,2025-09-06,4,Laptop,Incomplete
+10391,U849,Lily Martin,Canada,Standard,M684,The Mandalorian,Drama,Movie,113,118,2025-08-30,4,Mobile,Completed
+10392,U363,David Wilson,Japan,Free,M760,Bridgerton,Sci-Fi,TV Show,11,21,2025-10-22,1,Smart TV,Incomplete
+10393,U339,Aarav Gupta,India,Free,M927,The Witcher,Action,Movie,92,102,2025-09-04,3,Mobile,Completed
+10394,U706,Oliver Brown,Australia,Premium,M485,Avatar,Crime,Movie,82,154,2025-09-21,1,Mobile,Incomplete
+10395,U530,Charlotte Adams,Canada,Free,M781,Wednesday,Thriller,Movie,22,27,2025-08-17,3,Tablet,Incomplete
+10396,U239,Benjamin Scott,India,Premium,M547,Lucifer,Comedy,TV Show,20,23,2025-09-09,1,Tablet,Incomplete
+10397,U103,Benjamin Scott,UK,Standard,M488,Mirzapur,Action,TV Show,56,57,2025-09-28,3,Mobile,Completed
+10398,U204,Rohan Singh,Canada,Standard,M231,The Witcher,Action,Movie,172,178,2025-08-12,1,Laptop,Completed
+10399,U499,Harshit Tiwari,UAE,Free,M807,Narcos,Action,Movie,68,94,2025-09-01,4,Mobile,Incomplete
+10400,U768,Aisha Khan,India,Premium,M366,Avatar,Action,Movie,83,123,2025-09-08,4,Mobile,Incomplete
+10401,U146,Arnav Joshi,Canada,Premium,M848,The Mandalorian,Adventure,TV Show,30,37,2025-08-25,1,Tablet,Incomplete
+10402,U637,Ryan Moore,India,Premium,M634,Black Mirror,Sci-Fi,TV Show,28,29,2025-09-22,1,Smart TV,Completed
+10403,U432,Rohan Singh,India,Standard,M923,Stranger Things,Drama,TV Show,34,38,2025-08-10,2,Tablet,Incomplete
+10404,U307,Mia Patel,UAE,Free,M595,Reacher,Crime,Movie,28,42,2025-08-23,1,Tablet,Incomplete
+10405,U733,Sarah Lee,India,Premium,M625,Sacred Games,Crime,Movie,101,158,2025-09-15,5,Tablet,Incomplete
+10406,U681,Mia Patel,USA,Premium,M745,Jawan,Fantasy,Movie,63,126,2025-09-18,3,Laptop,Incomplete
+10407,U284,Priya Nair,UK,Standard,M207,Sacred Games,Comedy,Movie,54,87,2025-08-14,2,Mobile,Incomplete
+10408,U338,Harshit Tiwari,UK,Free,M135,Reacher,Sci-Fi,Movie,78,82,2025-08-28,1,Laptop,Completed
+10409,U485,Aarav Gupta,India,Premium,M950,Wednesday,Romance,TV Show,29,30,2025-09-04,5,Laptop,Completed
+10410,U202,Isabella Thomas,Australia,Premium,M160,Reacher,Action,Movie,45,82,2025-08-18,4,Smart TV,Incomplete
+10411,U160,Lucas Green,UK,Standard,M736,Dune,Thriller,Movie,150,151,2025-08-30,2,Smart TV,Completed
+10412,U905,Sarah Lee,Japan,Standard,M971,The Crown,Drama,Movie,77,152,2025-08-11,2,Smart TV,Incomplete
+10413,U752,David Wilson,Japan,Free,M380,Friends,Fantasy,Movie,129,178,2025-08-25,5,Smart TV,Incomplete
+10414,U181,Arnav Joshi,India,Premium,M634,Vikings,Thriller,TV Show,14,24,2025-09-30,2,Mobile,Incomplete
+10415,U559,Raj Sharma,Australia,Premium,M529,Reacher,Fantasy,Movie,34,66,2025-09-12,1,Tablet,Incomplete
+10416,U443,Ethan Davis,India,Standard,M136,Dark,Action,TV Show,37,52,2025-08-05,2,Mobile,Incomplete
+10417,U863,Arjun Mehra,Australia,Free,M723,House of the Dragon,Thriller,TV Show,22,28,2025-10-05,5,Mobile,Incomplete
+10418,U868,Emma Johnson,Australia,Premium,M612,Friends,Comedy,TV Show,31,45,2025-09-09,1,Tablet,Incomplete
+10419,U941,Sarah Lee,UK,Free,M938,Money Heist,Romance,Movie,135,151,2025-08-16,1,Tablet,Incomplete
+10420,U553,Ella Turner,UK,Premium,M868,Inception,Crime,Movie,78,114,2025-08-10,1,Mobile,Incomplete
+10421,U478,Oliver Brown,Australia,Free,M227,Wednesday,Crime,Movie,98,111,2025-09-13,5,Smart TV,Incomplete
+10422,U795,Lily Martin,Canada,Premium,M866,The Mandalorian,Drama,TV Show,29,36,2025-09-03,4,Mobile,Incomplete
+10423,U210,Yash Garg,India,Standard,M213,Squid Game,Comedy,Movie,68,116,2025-08-19,1,Mobile,Incomplete
+10424,U784,Sophia Hall,India,Premium,M327,Avatar,Sci-Fi,Movie,118,172,2025-08-24,4,Mobile,Incomplete
+10425,U945,Diya Reddy,USA,Standard,M495,Lucifer,Drama,Movie,153,163,2025-08-13,1,Laptop,Completed
+10426,U754,Arjun Mehra,Australia,Premium,M270,Bridgerton,Thriller,Movie,78,115,2025-10-01,1,Smart TV,Incomplete
+10427,U278,Yash Garg,Canada,Standard,M576,Vikings,Romance,Movie,63,95,2025-10-24,2,Smart TV,Incomplete
+10428,U662,Ryan Moore,Australia,Free,M197,Dune,Thriller,TV Show,23,31,2025-09-04,5,Laptop,Incomplete
+10429,U403,Rohan Singh,Australia,Standard,M506,Stranger Things,Action,Movie,146,146,2025-10-01,5,Tablet,Completed
+10430,U405,Ella Turner,Canada,Standard,M788,Interstellar,Action,Movie,89,104,2025-10-16,5,Tablet,Incomplete
+10431,U464,Oliver Brown,UAE,Premium,M587,The Office,Sci-Fi,Movie,72,88,2025-09-11,5,Laptop,Incomplete
+10432,U365,Ryan Moore,India,Standard,M281,Inception,Comedy,TV Show,26,47,2025-09-24,2,Smart TV,Incomplete
+10433,U523,Ella Turner,UK,Standard,M147,Interstellar,Romance,TV Show,25,49,2025-09-13,1,Mobile,Incomplete
+10434,U596,Ava White,India,Free,M902,Cobra Kai,Crime,TV Show,16,22,2025-09-21,3,Smart TV,Incomplete
+10435,U918,Ethan Davis,UAE,Free,M919,Bridgerton,Romance,Movie,124,148,2025-10-04,5,Laptop,Incomplete
+10436,U486,David Wilson,UK,Premium,M770,The Witcher,Comedy,TV Show,27,53,2025-10-07,2,Laptop,Incomplete
+10437,U338,Oliver Brown,Canada,Free,M826,The Office,Thriller,TV Show,20,23,2025-09-19,5,Laptop,Incomplete
+10438,U164,Diya Reddy,UK,Standard,M427,Inception,Action,TV Show,49,53,2025-10-12,2,Mobile,Completed
+10439,U495,Harshit Tiwari,India,Premium,M601,Inception,Drama,TV Show,34,60,2025-10-08,1,Laptop,Incomplete
+10440,U490,Oliver Brown,Canada,Standard,M997,The Boys,Fantasy,Movie,61,100,2025-10-25,2,Tablet,Incomplete
+10441,U682,Charlotte Adams,Canada,Premium,M379,Narcos,Romance,TV Show,18,24,2025-10-04,3,Laptop,Incomplete
+10442,U513,Rohan Singh,Canada,Free,M291,Bridgerton,Adventure,Movie,31,34,2025-08-22,1,Mobile,Completed
+10443,U702,Neha Verma,UK,Standard,M218,The Witcher,Comedy,Movie,116,131,2025-09-14,5,Laptop,Incomplete
+10444,U329,Isabella Thomas,Canada,Premium,M284,The Crown,Comedy,Movie,56,80,2025-10-23,2,Laptop,Incomplete
+10445,U840,Ella Turner,USA,Standard,M506,Peaky Blinders,Fantasy,TV Show,32,56,2025-09-30,4,Smart TV,Incomplete
+10446,U451,Meera Kapoor,India,Premium,M335,Dark,Crime,Movie,90,166,2025-08-31,2,Laptop,Incomplete
+10447,U269,Arjun Mehra,USA,Standard,M524,House of the Dragon,Fantasy,Movie,20,28,2025-08-10,5,Laptop,Incomplete
+10448,U360,Isabella Thomas,Japan,Free,M878,The Flash,Drama,TV Show,24,48,2025-08-23,4,Mobile,Incomplete
+10449,U135,Emma Johnson,UK,Premium,M274,Peaky Blinders,Romance,TV Show,26,31,2025-09-19,2,Mobile,Incomplete
+10450,U553,Mia Patel,Japan,Standard,M296,Spider-Man: No Way Home,Sci-Fi,TV Show,45,48,2025-10-04,3,Smart TV,Completed
+10451,U596,Saanvi Jain,India,Standard,M965,The Witcher,Crime,Movie,34,44,2025-08-30,3,Mobile,Incomplete
+10452,U526,Ethan Davis,UAE,Standard,M190,Narcos,Drama,Movie,41,74,2025-10-12,2,Smart TV,Incomplete
+10453,U168,Arnav Joshi,India,Standard,M135,Black Mirror,Drama,Movie,85,100,2025-10-23,2,Mobile,Incomplete
+10454,U589,Ella Turner,India,Premium,M176,Black Mirror,Fantasy,TV Show,33,52,2025-08-28,2,Laptop,Incomplete
+10455,U336,Aarav Gupta,Japan,Standard,M109,Friends,Sci-Fi,Movie,58,86,2025-08-04,5,Tablet,Incomplete
+10456,U294,Lily Martin,Australia,Free,M456,The Witcher,Comedy,Movie,43,52,2025-10-17,5,Tablet,Incomplete
+10457,U206,Raj Sharma,Australia,Free,M924,The Crown,Sci-Fi,TV Show,21,37,2025-09-13,2,Smart TV,Incomplete
+10458,U525,Lily Martin,UAE,Free,M887,The 100,Drama,TV Show,24,36,2025-09-15,3,Smart TV,Incomplete
+10459,U322,Ethan Davis,UAE,Standard,M329,Squid Game,Comedy,Movie,105,122,2025-09-09,5,Tablet,Incomplete
+10460,U300,Neha Verma,Canada,Free,M309,Interstellar,Sci-Fi,Movie,26,32,2025-10-12,4,Laptop,Incomplete
+10461,U226,Arnav Joshi,UAE,Standard,M450,Mirzapur,Thriller,Movie,32,40,2025-10-28,1,Smart TV,Incomplete
+10462,U362,Ethan Davis,Australia,Standard,M539,Inception,Fantasy,TV Show,29,58,2025-09-17,3,Mobile,Incomplete
+10463,U447,Ella Turner,UAE,Premium,M958,House of the Dragon,Drama,TV Show,21,42,2025-09-07,5,Smart TV,Incomplete
+10464,U547,Aisha Khan,India,Free,M781,Squid Game,Thriller,TV Show,17,24,2025-09-12,5,Laptop,Incomplete
+10465,U595,Aarav Gupta,Japan,Free,M483,Mirzapur,Action,TV Show,12,23,2025-10-18,2,Tablet,Incomplete
+10466,U514,Diya Reddy,Australia,Standard,M853,Avatar,Sci-Fi,Movie,32,50,2025-09-08,5,Laptop,Incomplete
+10467,U104,Lily Martin,USA,Premium,M386,Interstellar,Fantasy,Movie,65,108,2025-09-28,1,Tablet,Incomplete
+10468,U762,David Wilson,Australia,Premium,M603,Extraction,Thriller,Movie,147,158,2025-10-26,3,Smart TV,Completed
+10469,U562,Meera Kapoor,UK,Standard,M987,Squid Game,Crime,TV Show,34,34,2025-10-25,5,Smart TV,Completed
+10470,U823,Aisha Khan,Australia,Standard,M716,Vikings,Fantasy,Movie,49,74,2025-09-06,4,Laptop,Incomplete
+10471,U713,Charlotte Adams,Australia,Free,M860,Mirzapur,Crime,TV Show,37,40,2025-09-02,3,Smart TV,Completed
+10472,U702,Charlotte Adams,Australia,Free,M579,Narcos,Fantasy,TV Show,22,45,2025-08-09,5,Laptop,Incomplete
+10473,U614,Harshit Tiwari,UK,Free,M739,Loki,Romance,Movie,77,84,2025-09-02,3,Tablet,Completed
+10474,U118,Lily Martin,India,Free,M233,Dark,Action,TV Show,25,32,2025-09-19,4,Tablet,Incomplete
+10475,U512,Benjamin Scott,Canada,Standard,M126,Dark,Action,TV Show,19,21,2025-08-26,4,Tablet,Completed
+10476,U351,Meera Kapoor,Australia,Free,M438,Black Mirror,Action,TV Show,46,53,2025-10-24,4,Smart TV,Incomplete
+10477,U436,Emma Johnson,USA,Premium,M298,House of the Dragon,Action,Movie,112,122,2025-09-05,1,Tablet,Completed
+10478,U623,Diya Reddy,Japan,Premium,M721,The Witcher,Sci-Fi,Movie,31,32,2025-08-07,2,Smart TV,Completed
+10479,U691,Benjamin Scott,UK,Free,M790,Extraction,Thriller,TV Show,31,56,2025-10-27,4,Laptop,Incomplete
+10480,U394,Lily Martin,USA,Premium,M538,Interstellar,Sci-Fi,Movie,129,150,2025-08-29,4,Smart TV,Incomplete
+10481,U180,Lily Martin,Canada,Standard,M342,Game of Thrones,Comedy,TV Show,42,48,2025-08-29,2,Laptop,Incomplete
+10482,U506,Yash Garg,India,Free,M174,Inception,Crime,Movie,26,33,2025-08-22,3,Laptop,Incomplete
+10483,U792,Arnav Joshi,Canada,Standard,M611,Vikings,Comedy,Movie,64,118,2025-08-22,4,Tablet,Incomplete
+10484,U429,Neha Verma,UK,Free,M215,Wednesday,Thriller,TV Show,19,22,2025-10-27,5,Laptop,Incomplete
+10485,U496,Priya Nair,India,Free,M201,Jawan,Sci-Fi,Movie,70,138,2025-09-16,4,Tablet,Incomplete
+10486,U425,Isabella Thomas,Japan,Premium,M577,Sacred Games,Crime,TV Show,18,28,2025-10-13,4,Laptop,Incomplete
+10487,U759,Harshit Tiwari,Canada,Standard,M421,Sacred Games,Thriller,TV Show,36,59,2025-10-28,3,Tablet,Incomplete
+10488,U272,Saanvi Jain,UAE,Standard,M411,Avatar,Fantasy,Movie,27,53,2025-09-24,1,Smart TV,Incomplete
+10489,U294,Oliver Brown,Canada,Premium,M323,Wednesday,Drama,Movie,30,35,2025-08-11,5,Smart TV,Incomplete
+10490,U116,Charlotte Adams,Canada,Standard,M867,Avatar,Thriller,Movie,81,117,2025-08-20,5,Tablet,Incomplete
+10491,U262,Aisha Khan,India,Standard,M138,The 100,Sci-Fi,Movie,79,83,2025-08-22,3,Tablet,Completed
+10492,U819,Benjamin Scott,Canada,Free,M552,Black Mirror,Fantasy,Movie,68,127,2025-09-28,4,Smart TV,Incomplete
+10493,U173,Mia Patel,Japan,Standard,M299,Stranger Things,Adventure,Movie,91,161,2025-09-02,1,Mobile,Incomplete
+10494,U830,Priya Nair,Australia,Free,M690,Black Mirror,Drama,TV Show,31,45,2025-08-03,4,Mobile,Incomplete
+10495,U155,Lucas Green,UK,Premium,M160,Bridgerton,Romance,TV Show,31,37,2025-08-25,3,Mobile,Incomplete
+10496,U761,Raj Sharma,India,Premium,M680,Avatar,Drama,Movie,145,176,2025-08-11,4,Laptop,Incomplete
+10497,U702,Yash Garg,Canada,Standard,M597,Avatar,Drama,Movie,34,38,2025-08-11,2,Tablet,Incomplete
+10498,U402,Aisha Khan,Japan,Premium,M194,Cobra Kai,Crime,TV Show,45,60,2025-09-26,1,Tablet,Incomplete
+10499,U492,Mia Patel,India,Free,M266,Stranger Things,Crime,Movie,95,131,2025-08-01,4,Laptop,Incomplete
+10500,U816,Charlotte Adams,India,Premium,M936,Squid Game,Comedy,Movie,66,112,2025-08-13,2,Mobile,Incomplete
+10501,U274,Rohan Singh,Australia,Premium,M494,The Mandalorian,Thriller,Movie,55,77,2025-09-07,5,Tablet,Incomplete
+10502,U755,Meera Kapoor,UK,Standard,M947,Game of Thrones,Romance,Movie,75,112,2025-08-07,4,Laptop,Incomplete
+10503,U638,Charlotte Adams,UK,Premium,M315,The 100,Crime,TV Show,15,23,2025-08-03,4,Mobile,Incomplete
+10504,U545,Aisha Khan,India,Standard,M295,Reacher,Adventure,Movie,140,144,2025-08-01,5,Tablet,Completed
+10505,U762,Isabella Thomas,USA,Standard,M375,Dark,Romance,Movie,98,115,2025-08-24,5,Smart TV,Incomplete
+10506,U629,Rohan Singh,UAE,Standard,M722,Bridgerton,Action,TV Show,41,44,2025-08-20,3,Laptop,Completed
+10507,U257,Diya Reddy,UK,Free,M808,Game of Thrones,Fantasy,Movie,93,107,2025-09-19,2,Tablet,Incomplete
+10508,U445,Noah Clark,UK,Free,M358,Avatar,Crime,TV Show,54,56,2025-09-19,4,Mobile,Completed
+10509,U776,Priya Nair,USA,Premium,M869,The Flash,Thriller,TV Show,26,38,2025-10-06,1,Smart TV,Incomplete
+10510,U171,Saanvi Jain,Japan,Standard,M629,The Boys,Action,TV Show,34,49,2025-08-26,5,Laptop,Incomplete
+10511,U912,Sarah Lee,Japan,Premium,M530,Wednesday,Romance,Movie,97,146,2025-10-12,5,Laptop,Incomplete
+10512,U380,Aisha Khan,UK,Standard,M562,Lucifer,Romance,Movie,78,135,2025-09-16,3,Tablet,Incomplete
+10513,U393,Aarav Gupta,Australia,Free,M434,Avatar,Crime,TV Show,20,20,2025-08-13,4,Smart TV,Completed
+10514,U982,Ella Turner,UK,Standard,M231,Vikings,Fantasy,Movie,130,157,2025-09-01,2,Tablet,Incomplete
+10515,U485,Harshit Tiwari,USA,Standard,M727,Avatar,Sci-Fi,TV Show,26,35,2025-08-23,4,Smart TV,Incomplete
+10516,U560,Ella Turner,Canada,Standard,M961,Game of Thrones,Sci-Fi,Movie,69,113,2025-09-13,1,Mobile,Incomplete
+10517,U833,Lily Martin,Australia,Standard,M738,The Boys,Crime,TV Show,48,59,2025-09-10,2,Smart TV,Incomplete
+10518,U883,Jack Anderson,India,Free,M689,Extraction,Action,Movie,81,94,2025-08-13,1,Smart TV,Incomplete
+10519,U555,Lily Martin,UK,Free,M889,Dune,Comedy,Movie,55,62,2025-10-15,3,Mobile,Incomplete
+10520,U360,Sarah Lee,Canada,Standard,M644,Interstellar,Thriller,TV Show,15,22,2025-09-14,4,Smart TV,Incomplete
+10521,U223,Sophia Hall,India,Premium,M693,Dune,Thriller,TV Show,16,30,2025-10-18,4,Tablet,Incomplete
+10522,U623,Aarav Gupta,Canada,Standard,M983,Wednesday,Comedy,TV Show,14,26,2025-08-05,1,Tablet,Incomplete
+10523,U353,Mia Patel,UAE,Standard,M514,Narcos,Drama,Movie,33,46,2025-09-15,1,Mobile,Incomplete
+10524,U449,Emma Johnson,Australia,Standard,M975,The Witcher,Thriller,TV Show,37,44,2025-10-09,2,Smart TV,Incomplete
+10525,U253,Ethan Davis,Australia,Standard,M919,Stranger Things,Thriller,Movie,85,98,2025-08-01,5,Tablet,Incomplete
+10526,U621,Yash Garg,Japan,Premium,M870,Jawan,Sci-Fi,TV Show,20,37,2025-09-23,5,Smart TV,Incomplete
+10527,U359,Harshit Tiwari,Japan,Premium,M636,The Office,Fantasy,Movie,126,138,2025-09-01,2,Tablet,Completed
+10528,U559,Meera Kapoor,Japan,Standard,M767,The Witcher,Crime,Movie,121,155,2025-10-18,5,Tablet,Incomplete
+10529,U702,Ella Turner,USA,Standard,M845,Bridgerton,Drama,Movie,81,111,2025-08-17,3,Mobile,Incomplete
+10530,U975,David Wilson,Australia,Premium,M904,Money Heist,Comedy,TV Show,38,57,2025-08-03,1,Laptop,Incomplete
+10531,U632,Meera Kapoor,Australia,Premium,M729,Money Heist,Comedy,TV Show,25,26,2025-10-30,4,Smart TV,Completed
+10532,U458,Aarav Gupta,UAE,Premium,M503,Friends,Thriller,Movie,55,64,2025-08-27,1,Smart TV,Incomplete
+10533,U845,David Wilson,Canada,Free,M539,The Crown,Adventure,Movie,85,111,2025-10-27,5,Mobile,Incomplete
+10534,U878,Ryan Moore,India,Free,M499,Cobra Kai,Sci-Fi,Movie,87,128,2025-08-14,3,Tablet,Incomplete
+10535,U201,Benjamin Scott,UAE,Standard,M560,Bridgerton,Drama,TV Show,48,49,2025-10-17,3,Tablet,Completed
+10536,U877,Saanvi Jain,Australia,Premium,M694,Breaking Bad,Crime,Movie,101,123,2025-09-27,5,Mobile,Incomplete
+10537,U137,Harshit Tiwari,UAE,Premium,M259,Black Mirror,Adventure,TV Show,47,52,2025-09-13,2,Laptop,Completed
+10538,U385,Aisha Khan,UAE,Premium,M647,Vikings,Comedy,Movie,77,78,2025-10-29,4,Mobile,Completed
+10539,U979,Aarav Gupta,Australia,Free,M140,The 100,Crime,TV Show,21,27,2025-10-08,1,Mobile,Incomplete
+10540,U794,Ryan Moore,Canada,Premium,M698,Inception,Romance,Movie,88,109,2025-08-25,1,Laptop,Incomplete
+10541,U836,Neha Verma,India,Standard,M779,The Crown,Action,Movie,97,102,2025-10-08,5,Tablet,Completed
+10542,U182,Benjamin Scott,Australia,Standard,M437,Vikings,Comedy,Movie,40,42,2025-10-08,1,Smart TV,Completed
+10543,U945,Yash Garg,UK,Standard,M882,Avatar,Sci-Fi,Movie,52,55,2025-08-17,1,Smart TV,Completed
+10544,U297,Arnav Joshi,Canada,Free,M401,The Office,Adventure,TV Show,29,29,2025-10-12,4,Smart TV,Completed
+10545,U864,Harshit Tiwari,UK,Premium,M425,House of the Dragon,Comedy,Movie,51,95,2025-08-08,5,Laptop,Incomplete
+10546,U842,Arjun Mehra,UAE,Premium,M164,House of the Dragon,Adventure,TV Show,14,22,2025-10-19,3,Smart TV,Incomplete
+10547,U530,Noah Clark,Canada,Standard,M603,Spider-Man: No Way Home,Comedy,TV Show,35,46,2025-08-20,1,Smart TV,Incomplete
+10548,U858,Meera Kapoor,Japan,Standard,M392,Squid Game,Action,Movie,144,151,2025-10-11,2,Laptop,Completed
+10549,U809,Jack Anderson,UAE,Standard,M111,The Mandalorian,Romance,TV Show,27,38,2025-10-20,5,Laptop,Incomplete
+10550,U662,Isabella Thomas,UAE,Free,M111,Money Heist,Comedy,Movie,35,43,2025-09-27,4,Tablet,Incomplete
+10551,U889,Ella Turner,India,Standard,M464,Sacred Games,Romance,Movie,35,45,2025-10-26,1,Smart TV,Incomplete
+10552,U928,Sophia Hall,Australia,Premium,M136,Lucifer,Action,TV Show,51,52,2025-09-09,2,Smart TV,Completed
+10553,U662,Ethan Davis,UAE,Free,M209,Cobra Kai,Adventure,TV Show,26,50,2025-09-27,4,Smart TV,Incomplete
+10554,U689,Meera Kapoor,UAE,Standard,M200,Reacher,Comedy,Movie,31,52,2025-08-28,5,Smart TV,Incomplete
+10555,U632,Ethan Davis,India,Premium,M730,Game of Thrones,Crime,Movie,134,148,2025-08-18,3,Mobile,Completed
+10556,U539,Arnav Joshi,Australia,Free,M611,Mirzapur,Romance,Movie,64,92,2025-10-20,3,Mobile,Incomplete
+10557,U902,Ethan Davis,UK,Premium,M123,Peaky Blinders,Thriller,TV Show,28,38,2025-10-13,4,Tablet,Incomplete
+10558,U295,Arjun Mehra,India,Premium,M915,Breaking Bad,Crime,Movie,32,54,2025-08-12,4,Laptop,Incomplete
+10559,U297,Jack Anderson,UAE,Standard,M263,Wednesday,Thriller,Movie,69,79,2025-09-22,4,Tablet,Incomplete
+10560,U331,Meera Kapoor,Canada,Standard,M374,Friends,Comedy,Movie,136,151,2025-10-24,3,Smart TV,Completed
+10561,U183,Lucas Green,UK,Free,M364,Stranger Things,Action,TV Show,23,45,2025-08-31,1,Smart TV,Incomplete
+10562,U590,Aisha Khan,UAE,Free,M644,Reacher,Crime,Movie,111,172,2025-09-01,3,Smart TV,Incomplete
+10563,U796,Lily Martin,Japan,Standard,M472,The Witcher,Action,TV Show,37,43,2025-08-01,1,Tablet,Incomplete
+10564,U906,Aarav Gupta,India,Standard,M924,Interstellar,Romance,Movie,56,92,2025-09-29,5,Laptop,Incomplete
+10565,U488,Oliver Brown,Australia,Standard,M787,Black Mirror,Sci-Fi,Movie,74,116,2025-09-01,5,Mobile,Incomplete
+10566,U406,Isabella Thomas,Japan,Free,M563,Friends,Adventure,TV Show,22,26,2025-10-25,4,Tablet,Incomplete
+10567,U950,Meera Kapoor,USA,Free,M497,Sacred Games,Fantasy,TV Show,31,57,2025-09-22,3,Tablet,Incomplete
+10568,U983,Diya Reddy,Japan,Premium,M212,The Office,Thriller,Movie,103,105,2025-08-15,4,Laptop,Completed
+10569,U626,Rohan Singh,Japan,Premium,M270,The Crown,Drama,Movie,97,119,2025-09-14,5,Tablet,Incomplete
+10570,U116,Harshit Tiwari,India,Premium,M734,Money Heist,Crime,Movie,32,33,2025-08-20,5,Mobile,Completed
+10571,U217,Jack Anderson,UAE,Free,M225,Dune,Adventure,Movie,143,161,2025-08-28,2,Laptop,Incomplete
+10572,U922,Jack Anderson,UK,Standard,M937,Spider-Man: No Way Home,Adventure,TV Show,33,49,2025-08-02,5,Tablet,Incomplete
+10573,U834,Jack Anderson,Australia,Premium,M998,Mirzapur,Thriller,TV Show,35,57,2025-10-25,5,Smart TV,Incomplete
+10574,U589,Raj Sharma,USA,Free,M424,Sacred Games,Fantasy,TV Show,31,33,2025-09-02,1,Laptop,Completed
+10575,U978,Saanvi Jain,Canada,Standard,M158,Dark,Comedy,Movie,71,73,2025-08-15,3,Mobile,Completed
+10576,U707,Rohan Singh,Australia,Standard,M416,Black Mirror,Sci-Fi,TV Show,18,36,2025-09-10,2,Mobile,Incomplete
+10577,U208,Isabella Thomas,Japan,Standard,M451,Cobra Kai,Comedy,Movie,46,87,2025-09-16,2,Laptop,Incomplete
+10578,U622,Rohan Singh,UAE,Standard,M673,Spider-Man: No Way Home,Comedy,TV Show,27,31,2025-10-21,2,Tablet,Incomplete
+10579,U841,Saanvi Jain,Australia,Premium,M643,Reacher,Sci-Fi,TV Show,26,49,2025-08-04,3,Laptop,Incomplete
+10580,U387,Ella Turner,India,Standard,M486,Cobra Kai,Romance,TV Show,27,41,2025-10-29,3,Laptop,Incomplete
+10581,U411,Priya Nair,Japan,Standard,M661,The Flash,Action,TV Show,29,52,2025-10-06,3,Laptop,Incomplete
+10582,U548,Lucas Green,Japan,Standard,M384,Squid Game,Crime,Movie,75,101,2025-10-23,4,Tablet,Incomplete
+10583,U429,Priya Nair,Japan,Premium,M775,Jawan,Comedy,Movie,114,160,2025-09-24,5,Tablet,Incomplete
+10584,U620,Charlotte Adams,India,Free,M158,Inception,Sci-Fi,TV Show,37,54,2025-09-06,1,Mobile,Incomplete
+10585,U836,Arnav Joshi,Japan,Standard,M504,Inception,Action,Movie,37,72,2025-09-22,5,Tablet,Incomplete
+10586,U158,Priya Nair,Australia,Free,M275,The Witcher,Adventure,Movie,94,98,2025-10-21,4,Mobile,Completed
+10587,U289,Diya Reddy,USA,Premium,M673,Friends,Sci-Fi,Movie,40,81,2025-09-27,4,Smart TV,Incomplete
+10588,U191,Priya Nair,India,Free,M854,The Crown,Sci-Fi,Movie,106,138,2025-10-09,3,Mobile,Incomplete
+10589,U355,Aisha Khan,USA,Standard,M424,Interstellar,Thriller,Movie,26,30,2025-08-15,1,Smart TV,Incomplete
+10590,U487,Saanvi Jain,Japan,Premium,M308,Cobra Kai,Fantasy,TV Show,24,37,2025-10-14,5,Laptop,Incomplete
+10591,U766,Lily Martin,Canada,Standard,M253,Friends,Adventure,TV Show,35,52,2025-09-23,1,Mobile,Incomplete
+10592,U545,Arjun Mehra,Japan,Premium,M797,Narcos,Comedy,Movie,74,115,2025-09-28,3,Mobile,Incomplete
+10593,U539,Sophia Hall,UAE,Premium,M125,The Witcher,Sci-Fi,Movie,131,167,2025-09-20,3,Tablet,Incomplete
+10594,U157,Benjamin Scott,Canada,Premium,M201,Black Mirror,Fantasy,TV Show,20,21,2025-09-16,2,Mobile,Completed
+10595,U527,Meera Kapoor,Canada,Standard,M236,The 100,Action,Movie,93,104,2025-09-24,3,Laptop,Incomplete
+10596,U935,Harshit Tiwari,USA,Premium,M298,The Boys,Adventure,Movie,76,129,2025-09-09,4,Laptop,Incomplete
+10597,U375,Harshit Tiwari,UK,Free,M150,Lucifer,Sci-Fi,Movie,41,54,2025-08-19,2,Smart TV,Incomplete
+10598,U996,Arjun Mehra,India,Standard,M232,Game of Thrones,Sci-Fi,TV Show,29,36,2025-10-27,4,Tablet,Incomplete
+10599,U454,Isabella Thomas,UK,Free,M468,Breaking Bad,Action,TV Show,32,41,2025-08-23,3,Tablet,Incomplete
+10600,U746,Aisha Khan,UK,Free,M782,Jawan,Crime,Movie,140,180,2025-09-18,5,Smart TV,Incomplete
+10601,U649,Ryan Moore,Canada,Premium,M151,Narcos,Crime,TV Show,19,35,2025-10-26,5,Smart TV,Incomplete
+10602,U818,Ella Turner,India,Free,M496,Sacred Games,Thriller,Movie,118,119,2025-08-30,1,Tablet,Completed
+10603,U416,Noah Clark,UAE,Premium,M765,The 100,Romance,Movie,55,91,2025-10-07,1,Mobile,Incomplete
+10604,U337,Yash Garg,USA,Free,M677,Money Heist,Drama,Movie,100,140,2025-10-08,3,Laptop,Incomplete
+10605,U913,Oliver Brown,UK,Premium,M710,Sacred Games,Thriller,TV Show,55,55,2025-08-31,3,Mobile,Completed
+10606,U239,Lucas Green,Japan,Free,M167,Avatar,Comedy,Movie,22,43,2025-10-15,4,Mobile,Incomplete
+10607,U643,Ryan Moore,UAE,Free,M714,Game of Thrones,Drama,Movie,32,47,2025-08-30,3,Laptop,Incomplete
+10608,U963,Jack Anderson,Canada,Premium,M371,Extraction,Sci-Fi,TV Show,17,27,2025-10-20,4,Laptop,Incomplete
+10609,U710,Priya Nair,UK,Standard,M271,Squid Game,Romance,TV Show,47,48,2025-10-26,3,Laptop,Completed
+10610,U799,Oliver Brown,India,Free,M391,Lucifer,Crime,TV Show,43,59,2025-08-16,1,Smart TV,Incomplete
+10611,U253,Ryan Moore,UK,Standard,M619,The Crown,Romance,TV Show,22,30,2025-10-02,4,Smart TV,Incomplete
+10612,U138,Aisha Khan,USA,Free,M435,The Witcher,Fantasy,TV Show,21,24,2025-08-09,2,Laptop,Incomplete
+10613,U469,Ryan Moore,UK,Free,M285,The 100,Adventure,TV Show,33,39,2025-10-24,1,Smart TV,Incomplete
+10614,U688,Oliver Brown,Canada,Premium,M600,Loki,Crime,TV Show,29,35,2025-08-03,4,Laptop,Incomplete
+10615,U375,Priya Nair,Japan,Standard,M966,Lucifer,Crime,Movie,102,109,2025-10-14,3,Smart TV,Completed
+10616,U704,Lucas Green,Australia,Free,M663,The Flash,Comedy,Movie,30,46,2025-09-09,3,Tablet,Incomplete
+10617,U694,Saanvi Jain,UAE,Free,M104,The Office,Crime,Movie,35,45,2025-09-27,3,Laptop,Incomplete
+10618,U197,Rohan Singh,Japan,Premium,M507,Dune,Fantasy,TV Show,28,33,2025-08-03,4,Smart TV,Incomplete
+10619,U103,Ryan Moore,USA,Standard,M690,Loki,Crime,Movie,51,52,2025-10-28,1,Mobile,Completed
+10620,U578,Harshit Tiwari,USA,Premium,M318,Bridgerton,Fantasy,TV Show,20,34,2025-08-27,4,Mobile,Incomplete
+10621,U631,Arjun Mehra,Canada,Standard,M638,Vikings,Fantasy,Movie,26,46,2025-09-16,5,Mobile,Incomplete
+10622,U434,Isabella Thomas,UAE,Standard,M314,Interstellar,Sci-Fi,TV Show,34,36,2025-09-14,1,Laptop,Completed
+10623,U593,Noah Clark,USA,Free,M163,The Crown,Crime,Movie,129,179,2025-10-18,5,Tablet,Incomplete
+10624,U555,Saanvi Jain,USA,Premium,M586,The Flash,Romance,Movie,84,154,2025-10-04,1,Smart TV,Incomplete
+10625,U370,Saanvi Jain,USA,Premium,M212,The Office,Action,Movie,135,143,2025-08-21,3,Mobile,Completed
+10626,U442,Arnav Joshi,Canada,Free,M542,Money Heist,Romance,Movie,94,174,2025-10-24,1,Tablet,Incomplete
+10627,U675,Isabella Thomas,UK,Free,M373,Game of Thrones,Thriller,TV Show,16,31,2025-09-09,4,Laptop,Incomplete
+10628,U715,Neha Verma,UAE,Standard,M854,Squid Game,Comedy,Movie,62,64,2025-08-31,1,Laptop,Completed
+10629,U320,Ella Turner,UAE,Free,M863,Lucifer,Adventure,Movie,25,51,2025-08-20,2,Mobile,Incomplete
+10630,U100,Priya Nair,Japan,Free,M882,Lucifer,Adventure,Movie,134,144,2025-08-16,2,Mobile,Completed
+10631,U608,Aisha Khan,India,Free,M647,Interstellar,Romance,Movie,80,148,2025-09-21,4,Mobile,Incomplete
+10632,U825,Ella Turner,UK,Premium,M120,Sacred Games,Sci-Fi,TV Show,28,31,2025-08-15,1,Mobile,Completed
+10633,U187,David Wilson,Canada,Premium,M332,Cobra Kai,Thriller,Movie,86,164,2025-08-03,5,Mobile,Incomplete
+10634,U143,Ava White,India,Free,M318,The Boys,Romance,TV Show,15,27,2025-10-02,2,Smart TV,Incomplete
+10635,U295,Diya Reddy,Canada,Standard,M252,Lucifer,Romance,Movie,101,180,2025-08-25,4,Smart TV,Incomplete
+10636,U138,Lucas Green,Japan,Premium,M700,Jawan,Action,TV Show,15,26,2025-09-30,1,Laptop,Incomplete
+10637,U599,Aisha Khan,Canada,Standard,M181,Peaky Blinders,Sci-Fi,Movie,86,118,2025-10-04,3,Tablet,Incomplete
+10638,U312,Charlotte Adams,Canada,Free,M966,Dark,Sci-Fi,Movie,29,46,2025-08-22,1,Laptop,Incomplete
+10639,U164,Lucas Green,India,Standard,M995,The Boys,Fantasy,TV Show,42,52,2025-10-30,3,Mobile,Incomplete
+10640,U387,Raj Sharma,India,Free,M149,Game of Thrones,Action,TV Show,35,40,2025-09-06,2,Smart TV,Incomplete
+10641,U271,Aisha Khan,Japan,Premium,M818,Dune,Thriller,TV Show,34,40,2025-10-16,5,Smart TV,Incomplete
+10642,U988,Raj Sharma,UAE,Standard,M118,Lucifer,Romance,TV Show,40,45,2025-10-28,2,Laptop,Incomplete
+10643,U925,Lily Martin,Japan,Premium,M625,Vikings,Fantasy,Movie,31,36,2025-08-04,4,Laptop,Incomplete
+10644,U370,Aarav Gupta,USA,Free,M396,Money Heist,Romance,Movie,93,152,2025-09-11,1,Tablet,Incomplete
+10645,U430,Yash Garg,UK,Premium,M735,Black Mirror,Fantasy,TV Show,40,54,2025-09-27,2,Mobile,Incomplete
+10646,U948,Aisha Khan,Canada,Free,M737,Interstellar,Adventure,TV Show,49,60,2025-08-17,3,Tablet,Incomplete
+10647,U749,Sophia Hall,UAE,Premium,M691,Cobra Kai,Action,Movie,33,53,2025-10-30,4,Smart TV,Incomplete
+10648,U228,Mia Patel,Australia,Free,M240,The 100,Thriller,TV Show,11,21,2025-08-10,3,Mobile,Incomplete
+10649,U569,Rohan Singh,Canada,Standard,M169,Avatar,Crime,Movie,70,108,2025-10-08,4,Smart TV,Incomplete
+10650,U680,Rohan Singh,UAE,Premium,M502,Sacred Games,Romance,TV Show,36,57,2025-08-23,2,Mobile,Incomplete
+10651,U338,Ethan Davis,USA,Standard,M390,Lucifer,Action,Movie,134,170,2025-08-26,4,Laptop,Incomplete
+10652,U105,David Wilson,USA,Premium,M800,Interstellar,Thriller,Movie,32,35,2025-08-24,4,Smart TV,Completed
+10653,U728,Priya Nair,Canada,Premium,M528,The 100,Action,Movie,123,174,2025-10-20,5,Smart TV,Incomplete
+10654,U343,Charlotte Adams,India,Standard,M515,The Witcher,Thriller,Movie,47,89,2025-10-14,2,Laptop,Incomplete
+10655,U616,Jack Anderson,Australia,Free,M308,The Crown,Crime,TV Show,36,40,2025-08-19,3,Tablet,Completed
+10656,U616,Neha Verma,UK,Premium,M883,Black Mirror,Action,Movie,114,121,2025-10-16,3,Tablet,Completed
+10657,U548,Lucas Green,UAE,Premium,M297,Loki,Drama,Movie,103,128,2025-10-05,2,Mobile,Incomplete
+10658,U263,Aisha Khan,Canada,Standard,M729,Vikings,Action,TV Show,32,47,2025-08-16,2,Laptop,Incomplete
+10659,U703,Oliver Brown,UK,Standard,M716,Spider-Man: No Way Home,Fantasy,Movie,38,50,2025-10-13,5,Tablet,Incomplete
+10660,U877,Ryan Moore,UK,Premium,M708,Friends,Comedy,Movie,32,33,2025-09-18,1,Laptop,Completed
+10661,U587,Ryan Moore,UK,Premium,M470,The Witcher,Drama,TV Show,24,36,2025-09-03,4,Smart TV,Incomplete
+10662,U152,Yash Garg,India,Premium,M933,Breaking Bad,Fantasy,TV Show,29,29,2025-10-17,3,Smart TV,Completed
+10663,U369,Raj Sharma,UK,Standard,M336,Extraction,Comedy,TV Show,16,28,2025-09-30,5,Tablet,Incomplete
+10664,U369,Meera Kapoor,USA,Standard,M189,The 100,Fantasy,TV Show,11,20,2025-09-17,1,Mobile,Incomplete
+10665,U579,Isabella Thomas,UAE,Free,M264,Spider-Man: No Way Home,Thriller,Movie,120,146,2025-10-28,1,Laptop,Incomplete
+10666,U160,Saanvi Jain,India,Premium,M524,Loki,Drama,Movie,26,38,2025-08-07,2,Laptop,Incomplete
+10667,U184,Arjun Mehra,Canada,Free,M201,Jawan,Action,Movie,142,174,2025-10-21,5,Laptop,Incomplete
+10668,U769,Aarav Gupta,USA,Premium,M527,Squid Game,Fantasy,Movie,23,40,2025-09-23,3,Smart TV,Incomplete
+10669,U711,Rohan Singh,Japan,Free,M192,Inception,Crime,TV Show,29,31,2025-09-11,4,Laptop,Completed
+10670,U432,Aarav Gupta,Canada,Standard,M780,Dune,Comedy,TV Show,39,45,2025-08-23,2,Smart TV,Incomplete
+10671,U409,Arjun Mehra,Australia,Free,M700,Interstellar,Fantasy,TV Show,36,45,2025-10-25,3,Laptop,Incomplete
+10672,U442,Ella Turner,UK,Free,M323,Dark,Thriller,TV Show,15,20,2025-08-10,3,Smart TV,Incomplete
+10673,U383,Priya Nair,Canada,Standard,M921,The Witcher,Crime,TV Show,43,44,2025-10-12,4,Laptop,Completed
+10674,U893,Ava White,India,Premium,M502,The Flash,Action,TV Show,35,37,2025-08-10,3,Laptop,Completed
+10675,U227,Arjun Mehra,Australia,Premium,M111,Avatar,Adventure,TV Show,19,30,2025-10-03,2,Smart TV,Incomplete
+10676,U393,Lucas Green,UAE,Standard,M749,Sacred Games,Sci-Fi,Movie,46,62,2025-08-08,2,Laptop,Incomplete
+10677,U389,Ethan Davis,India,Free,M315,Spider-Man: No Way Home,Drama,TV Show,26,28,2025-10-08,5,Laptop,Completed
+10678,U525,Aarav Gupta,Japan,Premium,M584,Wednesday,Drama,TV Show,22,42,2025-10-05,2,Laptop,Incomplete
+10679,U403,Rohan Singh,Australia,Premium,M197,Jawan,Crime,TV Show,53,58,2025-08-26,3,Smart TV,Completed
+10680,U631,Arjun Mehra,UK,Premium,M125,Money Heist,Adventure,Movie,54,78,2025-08-01,4,Tablet,Incomplete
+10681,U411,Rohan Singh,UK,Premium,M376,Inception,Adventure,TV Show,32,33,2025-10-14,1,Smart TV,Completed
+10682,U318,Ryan Moore,Canada,Free,M989,Money Heist,Crime,TV Show,19,24,2025-10-22,3,Laptop,Incomplete
+10683,U135,Aisha Khan,Canada,Free,M833,Cobra Kai,Romance,TV Show,30,55,2025-10-21,4,Tablet,Incomplete
+10684,U993,Saanvi Jain,USA,Free,M726,Cobra Kai,Romance,TV Show,41,60,2025-08-29,2,Smart TV,Incomplete
+10685,U820,Sophia Hall,Australia,Free,M366,The Mandalorian,Crime,Movie,142,158,2025-09-25,2,Laptop,Incomplete
+10686,U259,Aarav Gupta,India,Free,M330,Narcos,Sci-Fi,Movie,32,34,2025-10-11,2,Laptop,Completed
+10687,U716,Lily Martin,India,Standard,M356,The Crown,Sci-Fi,TV Show,16,21,2025-08-11,5,Smart TV,Incomplete
+10688,U318,Isabella Thomas,USA,Standard,M944,Squid Game,Romance,Movie,130,176,2025-09-08,3,Mobile,Incomplete
+10689,U278,Emma Johnson,India,Free,M745,House of the Dragon,Action,Movie,61,104,2025-09-29,4,Tablet,Incomplete
+10690,U819,Sarah Lee,Canada,Standard,M234,The Flash,Action,TV Show,36,41,2025-08-22,2,Laptop,Incomplete
+10691,U675,Charlotte Adams,UK,Free,M830,Wednesday,Thriller,Movie,109,167,2025-09-19,2,Laptop,Incomplete
+10692,U452,Lucas Green,UK,Standard,M268,The Witcher,Comedy,Movie,22,34,2025-08-13,4,Smart TV,Incomplete
+10693,U680,David Wilson,USA,Premium,M779,Game of Thrones,Adventure,Movie,64,93,2025-10-06,4,Tablet,Incomplete
+10694,U830,Diya Reddy,India,Premium,M572,Vikings,Adventure,Movie,104,167,2025-08-15,5,Tablet,Incomplete
+10695,U832,Noah Clark,Canada,Free,M743,The Office,Crime,Movie,114,116,2025-08-12,4,Tablet,Completed
+10696,U918,Emma Johnson,India,Free,M502,House of the Dragon,Drama,TV Show,18,26,2025-09-11,2,Laptop,Incomplete
+10697,U317,Ava White,India,Premium,M453,Reacher,Adventure,Movie,85,119,2025-09-10,3,Laptop,Incomplete
+10698,U137,Jack Anderson,UAE,Premium,M611,Inception,Adventure,Movie,85,117,2025-08-12,1,Tablet,Incomplete
+10699,U109,Mia Patel,Australia,Free,M664,Lucifer,Comedy,Movie,137,151,2025-09-07,2,Mobile,Completed
+10700,U181,Isabella Thomas,UAE,Standard,M333,Narcos,Drama,Movie,113,168,2025-08-22,2,Tablet,Incomplete
+10701,U342,Saanvi Jain,UAE,Standard,M230,Sacred Games,Romance,Movie,27,53,2025-10-02,1,Mobile,Incomplete
+10702,U517,Noah Clark,UK,Free,M451,Game of Thrones,Comedy,Movie,147,156,2025-08-07,4,Laptop,Completed
+10703,U874,Yash Garg,Japan,Premium,M201,Avatar,Drama,TV Show,18,30,2025-09-08,4,Laptop,Incomplete
+10704,U357,Priya Nair,Japan,Premium,M624,Breaking Bad,Thriller,Movie,54,74,2025-08-08,5,Mobile,Incomplete
+10705,U729,Noah Clark,UAE,Free,M430,Extraction,Thriller,Movie,42,79,2025-08-17,3,Tablet,Incomplete
+10706,U705,Arnav Joshi,Canada,Free,M848,Vikings,Adventure,TV Show,46,55,2025-10-25,1,Mobile,Incomplete
+10707,U998,Aarav Gupta,India,Free,M406,Reacher,Sci-Fi,TV Show,39,59,2025-08-23,1,Mobile,Incomplete
+10708,U610,Arnav Joshi,USA,Standard,M610,House of the Dragon,Comedy,Movie,68,98,2025-09-09,3,Laptop,Incomplete
+10709,U950,Benjamin Scott,Australia,Standard,M991,Wednesday,Adventure,TV Show,30,55,2025-08-29,2,Laptop,Incomplete
+10710,U781,Yash Garg,USA,Premium,M456,Wednesday,Romance,Movie,40,74,2025-09-10,2,Tablet,Incomplete
+10711,U448,Aarav Gupta,India,Premium,M679,Reacher,Fantasy,Movie,99,117,2025-09-23,2,Tablet,Incomplete
+10712,U345,Raj Sharma,UAE,Premium,M438,The Flash,Adventure,TV Show,39,50,2025-08-08,1,Tablet,Incomplete
+10713,U677,Diya Reddy,Japan,Free,M860,Interstellar,Drama,TV Show,18,33,2025-09-12,5,Mobile,Incomplete
+10714,U426,Jack Anderson,UK,Standard,M369,Friends,Comedy,Movie,64,80,2025-09-16,4,Smart TV,Incomplete
+10715,U974,Mia Patel,Japan,Free,M650,Dune,Fantasy,Movie,15,31,2025-09-30,1,Mobile,Incomplete
+10716,U187,Raj Sharma,Australia,Standard,M804,Dark,Crime,TV Show,37,47,2025-08-24,2,Laptop,Incomplete
+10717,U189,Arjun Mehra,Australia,Premium,M805,The Witcher,Romance,Movie,53,61,2025-09-10,2,Laptop,Incomplete
+10718,U317,Sophia Hall,USA,Standard,M330,Inception,Thriller,TV Show,35,36,2025-10-11,4,Mobile,Completed
+10719,U692,David Wilson,UAE,Standard,M657,Bridgerton,Adventure,TV Show,24,36,2025-10-26,3,Laptop,Incomplete
+10720,U887,Ryan Moore,UAE,Standard,M458,Interstellar,Action,TV Show,15,23,2025-09-28,5,Tablet,Incomplete
+10721,U328,Mia Patel,Australia,Free,M998,Vikings,Comedy,TV Show,38,49,2025-09-25,4,Laptop,Incomplete
+10722,U471,Oliver Brown,USA,Premium,M897,Money Heist,Sci-Fi,TV Show,16,27,2025-08-07,4,Laptop,Incomplete
+10723,U935,Emma Johnson,India,Premium,M629,Avatar,Romance,TV Show,19,36,2025-08-15,2,Smart TV,Incomplete
+10724,U530,Ava White,USA,Free,M425,Stranger Things,Crime,Movie,147,156,2025-08-22,5,Tablet,Completed
+10725,U707,Lily Martin,India,Standard,M737,The 100,Drama,Movie,80,161,2025-09-15,2,Tablet,Incomplete
+10726,U376,Benjamin Scott,Japan,Standard,M748,Black Mirror,Action,Movie,82,120,2025-10-28,1,Smart TV,Incomplete
+10727,U104,Raj Sharma,UK,Standard,M456,Bridgerton,Romance,Movie,97,98,2025-10-02,5,Smart TV,Completed
+10728,U940,Yash Garg,Japan,Free,M890,Loki,Drama,TV Show,23,35,2025-09-06,4,Tablet,Incomplete
+10729,U800,Raj Sharma,UAE,Premium,M475,Dune,Comedy,Movie,20,25,2025-09-21,2,Laptop,Incomplete
+10730,U961,Mia Patel,Australia,Standard,M354,Dune,Crime,TV Show,41,49,2025-09-30,1,Laptop,Incomplete
+10731,U216,Emma Johnson,UK,Premium,M659,Dune,Action,TV Show,18,21,2025-09-06,4,Smart TV,Incomplete
+10732,U226,Mia Patel,Japan,Standard,M313,Jawan,Thriller,Movie,56,72,2025-10-28,2,Smart TV,Incomplete
+10733,U478,Arjun Mehra,Australia,Standard,M725,Stranger Things,Crime,Movie,168,180,2025-10-07,2,Laptop,Completed
+10734,U947,Sophia Hall,UK,Standard,M898,Inception,Sci-Fi,TV Show,28,32,2025-10-21,4,Laptop,Incomplete
+10735,U767,Meera Kapoor,Japan,Free,M149,Spider-Man: No Way Home,Adventure,TV Show,11,23,2025-10-15,3,Tablet,Incomplete
+10736,U720,Raj Sharma,Australia,Premium,M590,Jawan,Action,Movie,80,97,2025-09-02,2,Mobile,Incomplete
+10737,U417,Charlotte Adams,India,Premium,M766,Lucifer,Comedy,TV Show,34,48,2025-10-30,4,Laptop,Incomplete
+10738,U964,Isabella Thomas,Japan,Premium,M669,Dune,Action,Movie,21,30,2025-08-03,3,Laptop,Incomplete
+10739,U351,Harshit Tiwari,Australia,Premium,M196,Vikings,Romance,TV Show,44,59,2025-10-08,4,Smart TV,Incomplete
+10740,U388,Sarah Lee,UAE,Free,M700,Friends,Action,TV Show,27,53,2025-09-05,2,Laptop,Incomplete
+10741,U371,Ella Turner,UK,Standard,M557,Reacher,Thriller,Movie,81,136,2025-08-09,2,Laptop,Incomplete
+10742,U947,Neha Verma,Australia,Standard,M644,Sacred Games,Drama,Movie,86,89,2025-09-02,4,Laptop,Completed
+10743,U217,Isabella Thomas,India,Free,M608,Interstellar,Fantasy,Movie,28,40,2025-08-27,3,Tablet,Incomplete
+10744,U795,Mia Patel,USA,Standard,M534,House of the Dragon,Fantasy,Movie,70,91,2025-08-21,2,Laptop,Incomplete
+10745,U833,Lucas Green,Japan,Standard,M323,Inception,Comedy,TV Show,34,58,2025-09-12,4,Mobile,Incomplete
+10746,U984,Charlotte Adams,Japan,Premium,M817,Stranger Things,Comedy,TV Show,27,54,2025-10-06,4,Smart TV,Incomplete
+10747,U849,Benjamin Scott,Canada,Free,M781,The Flash,Drama,Movie,102,148,2025-10-21,1,Smart TV,Incomplete
+10748,U924,Ava White,Japan,Standard,M526,Loki,Fantasy,Movie,26,31,2025-10-01,4,Smart TV,Incomplete
+10749,U889,Priya Nair,India,Free,M791,Bridgerton,Comedy,TV Show,32,32,2025-08-18,3,Smart TV,Completed
+10750,U370,Neha Verma,Australia,Standard,M748,Narcos,Crime,TV Show,27,52,2025-10-04,1,Laptop,Incomplete
+10751,U379,Rohan Singh,India,Free,M469,The Crown,Drama,Movie,90,167,2025-10-22,1,Tablet,Incomplete
+10752,U481,Aisha Khan,USA,Premium,M728,The Boys,Comedy,TV Show,28,32,2025-10-06,4,Smart TV,Incomplete
+10753,U493,Neha Verma,Australia,Standard,M913,Avatar,Thriller,Movie,115,146,2025-10-08,4,Tablet,Incomplete
+10754,U255,Priya Nair,Australia,Premium,M767,Squid Game,Thriller,TV Show,42,57,2025-08-30,5,Smart TV,Incomplete
+10755,U512,Meera Kapoor,UK,Standard,M569,Loki,Action,Movie,76,84,2025-09-27,2,Tablet,Completed
+10756,U301,Aarav Gupta,Australia,Free,M317,Avatar,Thriller,Movie,115,115,2025-09-29,3,Tablet,Completed
+10757,U860,Charlotte Adams,UK,Premium,M200,Squid Game,Comedy,Movie,41,65,2025-10-07,5,Tablet,Incomplete
+10758,U705,Ella Turner,UAE,Standard,M600,The Boys,Drama,TV Show,29,54,2025-09-25,2,Smart TV,Incomplete
+10759,U194,Rohan Singh,UAE,Free,M370,The Crown,Romance,Movie,32,32,2025-08-18,5,Mobile,Completed
+10760,U781,Harshit Tiwari,India,Standard,M710,Dune,Sci-Fi,TV Show,17,25,2025-10-29,3,Smart TV,Incomplete
+10761,U905,Mia Patel,UK,Premium,M522,Game of Thrones,Thriller,TV Show,25,27,2025-08-13,5,Laptop,Completed
+10762,U818,Noah Clark,UK,Premium,M740,Game of Thrones,Adventure,Movie,114,128,2025-09-12,2,Laptop,Incomplete
+10763,U663,Rohan Singh,India,Premium,M858,Mirzapur,Sci-Fi,Movie,45,75,2025-08-05,4,Mobile,Incomplete
+10764,U849,Arnav Joshi,USA,Standard,M747,Cobra Kai,Sci-Fi,TV Show,24,27,2025-10-25,5,Smart TV,Incomplete
+10765,U878,Sarah Lee,UAE,Free,M763,Extraction,Sci-Fi,Movie,152,174,2025-08-08,3,Tablet,Incomplete
+10766,U271,Mia Patel,Canada,Standard,M859,The Flash,Romance,Movie,70,80,2025-08-06,3,Mobile,Incomplete
+10767,U183,Jack Anderson,UK,Standard,M189,Sacred Games,Adventure,TV Show,17,29,2025-09-19,5,Laptop,Incomplete
+10768,U162,Charlotte Adams,Japan,Free,M644,Friends,Adventure,Movie,70,107,2025-08-01,4,Tablet,Incomplete
+10769,U935,Arjun Mehra,Japan,Premium,M469,Extraction,Crime,TV Show,30,39,2025-10-21,5,Tablet,Incomplete
+10770,U816,Yash Garg,USA,Free,M232,Sacred Games,Sci-Fi,TV Show,18,33,2025-09-09,1,Mobile,Incomplete
+10771,U208,Neha Verma,UK,Premium,M695,Black Mirror,Action,Movie,30,45,2025-09-14,1,Laptop,Incomplete
+10772,U524,Saanvi Jain,India,Free,M140,Mirzapur,Romance,TV Show,19,27,2025-09-26,5,Smart TV,Incomplete
+10773,U295,Oliver Brown,Japan,Free,M124,Stranger Things,Comedy,Movie,28,35,2025-09-21,3,Laptop,Incomplete
+10774,U341,Arjun Mehra,India,Standard,M387,Extraction,Romance,TV Show,28,31,2025-08-09,2,Mobile,Completed
+10775,U712,Arjun Mehra,USA,Standard,M524,Stranger Things,Thriller,Movie,86,143,2025-08-29,3,Smart TV,Incomplete
+10776,U265,Arnav Joshi,UK,Standard,M314,Interstellar,Adventure,TV Show,37,49,2025-08-19,5,Smart TV,Incomplete
+10777,U294,Ryan Moore,Canada,Free,M404,Dune,Romance,TV Show,30,56,2025-10-23,1,Mobile,Incomplete
+10778,U975,Emma Johnson,USA,Free,M738,Stranger Things,Comedy,TV Show,42,53,2025-08-12,2,Mobile,Incomplete
+10779,U274,Diya Reddy,India,Standard,M652,The Crown,Comedy,Movie,45,46,2025-09-11,3,Tablet,Completed
+10780,U851,Benjamin Scott,USA,Standard,M365,The Crown,Thriller,TV Show,20,38,2025-08-07,5,Mobile,Incomplete
+10781,U862,Ava White,Australia,Standard,M624,The Mandalorian,Thriller,Movie,85,91,2025-09-11,2,Tablet,Completed
+10782,U289,Mia Patel,UK,Free,M386,The Boys,Comedy,Movie,61,63,2025-10-17,2,Mobile,Completed
+10783,U302,Benjamin Scott,India,Free,M909,The Witcher,Thriller,Movie,21,26,2025-10-17,4,Tablet,Incomplete
+10784,U336,Charlotte Adams,Australia,Premium,M893,Squid Game,Romance,Movie,103,117,2025-10-01,2,Smart TV,Incomplete
+10785,U546,Meera Kapoor,Australia,Standard,M838,Sacred Games,Thriller,TV Show,13,26,2025-08-27,3,Tablet,Incomplete
+10786,U395,Sophia Hall,Canada,Free,M659,Game of Thrones,Drama,Movie,128,166,2025-10-08,3,Mobile,Incomplete
+10787,U400,Sophia Hall,Canada,Premium,M763,Lucifer,Romance,TV Show,12,23,2025-10-11,1,Laptop,Incomplete
+10788,U558,Isabella Thomas,Japan,Free,M525,Dark,Fantasy,Movie,84,132,2025-10-07,5,Smart TV,Incomplete
+10789,U213,Meera Kapoor,UAE,Standard,M214,Lucifer,Sci-Fi,TV Show,37,49,2025-09-01,4,Mobile,Incomplete
+10790,U568,Emma Johnson,Canada,Standard,M623,Avatar,Romance,TV Show,29,35,2025-08-20,1,Mobile,Incomplete
+10791,U922,Aisha Khan,Japan,Premium,M605,The Boys,Thriller,Movie,79,111,2025-09-07,5,Smart TV,Incomplete
+10792,U281,Charlotte Adams,USA,Free,M985,The Flash,Adventure,TV Show,31,35,2025-08-23,4,Tablet,Incomplete
+10793,U838,Neha Verma,Canada,Free,M460,The Witcher,Sci-Fi,TV Show,29,55,2025-09-20,2,Laptop,Incomplete
+10794,U705,Benjamin Scott,Canada,Standard,M635,The Boys,Fantasy,Movie,20,29,2025-09-03,1,Smart TV,Incomplete
+10795,U429,Raj Sharma,Australia,Standard,M929,Dune,Comedy,TV Show,52,59,2025-09-14,5,Tablet,Incomplete
+10796,U544,Ryan Moore,India,Premium,M309,Bridgerton,Fantasy,TV Show,28,36,2025-09-12,1,Tablet,Incomplete
+10797,U631,Rohan Singh,UK,Premium,M691,Black Mirror,Thriller,Movie,19,34,2025-08-05,2,Mobile,Incomplete
+10798,U290,Arjun Mehra,Japan,Free,M400,Loki,Thriller,Movie,23,28,2025-09-25,5,Smart TV,Incomplete
+10799,U388,Diya Reddy,Australia,Free,M101,Game of Thrones,Romance,TV Show,26,44,2025-10-03,1,Laptop,Incomplete
+10800,U450,Raj Sharma,Japan,Free,M400,The Office,Thriller,Movie,32,49,2025-10-11,1,Tablet,Incomplete
+10801,U390,Sarah Lee,UAE,Free,M164,Lucifer,Crime,Movie,86,146,2025-08-03,3,Laptop,Incomplete
+10802,U220,Emma Johnson,Australia,Standard,M602,The Boys,Sci-Fi,Movie,82,84,2025-08-18,4,Laptop,Completed
+10803,U709,Mia Patel,Japan,Standard,M807,The Flash,Action,Movie,27,43,2025-09-25,5,Mobile,Incomplete
+10804,U708,Saanvi Jain,Australia,Free,M652,Lucifer,Comedy,Movie,29,33,2025-08-18,4,Smart TV,Incomplete
+10805,U863,Noah Clark,USA,Standard,M711,Loki,Thriller,TV Show,21,38,2025-09-21,4,Mobile,Incomplete
+10806,U216,Ava White,UAE,Standard,M318,Jawan,Action,TV Show,18,33,2025-09-09,5,Mobile,Incomplete
+10807,U447,David Wilson,Japan,Standard,M601,Loki,Fantasy,Movie,101,127,2025-10-04,3,Smart TV,Incomplete
+10808,U359,Jack Anderson,India,Standard,M588,Money Heist,Crime,TV Show,38,60,2025-10-13,3,Smart TV,Incomplete
+10809,U786,Benjamin Scott,USA,Free,M786,Narcos,Drama,Movie,72,107,2025-08-03,2,Mobile,Incomplete
+10810,U923,Aarav Gupta,USA,Premium,M813,Avatar,Sci-Fi,TV Show,27,31,2025-10-23,1,Tablet,Incomplete
+10811,U842,Ella Turner,Japan,Free,M447,The Crown,Drama,Movie,64,114,2025-10-25,4,Mobile,Incomplete
+10812,U156,Rohan Singh,Canada,Free,M606,Squid Game,Comedy,TV Show,47,48,2025-10-09,2,Mobile,Completed
+10813,U286,Lucas Green,Australia,Premium,M375,Friends,Thriller,Movie,110,158,2025-08-20,3,Mobile,Incomplete
+10814,U357,Harshit Tiwari,USA,Premium,M235,Wednesday,Sci-Fi,Movie,101,136,2025-10-13,1,Mobile,Incomplete
+10815,U919,Harshit Tiwari,UAE,Premium,M501,Dark,Thriller,TV Show,41,45,2025-08-20,5,Mobile,Completed
+10816,U147,Aisha Khan,India,Free,M738,The Office,Sci-Fi,TV Show,20,32,2025-10-07,5,Mobile,Incomplete
+10817,U769,Aarav Gupta,UAE,Free,M958,Interstellar,Comedy,Movie,57,77,2025-08-10,2,Smart TV,Incomplete
+10818,U131,Meera Kapoor,Australia,Free,M767,Cobra Kai,Romance,Movie,144,161,2025-09-08,2,Laptop,Incomplete
+10819,U313,Raj Sharma,Australia,Premium,M396,Interstellar,Thriller,Movie,149,152,2025-09-08,1,Laptop,Completed
+10820,U819,Sophia Hall,Japan,Premium,M663,Black Mirror,Romance,Movie,29,29,2025-09-11,4,Mobile,Completed
+10821,U992,Ella Turner,Australia,Premium,M374,Sacred Games,Drama,Movie,84,93,2025-09-30,1,Tablet,Completed
+10822,U707,Neha Verma,UK,Premium,M345,The Flash,Drama,Movie,134,169,2025-09-25,3,Tablet,Incomplete
+10823,U368,Ella Turner,UK,Standard,M769,Narcos,Adventure,Movie,141,157,2025-08-30,3,Smart TV,Incomplete
+10824,U254,Rohan Singh,Japan,Free,M116,Sacred Games,Adventure,TV Show,32,33,2025-09-15,4,Smart TV,Completed
+10825,U159,Ella Turner,UK,Premium,M827,The Witcher,Thriller,Movie,87,93,2025-08-26,5,Smart TV,Completed
+10826,U816,Ava White,UK,Standard,M174,Friends,Fantasy,TV Show,34,36,2025-10-04,2,Laptop,Completed
+10827,U198,Lucas Green,UK,Free,M561,Inception,Action,Movie,30,43,2025-10-02,3,Tablet,Incomplete
+10828,U608,Emma Johnson,Japan,Premium,M366,Mirzapur,Comedy,TV Show,43,45,2025-10-06,4,Smart TV,Completed
+10829,U558,Meera Kapoor,India,Standard,M829,Jawan,Comedy,TV Show,22,23,2025-10-15,5,Mobile,Completed
+10830,U447,Emma Johnson,USA,Free,M964,Peaky Blinders,Sci-Fi,Movie,55,64,2025-08-14,2,Smart TV,Incomplete
+10831,U694,Mia Patel,UK,Premium,M577,Loki,Comedy,Movie,19,26,2025-08-09,1,Laptop,Incomplete
+10832,U193,Isabella Thomas,Japan,Premium,M802,Lucifer,Romance,TV Show,15,29,2025-08-07,2,Mobile,Incomplete
+10833,U437,Jack Anderson,UAE,Premium,M641,Friends,Romance,Movie,27,38,2025-09-26,5,Tablet,Incomplete
+10834,U938,Meera Kapoor,Japan,Free,M490,Peaky Blinders,Thriller,Movie,113,122,2025-10-19,1,Mobile,Completed
+10835,U510,David Wilson,USA,Premium,M786,The Witcher,Sci-Fi,TV Show,39,59,2025-10-15,1,Laptop,Incomplete
+10836,U525,Aisha Khan,UAE,Free,M507,Narcos,Drama,Movie,78,93,2025-10-29,5,Mobile,Incomplete
+10837,U710,Aarav Gupta,Japan,Standard,M456,Dark,Sci-Fi,TV Show,28,51,2025-09-20,4,Tablet,Incomplete
+10838,U984,Sarah Lee,Japan,Free,M349,Stranger Things,Adventure,Movie,19,28,2025-09-29,2,Laptop,Incomplete
+10839,U620,Ava White,USA,Premium,M554,Peaky Blinders,Fantasy,Movie,51,68,2025-08-08,5,Mobile,Incomplete
+10840,U467,Sarah Lee,UAE,Standard,M290,House of the Dragon,Fantasy,Movie,124,135,2025-10-13,5,Tablet,Completed
+10841,U659,Saanvi Jain,Australia,Free,M847,Dune,Drama,TV Show,35,60,2025-08-10,1,Mobile,Incomplete
+10842,U220,Saanvi Jain,Canada,Standard,M233,Squid Game,Fantasy,TV Show,28,37,2025-10-27,2,Tablet,Incomplete
+10843,U160,Oliver Brown,Canada,Standard,M573,The Mandalorian,Thriller,TV Show,45,48,2025-09-06,5,Mobile,Completed
+10844,U619,Aisha Khan,USA,Standard,M384,Stranger Things,Action,Movie,77,111,2025-09-24,2,Laptop,Incomplete
+10845,U846,Ryan Moore,UK,Free,M490,Loki,Adventure,Movie,84,101,2025-08-22,1,Mobile,Incomplete
+10846,U626,Raj Sharma,UK,Standard,M249,Sacred Games,Romance,Movie,45,45,2025-08-07,2,Laptop,Completed
+10847,U748,David Wilson,Canada,Free,M246,Black Mirror,Action,TV Show,26,35,2025-10-12,1,Mobile,Incomplete
+10848,U545,Arnav Joshi,Australia,Premium,M994,The Mandalorian,Romance,TV Show,39,53,2025-10-06,5,Smart TV,Incomplete
+10849,U600,Isabella Thomas,UK,Standard,M875,The Office,Drama,TV Show,19,23,2025-08-27,2,Laptop,Incomplete
+10850,U637,Ava White,USA,Premium,M467,Sacred Games,Crime,TV Show,26,38,2025-09-20,5,Laptop,Incomplete
+10851,U851,Sarah Lee,Japan,Free,M670,The 100,Comedy,TV Show,16,32,2025-08-02,5,Tablet,Incomplete
+10852,U903,Mia Patel,USA,Standard,M650,The 100,Romance,Movie,145,157,2025-09-28,2,Smart TV,Completed
+10853,U257,Neha Verma,Australia,Premium,M281,Jawan,Thriller,Movie,23,32,2025-10-22,5,Tablet,Incomplete
+10854,U767,Diya Reddy,USA,Standard,M775,The Flash,Comedy,TV Show,41,42,2025-09-01,1,Laptop,Completed
+10855,U983,Jack Anderson,UK,Premium,M753,Money Heist,Romance,Movie,133,168,2025-09-24,2,Tablet,Incomplete
+10856,U736,Jack Anderson,USA,Free,M833,Friends,Comedy,TV Show,37,40,2025-08-26,2,Mobile,Completed
+10857,U554,Ella Turner,UAE,Standard,M434,Jawan,Romance,TV Show,44,53,2025-08-26,3,Mobile,Incomplete
+10858,U673,David Wilson,UK,Standard,M450,Extraction,Drama,TV Show,22,38,2025-08-29,4,Mobile,Incomplete
+10859,U631,Saanvi Jain,UK,Standard,M633,Cobra Kai,Action,TV Show,15,24,2025-09-04,5,Tablet,Incomplete
+10860,U480,Saanvi Jain,Canada,Premium,M596,Inception,Action,TV Show,34,47,2025-08-01,1,Laptop,Incomplete
+10861,U885,Isabella Thomas,Japan,Free,M345,Extraction,Action,TV Show,35,57,2025-08-13,5,Tablet,Incomplete
+10862,U373,Sarah Lee,Japan,Free,M171,Inception,Fantasy,TV Show,22,23,2025-09-09,3,Smart TV,Completed
+10863,U125,Charlotte Adams,UK,Standard,M865,Bridgerton,Adventure,Movie,41,72,2025-08-09,1,Tablet,Incomplete
+10864,U165,Benjamin Scott,UAE,Premium,M920,Game of Thrones,Thriller,TV Show,52,52,2025-09-14,4,Tablet,Completed
+10865,U626,Neha Verma,Australia,Standard,M642,Squid Game,Action,TV Show,18,26,2025-10-04,3,Smart TV,Incomplete
+10866,U104,Charlotte Adams,UK,Free,M540,Lucifer,Action,TV Show,26,45,2025-08-29,3,Mobile,Incomplete
+10867,U778,Priya Nair,USA,Standard,M403,Lucifer,Romance,Movie,116,175,2025-09-06,1,Laptop,Incomplete
+10868,U632,Lily Martin,UAE,Free,M637,The Office,Thriller,TV Show,16,25,2025-08-04,2,Smart TV,Incomplete
+10869,U520,Harshit Tiwari,USA,Standard,M684,Wednesday,Drama,TV Show,11,22,2025-08-14,3,Laptop,Incomplete
+10870,U831,Sarah Lee,UAE,Free,M963,Breaking Bad,Romance,Movie,120,141,2025-10-10,5,Laptop,Incomplete
+10871,U685,Arjun Mehra,UAE,Free,M366,Dune,Thriller,Movie,110,112,2025-10-26,5,Tablet,Completed
+10872,U468,Charlotte Adams,Japan,Premium,M430,The Mandalorian,Thriller,TV Show,38,47,2025-10-17,4,Smart TV,Incomplete
+10873,U569,Saanvi Jain,USA,Free,M643,Interstellar,Fantasy,TV Show,50,53,2025-10-09,2,Smart TV,Completed
+10874,U515,Saanvi Jain,India,Standard,M252,Peaky Blinders,Adventure,TV Show,34,48,2025-10-04,2,Tablet,Incomplete
+10875,U309,Lily Martin,Canada,Premium,M662,Black Mirror,Fantasy,Movie,28,32,2025-09-19,4,Smart TV,Incomplete
+10876,U885,Priya Nair,Canada,Standard,M657,Narcos,Sci-Fi,Movie,82,147,2025-09-06,5,Smart TV,Incomplete
+10877,U516,Rohan Singh,Australia,Premium,M816,Narcos,Adventure,Movie,47,63,2025-08-02,5,Mobile,Incomplete
+10878,U639,Ethan Davis,Japan,Premium,M250,Dark,Thriller,Movie,62,76,2025-10-15,3,Mobile,Incomplete
+10879,U208,Ella Turner,India,Premium,M231,The Crown,Action,Movie,80,127,2025-08-23,1,Laptop,Incomplete
+10880,U814,Isabella Thomas,Australia,Premium,M427,The 100,Fantasy,TV Show,39,58,2025-10-24,3,Tablet,Incomplete
+10881,U699,Noah Clark,Canada,Standard,M404,Spider-Man: No Way Home,Sci-Fi,TV Show,16,30,2025-08-23,3,Tablet,Incomplete
+10882,U394,Charlotte Adams,Australia,Premium,M953,The Mandalorian,Comedy,Movie,25,30,2025-08-02,4,Tablet,Incomplete
+10883,U953,Priya Nair,Australia,Premium,M749,Dune,Comedy,Movie,30,61,2025-09-20,4,Smart TV,Incomplete
+10884,U869,Diya Reddy,Australia,Free,M651,Lucifer,Romance,Movie,58,60,2025-09-20,5,Laptop,Completed
+10885,U712,Meera Kapoor,Canada,Premium,M810,Sacred Games,Thriller,TV Show,37,54,2025-09-08,1,Smart TV,Incomplete
+10886,U658,Raj Sharma,Japan,Free,M449,Friends,Drama,TV Show,48,59,2025-10-02,5,Tablet,Incomplete
+10887,U116,Arjun Mehra,Australia,Premium,M350,Vikings,Comedy,TV Show,37,49,2025-08-18,3,Laptop,Incomplete
+10888,U162,Ella Turner,Canada,Premium,M628,Reacher,Adventure,Movie,119,175,2025-10-28,1,Tablet,Incomplete
+10889,U995,Jack Anderson,USA,Standard,M609,Black Mirror,Drama,Movie,111,128,2025-08-29,4,Mobile,Incomplete
+10890,U245,Ella Turner,USA,Premium,M864,Peaky Blinders,Comedy,Movie,69,116,2025-09-04,2,Laptop,Incomplete
+10891,U283,Charlotte Adams,Canada,Free,M937,Game of Thrones,Sci-Fi,TV Show,18,36,2025-09-29,2,Tablet,Incomplete
+10892,U789,David Wilson,India,Premium,M866,Breaking Bad,Sci-Fi,TV Show,40,56,2025-10-23,4,Tablet,Incomplete
+10893,U942,Lucas Green,UK,Standard,M628,Narcos,Comedy,Movie,43,66,2025-10-16,4,Smart TV,Incomplete
+10894,U432,Benjamin Scott,UK,Standard,M752,Friends,Fantasy,TV Show,23,31,2025-09-16,4,Smart TV,Incomplete
+10895,U408,Aisha Khan,UAE,Standard,M640,Dark,Sci-Fi,Movie,61,83,2025-08-04,4,Laptop,Incomplete
+10896,U100,Meera Kapoor,Australia,Premium,M793,Game of Thrones,Comedy,TV Show,14,21,2025-08-29,2,Mobile,Incomplete
+10897,U714,Ethan Davis,UK,Standard,M186,The Witcher,Drama,Movie,48,59,2025-09-17,1,Tablet,Incomplete
+10898,U101,Diya Reddy,Australia,Standard,M732,Sacred Games,Action,Movie,49,92,2025-08-16,4,Smart TV,Incomplete
+10899,U720,Oliver Brown,USA,Standard,M971,Game of Thrones,Sci-Fi,TV Show,21,22,2025-08-28,3,Laptop,Completed
+10900,U908,Jack Anderson,USA,Standard,M555,Dark,Crime,TV Show,17,29,2025-10-06,5,Mobile,Incomplete
+10901,U145,Arnav Joshi,UAE,Standard,M251,Extraction,Adventure,TV Show,53,53,2025-10-06,1,Smart TV,Completed
+10902,U584,Arjun Mehra,Japan,Premium,M142,Cobra Kai,Adventure,Movie,85,132,2025-10-19,1,Tablet,Incomplete
+10903,U578,Benjamin Scott,UK,Standard,M479,Squid Game,Romance,TV Show,47,56,2025-09-06,4,Tablet,Incomplete
+10904,U945,Noah Clark,India,Free,M613,The Office,Drama,Movie,84,121,2025-09-27,1,Tablet,Incomplete
+10905,U534,Charlotte Adams,UAE,Premium,M103,Bridgerton,Thriller,Movie,38,72,2025-10-01,4,Tablet,Incomplete
+10906,U213,Saanvi Jain,Australia,Free,M762,Inception,Thriller,TV Show,24,33,2025-09-24,4,Laptop,Incomplete
+10907,U653,Yash Garg,UAE,Premium,M921,Sacred Games,Romance,TV Show,29,56,2025-08-19,4,Mobile,Incomplete
+10908,U189,Ryan Moore,UAE,Premium,M106,Peaky Blinders,Comedy,TV Show,26,47,2025-08-08,3,Tablet,Incomplete
+10909,U220,Meera Kapoor,UK,Standard,M467,Narcos,Crime,TV Show,23,35,2025-08-12,4,Laptop,Incomplete
+10910,U430,Meera Kapoor,Canada,Standard,M645,Dark,Sci-Fi,Movie,52,89,2025-09-25,5,Mobile,Incomplete
+10911,U630,Diya Reddy,UK,Free,M156,Narcos,Drama,Movie,63,119,2025-10-30,4,Tablet,Incomplete
+10912,U774,Charlotte Adams,Australia,Standard,M742,Cobra Kai,Action,Movie,133,150,2025-08-26,5,Smart TV,Incomplete
+10913,U764,Jack Anderson,Japan,Premium,M689,Breaking Bad,Adventure,TV Show,38,47,2025-10-09,2,Smart TV,Incomplete
+10914,U730,Ava White,Japan,Standard,M372,Breaking Bad,Thriller,TV Show,36,54,2025-08-06,3,Smart TV,Incomplete
+10915,U261,Neha Verma,India,Standard,M602,Sacred Games,Action,TV Show,29,42,2025-10-15,1,Tablet,Incomplete
+10916,U308,Saanvi Jain,UAE,Standard,M474,Bridgerton,Romance,Movie,155,180,2025-09-28,4,Mobile,Incomplete
+10917,U973,Emma Johnson,Canada,Standard,M382,The Office,Sci-Fi,TV Show,42,55,2025-08-20,2,Laptop,Incomplete
+10918,U903,David Wilson,USA,Premium,M228,Bridgerton,Fantasy,Movie,60,116,2025-08-10,3,Smart TV,Incomplete
+10919,U366,Neha Verma,Canada,Premium,M829,Reacher,Action,Movie,140,140,2025-09-13,4,Smart TV,Completed
+10920,U417,Emma Johnson,Canada,Free,M563,Avatar,Adventure,Movie,128,158,2025-09-27,3,Tablet,Incomplete
+10921,U588,Ryan Moore,USA,Free,M893,Interstellar,Adventure,Movie,143,154,2025-09-20,5,Laptop,Completed
+10922,U119,Emma Johnson,India,Premium,M282,The Boys,Sci-Fi,Movie,38,65,2025-08-16,4,Tablet,Incomplete
+10923,U665,Lucas Green,Canada,Free,M362,Lucifer,Romance,Movie,53,94,2025-08-14,3,Laptop,Incomplete
+10924,U158,Yash Garg,Japan,Premium,M163,Black Mirror,Comedy,Movie,30,53,2025-10-05,4,Mobile,Incomplete
+10925,U774,Diya Reddy,India,Premium,M240,Stranger Things,Sci-Fi,Movie,55,101,2025-10-06,2,Mobile,Incomplete
+10926,U603,Lily Martin,USA,Premium,M889,Friends,Fantasy,Movie,48,56,2025-08-17,4,Tablet,Incomplete
+10927,U279,Harshit Tiwari,India,Standard,M173,House of the Dragon,Fantasy,TV Show,37,60,2025-08-30,4,Smart TV,Incomplete
+10928,U977,Harshit Tiwari,Japan,Free,M931,Dark,Thriller,TV Show,58,59,2025-10-27,4,Smart TV,Completed
+10929,U664,Noah Clark,India,Premium,M469,Avatar,Fantasy,TV Show,39,54,2025-09-25,4,Tablet,Incomplete
+10930,U384,Aarav Gupta,UAE,Standard,M821,Cobra Kai,Drama,Movie,59,68,2025-09-22,5,Laptop,Incomplete
+10931,U108,Lily Martin,Canada,Free,M239,House of the Dragon,Action,Movie,65,125,2025-09-25,2,Tablet,Incomplete
+10932,U682,Arnav Joshi,Australia,Free,M342,Game of Thrones,Crime,TV Show,25,28,2025-09-16,5,Tablet,Incomplete
+10933,U517,Charlotte Adams,USA,Free,M278,Loki,Thriller,Movie,69,122,2025-08-30,3,Tablet,Incomplete
+10934,U514,David Wilson,UK,Standard,M863,Reacher,Crime,Movie,66,115,2025-09-14,2,Mobile,Incomplete
+10935,U172,Jack Anderson,Japan,Standard,M316,Peaky Blinders,Crime,Movie,99,165,2025-08-08,4,Mobile,Incomplete
+10936,U133,Raj Sharma,Japan,Standard,M662,Reacher,Crime,TV Show,20,36,2025-09-06,2,Mobile,Incomplete
+10937,U722,Noah Clark,Japan,Standard,M476,Wednesday,Adventure,TV Show,36,38,2025-08-12,3,Smart TV,Completed
+10938,U510,Lucas Green,Canada,Free,M702,Inception,Thriller,Movie,45,72,2025-08-12,2,Tablet,Incomplete
+10939,U669,Sarah Lee,USA,Premium,M712,Stranger Things,Romance,TV Show,35,53,2025-10-27,1,Tablet,Incomplete
+10940,U833,Charlotte Adams,UK,Premium,M554,The Witcher,Crime,Movie,107,116,2025-08-30,1,Tablet,Completed
+10941,U934,Lucas Green,India,Premium,M727,Dark,Sci-Fi,TV Show,27,31,2025-10-02,2,Laptop,Incomplete
+10942,U115,Emma Johnson,UAE,Premium,M263,Cobra Kai,Romance,TV Show,37,41,2025-10-07,4,Smart TV,Completed
+10943,U612,Benjamin Scott,India,Free,M958,Money Heist,Comedy,Movie,106,133,2025-10-06,4,Smart TV,Incomplete
+10944,U208,Aisha Khan,UK,Standard,M152,Jawan,Thriller,Movie,97,111,2025-08-10,4,Smart TV,Incomplete
+10945,U838,Oliver Brown,India,Premium,M168,Black Mirror,Sci-Fi,Movie,81,115,2025-10-28,5,Laptop,Incomplete
+10946,U613,Aarav Gupta,Canada,Standard,M125,Friends,Thriller,TV Show,24,25,2025-08-16,3,Laptop,Completed
+10947,U630,Benjamin Scott,India,Standard,M637,The Witcher,Romance,TV Show,16,31,2025-09-13,3,Tablet,Incomplete
+10948,U752,Isabella Thomas,USA,Standard,M142,Breaking Bad,Sci-Fi,TV Show,30,30,2025-10-05,1,Laptop,Completed
+10949,U789,Lily Martin,Canada,Premium,M236,Dune,Thriller,TV Show,30,46,2025-09-06,3,Tablet,Incomplete
+10950,U597,Aisha Khan,Canada,Premium,M755,The Office,Crime,Movie,116,150,2025-08-22,3,Laptop,Incomplete
+10951,U144,Mia Patel,Australia,Free,M983,The Witcher,Romance,Movie,28,57,2025-10-09,1,Mobile,Incomplete
+10952,U553,Isabella Thomas,UK,Premium,M206,Bridgerton,Thriller,TV Show,36,36,2025-09-09,1,Mobile,Completed
+10953,U881,Neha Verma,UAE,Standard,M949,Vikings,Fantasy,TV Show,37,44,2025-08-24,2,Smart TV,Incomplete
+10954,U840,Diya Reddy,UK,Premium,M395,Avatar,Comedy,Movie,18,35,2025-08-13,5,Mobile,Incomplete
+10955,U553,Raj Sharma,UK,Premium,M145,Lucifer,Romance,Movie,150,169,2025-08-04,1,Laptop,Incomplete
+10956,U159,Priya Nair,Canada,Premium,M838,Peaky Blinders,Drama,TV Show,14,24,2025-10-10,4,Laptop,Incomplete
+10957,U738,Aisha Khan,India,Free,M992,Inception,Thriller,TV Show,20,41,2025-08-22,5,Tablet,Incomplete
+10958,U668,Ryan Moore,India,Free,M942,The Witcher,Crime,TV Show,31,46,2025-08-31,1,Tablet,Incomplete
+10959,U442,Aarav Gupta,Japan,Premium,M750,Loki,Crime,TV Show,31,53,2025-08-07,5,Smart TV,Incomplete
+10960,U335,David Wilson,Japan,Free,M518,The Boys,Action,Movie,153,169,2025-09-27,5,Smart TV,Completed
+10961,U386,Ryan Moore,UK,Standard,M123,The Flash,Action,TV Show,22,35,2025-09-29,3,Laptop,Incomplete
+10962,U352,Yash Garg,UAE,Free,M854,Game of Thrones,Romance,TV Show,18,24,2025-08-09,5,Laptop,Incomplete
+10963,U317,Rohan Singh,USA,Free,M828,Sacred Games,Adventure,TV Show,31,45,2025-10-07,4,Smart TV,Incomplete
+10964,U279,Isabella Thomas,India,Premium,M837,Wednesday,Adventure,TV Show,35,44,2025-10-04,1,Mobile,Incomplete
+10965,U736,Arnav Joshi,Australia,Premium,M157,The Mandalorian,Action,Movie,117,142,2025-08-16,3,Tablet,Incomplete
+10966,U467,Meera Kapoor,USA,Free,M635,The Boys,Action,Movie,66,76,2025-09-19,2,Laptop,Incomplete
+10967,U893,Noah Clark,Australia,Premium,M164,The Mandalorian,Drama,TV Show,37,53,2025-10-13,3,Smart TV,Incomplete
+10968,U110,Noah Clark,UK,Premium,M258,Cobra Kai,Comedy,Movie,74,127,2025-09-07,5,Laptop,Incomplete
+10969,U973,Benjamin Scott,UAE,Free,M547,Jawan,Sci-Fi,Movie,74,89,2025-09-16,1,Mobile,Incomplete
+10970,U582,Aarav Gupta,UK,Premium,M498,Wednesday,Drama,Movie,42,45,2025-10-04,2,Laptop,Completed
+10971,U264,Lucas Green,Canada,Standard,M642,House of the Dragon,Thriller,TV Show,24,26,2025-08-25,2,Tablet,Completed
+10972,U398,Meera Kapoor,India,Premium,M873,Peaky Blinders,Adventure,TV Show,26,40,2025-10-29,5,Tablet,Incomplete
+10973,U765,Benjamin Scott,India,Free,M737,The Mandalorian,Adventure,Movie,45,66,2025-09-02,2,Mobile,Incomplete
+10974,U851,Sophia Hall,Canada,Free,M581,Wednesday,Comedy,Movie,81,84,2025-08-28,2,Mobile,Completed
+10975,U744,Priya Nair,Canada,Free,M461,House of the Dragon,Romance,Movie,58,79,2025-10-02,3,Tablet,Incomplete
+10976,U542,Isabella Thomas,USA,Standard,M609,The Crown,Adventure,Movie,18,35,2025-10-23,2,Mobile,Incomplete
+10977,U806,Aarav Gupta,USA,Premium,M962,The Office,Adventure,Movie,45,55,2025-09-18,4,Tablet,Incomplete
+10978,U782,Oliver Brown,Australia,Free,M576,Loki,Drama,TV Show,29,48,2025-10-29,1,Tablet,Incomplete
+10979,U517,Oliver Brown,Japan,Free,M379,Peaky Blinders,Action,TV Show,44,48,2025-09-17,2,Laptop,Completed
+10980,U612,Lily Martin,Australia,Free,M484,Friends,Sci-Fi,Movie,34,63,2025-09-15,2,Mobile,Incomplete
+10981,U536,Sarah Lee,Canada,Premium,M727,Spider-Man: No Way Home,Fantasy,Movie,106,142,2025-09-22,4,Tablet,Incomplete
+10982,U611,Ava White,India,Free,M884,The Boys,Action,Movie,49,58,2025-10-29,4,Smart TV,Incomplete
+10983,U442,Lucas Green,USA,Free,M906,Narcos,Drama,TV Show,17,29,2025-10-04,5,Mobile,Incomplete
+10984,U379,Aisha Khan,UK,Standard,M441,Cobra Kai,Romance,Movie,125,156,2025-08-08,2,Laptop,Incomplete
+10985,U373,Emma Johnson,Australia,Standard,M493,The Flash,Comedy,Movie,114,160,2025-10-13,5,Tablet,Incomplete
+10986,U700,Oliver Brown,Japan,Free,M257,Inception,Fantasy,TV Show,17,29,2025-09-22,2,Smart TV,Incomplete
+10987,U834,Lily Martin,Australia,Free,M936,Avatar,Romance,TV Show,29,30,2025-08-16,4,Laptop,Completed
+10988,U225,Lucas Green,Canada,Premium,M604,Wednesday,Sci-Fi,Movie,74,139,2025-10-01,5,Tablet,Incomplete
+10989,U993,Rohan Singh,UAE,Premium,M853,The Crown,Adventure,Movie,64,64,2025-10-15,1,Tablet,Completed
+10990,U266,Yash Garg,India,Standard,M682,Peaky Blinders,Drama,TV Show,26,31,2025-08-25,2,Mobile,Incomplete
+10991,U468,Benjamin Scott,Canada,Free,M839,House of the Dragon,Drama,Movie,48,48,2025-09-11,3,Mobile,Completed
+10992,U376,Emma Johnson,UK,Premium,M226,Inception,Adventure,Movie,121,166,2025-09-02,2,Smart TV,Incomplete
+10993,U866,Arjun Mehra,India,Free,M682,The Boys,Comedy,TV Show,19,29,2025-10-20,1,Tablet,Incomplete
+10994,U547,Lucas Green,Canada,Free,M733,Bridgerton,Drama,TV Show,41,55,2025-10-15,2,Laptop,Incomplete
+10995,U986,Harshit Tiwari,USA,Standard,M820,Squid Game,Crime,TV Show,29,39,2025-08-03,3,Mobile,Incomplete
+10996,U864,Lucas Green,UAE,Free,M159,Vikings,Sci-Fi,Movie,122,127,2025-09-07,3,Laptop,Completed
+10997,U845,Aarav Gupta,UAE,Premium,M920,Wednesday,Action,TV Show,28,57,2025-08-17,1,Smart TV,Incomplete
+10998,U614,Raj Sharma,USA,Standard,M674,House of the Dragon,Drama,Movie,69,94,2025-09-15,1,Mobile,Incomplete
+10999,U638,Priya Nair,USA,Premium,M437,Dark,Romance,Movie,51,96,2025-10-15,2,Laptop,Incomplete
+11000,U303,Saanvi Jain,India,Premium,M280,Extraction,Drama,Movie,83,94,2025-08-21,1,Mobile,Incomplete
+11001,U979,Saanvi Jain,India,Free,M648,Peaky Blinders,Comedy,Movie,77,143,2025-08-19,1,Smart TV,Incomplete
+11002,U119,Aarav Gupta,USA,Free,M763,Avatar,Fantasy,TV Show,16,26,2025-08-30,2,Laptop,Incomplete
+11003,U782,Aarav Gupta,India,Free,M152,House of the Dragon,Action,TV Show,17,28,2025-08-08,2,Mobile,Incomplete
+11004,U130,Ava White,UAE,Standard,M838,Breaking Bad,Fantasy,Movie,74,93,2025-09-06,1,Tablet,Incomplete
+11005,U829,Arjun Mehra,UAE,Free,M968,House of the Dragon,Fantasy,Movie,86,88,2025-09-08,2,Smart TV,Completed
+11006,U149,David Wilson,UK,Standard,M711,Interstellar,Thriller,Movie,97,119,2025-08-17,4,Laptop,Incomplete
+11007,U813,Rohan Singh,Australia,Standard,M471,Loki,Action,TV Show,23,36,2025-10-17,5,Mobile,Incomplete
+11008,U974,Yash Garg,India,Free,M959,Reacher,Thriller,Movie,130,152,2025-08-21,1,Laptop,Incomplete
+11009,U606,Jack Anderson,Japan,Standard,M781,Breaking Bad,Adventure,Movie,62,73,2025-09-28,1,Laptop,Incomplete
+11010,U921,Isabella Thomas,UAE,Premium,M780,Stranger Things,Sci-Fi,TV Show,28,37,2025-09-09,4,Mobile,Incomplete
+11011,U715,David Wilson,India,Standard,M558,Spider-Man: No Way Home,Thriller,TV Show,15,21,2025-10-29,1,Mobile,Incomplete
+11012,U121,Saanvi Jain,India,Free,M844,House of the Dragon,Adventure,TV Show,21,30,2025-09-25,5,Mobile,Incomplete
+11013,U294,Aarav Gupta,UK,Standard,M673,Interstellar,Romance,TV Show,26,42,2025-10-06,5,Laptop,Incomplete
+11014,U927,Harshit Tiwari,UK,Standard,M386,Inception,Thriller,TV Show,20,33,2025-10-19,4,Mobile,Incomplete
+11015,U581,Jack Anderson,UAE,Free,M841,Avatar,Crime,TV Show,33,34,2025-09-29,4,Mobile,Completed
+11016,U540,Charlotte Adams,Canada,Standard,M919,Wednesday,Thriller,TV Show,25,28,2025-08-31,2,Laptop,Incomplete
+11017,U980,Lily Martin,UK,Premium,M984,Black Mirror,Fantasy,Movie,43,56,2025-08-24,2,Mobile,Incomplete
+11018,U949,Jack Anderson,UK,Free,M506,Vikings,Crime,TV Show,40,56,2025-08-13,5,Tablet,Incomplete
+11019,U774,Ava White,UAE,Premium,M943,Wednesday,Crime,TV Show,12,21,2025-09-01,3,Mobile,Incomplete
+11020,U793,Noah Clark,Canada,Premium,M271,Inception,Adventure,TV Show,26,52,2025-10-29,1,Laptop,Incomplete
+11021,U913,Jack Anderson,Australia,Premium,M572,Friends,Fantasy,Movie,82,87,2025-10-23,5,Mobile,Completed
+11022,U126,Isabella Thomas,Australia,Premium,M512,Jawan,Fantasy,Movie,109,148,2025-08-05,3,Tablet,Incomplete
+11023,U554,Lucas Green,Canada,Free,M256,Reacher,Adventure,TV Show,14,21,2025-08-03,2,Smart TV,Incomplete
+11024,U291,Saanvi Jain,USA,Standard,M156,House of the Dragon,Crime,TV Show,24,40,2025-08-14,5,Smart TV,Incomplete
+11025,U453,Raj Sharma,UK,Free,M328,The Boys,Action,TV Show,14,22,2025-10-11,1,Tablet,Incomplete
+11026,U906,Arnav Joshi,Japan,Free,M535,Peaky Blinders,Fantasy,Movie,108,154,2025-08-26,5,Mobile,Incomplete
+11027,U557,Lily Martin,Canada,Free,M408,Dark,Adventure,TV Show,18,30,2025-09-08,2,Laptop,Incomplete
+11028,U669,Mia Patel,Canada,Free,M789,The Boys,Adventure,Movie,128,130,2025-09-03,1,Mobile,Completed
+11029,U225,Priya Nair,Australia,Standard,M206,Loki,Comedy,Movie,90,155,2025-08-13,4,Smart TV,Incomplete
+11030,U446,Mia Patel,Canada,Free,M111,The Crown,Fantasy,Movie,35,35,2025-10-28,3,Mobile,Completed
+11031,U130,Benjamin Scott,USA,Free,M933,Vikings,Comedy,TV Show,24,26,2025-09-17,2,Tablet,Completed
+11032,U852,Priya Nair,Japan,Free,M512,Jawan,Action,Movie,28,42,2025-09-02,5,Tablet,Incomplete
+11033,U663,Arjun Mehra,India,Standard,M373,Inception,Fantasy,Movie,96,119,2025-10-25,2,Tablet,Incomplete
+11034,U229,Emma Johnson,USA,Standard,M454,Vikings,Sci-Fi,Movie,35,70,2025-10-28,2,Laptop,Incomplete
+11035,U716,Jack Anderson,USA,Premium,M597,The Boys,Romance,Movie,30,40,2025-08-13,2,Smart TV,Incomplete
+11036,U215,Sarah Lee,UAE,Standard,M225,Breaking Bad,Fantasy,TV Show,56,59,2025-09-22,5,Tablet,Completed
+11037,U554,Neha Verma,USA,Premium,M620,Reacher,Action,TV Show,24,24,2025-08-05,3,Laptop,Completed
+11038,U626,Emma Johnson,India,Standard,M358,Inception,Thriller,TV Show,40,41,2025-09-16,4,Laptop,Completed
+11039,U645,Sarah Lee,India,Free,M327,Dune,Adventure,Movie,49,60,2025-09-24,2,Mobile,Incomplete
+11040,U985,Noah Clark,UK,Premium,M393,Mirzapur,Sci-Fi,Movie,47,70,2025-08-21,5,Mobile,Incomplete
+11041,U592,Aisha Khan,Japan,Standard,M911,Vikings,Crime,Movie,132,144,2025-08-04,4,Mobile,Completed
+11042,U888,Lucas Green,India,Free,M138,Loki,Thriller,Movie,58,115,2025-09-06,2,Mobile,Incomplete
+11043,U282,Ava White,UK,Premium,M128,Narcos,Comedy,Movie,125,142,2025-10-01,3,Smart TV,Incomplete
+11044,U162,Jack Anderson,Japan,Standard,M484,Extraction,Thriller,Movie,35,45,2025-08-14,4,Smart TV,Incomplete
+11045,U200,Lily Martin,UK,Standard,M381,Cobra Kai,Sci-Fi,TV Show,39,58,2025-10-25,2,Mobile,Incomplete
+11046,U489,Arjun Mehra,USA,Free,M208,The Flash,Drama,Movie,110,128,2025-10-07,1,Mobile,Incomplete
+11047,U118,Lucas Green,UK,Free,M430,The Mandalorian,Thriller,Movie,78,147,2025-08-19,1,Laptop,Incomplete
+11048,U135,Meera Kapoor,USA,Free,M535,The Flash,Comedy,TV Show,30,59,2025-10-17,3,Laptop,Incomplete
+11049,U370,Aisha Khan,India,Free,M245,The 100,Sci-Fi,Movie,79,90,2025-08-29,4,Smart TV,Incomplete
+11050,U377,Sarah Lee,USA,Premium,M118,Reacher,Comedy,Movie,110,118,2025-10-06,4,Laptop,Completed
+11051,U329,Noah Clark,Australia,Free,M536,The Crown,Romance,TV Show,29,57,2025-09-28,2,Smart TV,Incomplete
+11052,U147,Jack Anderson,Japan,Standard,M521,Jawan,Drama,TV Show,18,28,2025-10-19,5,Smart TV,Incomplete
+11053,U140,Isabella Thomas,USA,Standard,M125,The 100,Adventure,TV Show,21,30,2025-08-02,1,Tablet,Incomplete
+11054,U150,Sarah Lee,India,Premium,M138,Friends,Adventure,TV Show,27,28,2025-10-01,5,Mobile,Completed
+11055,U106,Raj Sharma,India,Standard,M352,Peaky Blinders,Fantasy,Movie,17,31,2025-09-17,4,Tablet,Incomplete
+11056,U914,Aisha Khan,UK,Standard,M141,Peaky Blinders,Drama,Movie,102,117,2025-08-13,2,Laptop,Incomplete
+11057,U336,David Wilson,India,Free,M922,The Mandalorian,Drama,Movie,19,25,2025-08-31,3,Laptop,Incomplete
+11058,U501,Harshit Tiwari,UK,Free,M605,Squid Game,Comedy,TV Show,16,29,2025-08-04,4,Laptop,Incomplete
+11059,U470,Mia Patel,Japan,Free,M460,Loki,Fantasy,Movie,25,51,2025-08-04,5,Smart TV,Incomplete
+11060,U139,Harshit Tiwari,UAE,Standard,M772,Peaky Blinders,Comedy,TV Show,18,25,2025-09-19,4,Mobile,Incomplete
+11061,U966,Arnav Joshi,India,Premium,M541,Reacher,Fantasy,Movie,80,136,2025-09-29,5,Laptop,Incomplete
+11062,U558,Jack Anderson,Canada,Standard,M418,Bridgerton,Drama,Movie,24,37,2025-09-18,3,Mobile,Incomplete
+11063,U369,Jack Anderson,India,Premium,M745,Lucifer,Action,TV Show,55,55,2025-09-11,3,Smart TV,Completed
+11064,U823,Sarah Lee,USA,Standard,M302,Sacred Games,Crime,Movie,79,140,2025-08-20,1,Smart TV,Incomplete
+11065,U780,Oliver Brown,UAE,Standard,M523,The Flash,Adventure,Movie,96,146,2025-09-29,4,Tablet,Incomplete
+11066,U477,Ryan Moore,India,Premium,M247,Inception,Comedy,TV Show,25,47,2025-08-02,2,Smart TV,Incomplete
+11067,U561,Priya Nair,Canada,Premium,M488,Dune,Fantasy,Movie,103,150,2025-09-10,1,Tablet,Incomplete
+11068,U934,Aisha Khan,USA,Standard,M131,Loki,Romance,TV Show,25,44,2025-09-19,1,Mobile,Incomplete
+11069,U214,Harshit Tiwari,India,Premium,M294,Dune,Romance,TV Show,49,60,2025-08-21,4,Laptop,Incomplete
+11070,U455,Mia Patel,UK,Free,M338,The Witcher,Crime,Movie,73,101,2025-09-30,5,Mobile,Incomplete
+11071,U295,Lily Martin,Canada,Premium,M438,Breaking Bad,Fantasy,Movie,119,143,2025-10-22,3,Smart TV,Incomplete
+11072,U512,Harshit Tiwari,USA,Free,M191,Spider-Man: No Way Home,Drama,TV Show,17,34,2025-09-04,1,Tablet,Incomplete
+11073,U980,Harshit Tiwari,Canada,Premium,M431,The Crown,Sci-Fi,Movie,132,148,2025-08-29,5,Smart TV,Incomplete
+11074,U277,Aisha Khan,Canada,Standard,M330,The 100,Crime,Movie,92,172,2025-10-24,5,Mobile,Incomplete
+11075,U614,Harshit Tiwari,India,Premium,M649,Loki,Drama,Movie,53,90,2025-10-12,5,Tablet,Incomplete
+11076,U196,Lucas Green,Australia,Premium,M538,The Mandalorian,Action,TV Show,46,56,2025-10-04,3,Smart TV,Incomplete
+11077,U949,Ava White,USA,Standard,M807,Loki,Fantasy,Movie,59,87,2025-08-04,2,Mobile,Incomplete
+11078,U515,Noah Clark,UK,Standard,M758,Friends,Thriller,TV Show,31,58,2025-10-24,3,Smart TV,Incomplete
+11079,U741,Oliver Brown,UK,Premium,M348,The Office,Action,TV Show,28,40,2025-10-02,2,Laptop,Incomplete
+11080,U770,David Wilson,USA,Premium,M325,Narcos,Drama,Movie,169,176,2025-10-08,5,Mobile,Completed
+11081,U923,Aisha Khan,USA,Standard,M601,Spider-Man: No Way Home,Drama,TV Show,19,33,2025-08-24,3,Laptop,Incomplete
+11082,U942,Raj Sharma,Canada,Free,M521,Loki,Action,TV Show,32,34,2025-08-19,4,Mobile,Completed
+11083,U271,Isabella Thomas,UK,Free,M774,Reacher,Fantasy,TV Show,26,31,2025-09-01,2,Laptop,Incomplete
+11084,U551,Aarav Gupta,Australia,Free,M634,Spider-Man: No Way Home,Crime,Movie,61,90,2025-09-10,1,Mobile,Incomplete
+11085,U439,Priya Nair,India,Standard,M369,Jawan,Adventure,Movie,33,57,2025-08-22,2,Laptop,Incomplete
+11086,U803,Jack Anderson,Canada,Free,M545,The Boys,Thriller,Movie,75,114,2025-10-15,2,Laptop,Incomplete
+11087,U125,Priya Nair,Australia,Free,M957,The Office,Fantasy,TV Show,28,28,2025-10-05,3,Smart TV,Completed
+11088,U915,Aisha Khan,Japan,Free,M136,Wednesday,Sci-Fi,TV Show,15,24,2025-09-06,2,Laptop,Incomplete
+11089,U607,Mia Patel,USA,Free,M313,The Flash,Fantasy,TV Show,20,21,2025-09-10,5,Smart TV,Completed
+11090,U679,Arjun Mehra,UAE,Free,M526,Dark,Comedy,Movie,110,135,2025-08-22,5,Tablet,Incomplete
+11091,U958,Jack Anderson,UK,Standard,M729,The Crown,Crime,TV Show,47,53,2025-09-20,3,Tablet,Incomplete
+11092,U316,Raj Sharma,UK,Premium,M517,The Flash,Drama,TV Show,15,20,2025-08-28,2,Mobile,Incomplete
+11093,U664,Jack Anderson,Japan,Free,M267,Dune,Drama,TV Show,16,22,2025-08-25,1,Mobile,Incomplete
+11094,U918,Meera Kapoor,Australia,Free,M363,Narcos,Action,Movie,50,100,2025-10-26,3,Tablet,Incomplete
+11095,U140,Jack Anderson,India,Standard,M817,Loki,Crime,Movie,133,135,2025-09-16,1,Mobile,Completed
+11096,U864,Saanvi Jain,India,Free,M761,Peaky Blinders,Crime,Movie,75,86,2025-09-26,4,Smart TV,Incomplete
+11097,U173,Benjamin Scott,UK,Standard,M561,Peaky Blinders,Crime,TV Show,20,23,2025-08-12,3,Tablet,Incomplete
+11098,U518,Lucas Green,USA,Free,M926,The Mandalorian,Romance,TV Show,45,55,2025-10-12,3,Smart TV,Incomplete
+11099,U695,Jack Anderson,India,Premium,M755,The Witcher,Crime,Movie,33,39,2025-08-21,1,Tablet,Incomplete
+11100,U804,Benjamin Scott,USA,Standard,M748,The Mandalorian,Sci-Fi,TV Show,45,50,2025-08-09,2,Tablet,Completed
+11101,U762,Arnav Joshi,Canada,Free,M739,Vikings,Adventure,TV Show,17,20,2025-08-20,5,Laptop,Incomplete
+11102,U859,Saanvi Jain,USA,Standard,M149,Squid Game,Drama,Movie,108,175,2025-08-17,2,Laptop,Incomplete
+11103,U713,Benjamin Scott,Australia,Free,M462,Inception,Crime,TV Show,19,30,2025-10-10,4,Smart TV,Incomplete
+11104,U443,Yash Garg,India,Premium,M930,Sacred Games,Sci-Fi,TV Show,15,26,2025-08-02,3,Smart TV,Incomplete
+11105,U737,Ella Turner,USA,Premium,M375,Money Heist,Comedy,Movie,59,79,2025-08-06,2,Laptop,Incomplete
+11106,U513,Arjun Mehra,Japan,Standard,M365,Jawan,Drama,Movie,56,75,2025-08-05,2,Tablet,Incomplete
+11107,U527,Neha Verma,Australia,Premium,M712,Friends,Adventure,TV Show,51,56,2025-09-02,2,Mobile,Completed
+11108,U306,Arjun Mehra,UAE,Free,M275,Narcos,Action,TV Show,16,28,2025-09-26,5,Laptop,Incomplete
+11109,U958,Emma Johnson,Japan,Free,M432,Money Heist,Action,Movie,53,55,2025-09-05,1,Smart TV,Completed
+11110,U482,Ella Turner,USA,Premium,M648,Breaking Bad,Sci-Fi,Movie,158,172,2025-08-06,3,Smart TV,Completed
+11111,U187,Yash Garg,UK,Premium,M135,Mirzapur,Thriller,TV Show,35,38,2025-08-22,5,Laptop,Completed
+11112,U880,Ryan Moore,USA,Premium,M908,Extraction,Sci-Fi,Movie,63,100,2025-08-25,3,Smart TV,Incomplete
+11113,U296,Emma Johnson,USA,Free,M590,Narcos,Action,TV Show,42,56,2025-08-13,5,Smart TV,Incomplete
+11114,U644,Neha Verma,Australia,Free,M647,House of the Dragon,Drama,TV Show,24,32,2025-10-30,4,Laptop,Incomplete
+11115,U750,Neha Verma,Japan,Premium,M146,Reacher,Romance,Movie,132,134,2025-10-05,5,Tablet,Completed
+11116,U489,Ethan Davis,Japan,Premium,M786,Interstellar,Thriller,TV Show,39,40,2025-09-20,3,Tablet,Completed
+11117,U632,Saanvi Jain,USA,Standard,M622,Peaky Blinders,Drama,TV Show,20,26,2025-08-16,2,Mobile,Incomplete
+11118,U829,Harshit Tiwari,USA,Standard,M908,Money Heist,Drama,Movie,38,55,2025-08-06,3,Laptop,Incomplete
+11119,U551,Arjun Mehra,India,Standard,M163,Wednesday,Action,Movie,87,115,2025-10-24,4,Laptop,Incomplete
+11120,U574,Lily Martin,USA,Standard,M825,Lucifer,Adventure,TV Show,41,46,2025-09-28,1,Mobile,Incomplete
+11121,U892,Charlotte Adams,Japan,Premium,M818,Breaking Bad,Thriller,TV Show,23,40,2025-10-11,1,Mobile,Incomplete
+11122,U656,Arnav Joshi,Australia,Premium,M578,Loki,Thriller,TV Show,14,20,2025-10-29,5,Mobile,Incomplete
+11123,U401,Benjamin Scott,USA,Premium,M524,The Flash,Adventure,TV Show,50,57,2025-10-01,4,Laptop,Incomplete
+11124,U395,Harshit Tiwari,Australia,Standard,M886,Squid Game,Fantasy,Movie,16,32,2025-08-10,1,Smart TV,Incomplete
+11125,U806,Ryan Moore,UAE,Standard,M117,Loki,Sci-Fi,TV Show,26,52,2025-09-12,1,Smart TV,Incomplete
+11126,U222,Sarah Lee,Australia,Free,M937,The Witcher,Action,Movie,140,144,2025-08-14,4,Laptop,Completed
+11127,U213,Lucas Green,UK,Standard,M427,House of the Dragon,Romance,TV Show,21,43,2025-09-11,1,Tablet,Incomplete
+11128,U771,Harshit Tiwari,UK,Premium,M900,Peaky Blinders,Action,TV Show,23,38,2025-10-13,4,Mobile,Incomplete
+11129,U804,Arnav Joshi,USA,Free,M824,Sacred Games,Sci-Fi,Movie,63,88,2025-08-19,1,Tablet,Incomplete
+11130,U552,Benjamin Scott,UAE,Premium,M351,Black Mirror,Fantasy,Movie,61,106,2025-08-01,2,Smart TV,Incomplete
+11131,U430,David Wilson,USA,Free,M561,The Mandalorian,Action,Movie,35,68,2025-08-31,1,Smart TV,Incomplete
+11132,U655,Sarah Lee,UAE,Free,M902,Dark,Sci-Fi,TV Show,47,57,2025-09-25,2,Laptop,Incomplete
+11133,U761,Priya Nair,Japan,Free,M530,Cobra Kai,Adventure,Movie,134,158,2025-10-10,5,Smart TV,Incomplete
+11134,U745,Ava White,Japan,Standard,M286,Friends,Romance,Movie,29,51,2025-08-02,2,Laptop,Incomplete
+11135,U645,Jack Anderson,UAE,Standard,M629,Lucifer,Romance,Movie,134,149,2025-10-19,3,Tablet,Incomplete
+11136,U977,Ava White,Japan,Premium,M195,Cobra Kai,Comedy,TV Show,44,44,2025-09-09,1,Tablet,Completed
+11137,U465,Rohan Singh,Canada,Premium,M191,The 100,Romance,Movie,109,160,2025-08-16,3,Tablet,Incomplete
+11138,U341,Saanvi Jain,India,Standard,M444,Money Heist,Romance,TV Show,16,24,2025-08-13,2,Smart TV,Incomplete
+11139,U787,Aarav Gupta,Canada,Premium,M894,The Boys,Thriller,TV Show,16,26,2025-08-01,1,Laptop,Incomplete
+11140,U898,Saanvi Jain,India,Standard,M679,Avatar,Sci-Fi,Movie,104,162,2025-08-23,5,Laptop,Incomplete
+11141,U924,Isabella Thomas,UAE,Premium,M841,Black Mirror,Sci-Fi,TV Show,23,28,2025-09-08,3,Tablet,Incomplete
+11142,U832,Isabella Thomas,UK,Free,M104,Narcos,Romance,Movie,18,37,2025-09-25,5,Laptop,Incomplete
+11143,U438,Arnav Joshi,UAE,Premium,M236,Mirzapur,Fantasy,TV Show,28,35,2025-09-13,5,Smart TV,Incomplete
+11144,U882,Benjamin Scott,UK,Premium,M970,The Boys,Fantasy,Movie,43,64,2025-09-20,4,Smart TV,Incomplete
+11145,U681,Raj Sharma,UK,Free,M561,The Flash,Crime,Movie,104,176,2025-09-28,3,Smart TV,Incomplete
+11146,U471,Sophia Hall,Japan,Standard,M565,Extraction,Fantasy,Movie,32,57,2025-10-19,2,Laptop,Incomplete
+11147,U810,Lucas Green,USA,Premium,M168,Bridgerton,Action,Movie,21,26,2025-08-04,3,Laptop,Incomplete
+11148,U169,Yash Garg,Australia,Standard,M847,Spider-Man: No Way Home,Thriller,TV Show,50,54,2025-09-03,4,Smart TV,Completed
+11149,U338,Benjamin Scott,USA,Standard,M765,The Mandalorian,Fantasy,TV Show,46,60,2025-09-12,2,Tablet,Incomplete
+11150,U807,Noah Clark,Canada,Standard,M781,The Flash,Action,TV Show,35,52,2025-08-12,4,Smart TV,Incomplete
+11151,U435,Ryan Moore,Canada,Free,M427,Dune,Crime,Movie,125,155,2025-09-19,3,Smart TV,Incomplete
+11152,U320,Neha Verma,UAE,Standard,M219,Peaky Blinders,Drama,TV Show,11,20,2025-08-17,1,Laptop,Incomplete
+11153,U224,Raj Sharma,UK,Free,M479,Reacher,Romance,Movie,41,64,2025-08-29,5,Mobile,Incomplete
+11154,U838,Priya Nair,Australia,Standard,M186,Lucifer,Fantasy,Movie,157,174,2025-09-27,1,Tablet,Completed
+11155,U757,Charlotte Adams,UAE,Premium,M574,The Office,Drama,Movie,69,113,2025-10-23,5,Smart TV,Incomplete
+11156,U781,Priya Nair,USA,Standard,M112,Black Mirror,Adventure,TV Show,39,39,2025-09-09,4,Mobile,Completed
+11157,U358,Emma Johnson,UK,Standard,M320,Breaking Bad,Romance,TV Show,46,55,2025-09-11,2,Laptop,Incomplete
+11158,U905,Lucas Green,UAE,Standard,M131,The 100,Crime,Movie,86,122,2025-10-21,4,Laptop,Incomplete
+11159,U111,Jack Anderson,UK,Free,M457,Wednesday,Thriller,TV Show,24,47,2025-10-30,2,Tablet,Incomplete
+11160,U969,Emma Johnson,UK,Standard,M349,Stranger Things,Comedy,TV Show,29,29,2025-09-08,4,Smart TV,Completed
+11161,U752,Priya Nair,UK,Premium,M390,The Mandalorian,Action,Movie,50,78,2025-08-25,5,Mobile,Incomplete
+11162,U147,Neha Verma,India,Premium,M100,Mirzapur,Adventure,TV Show,20,31,2025-10-06,3,Laptop,Incomplete
+11163,U490,Mia Patel,UK,Free,M465,Inception,Sci-Fi,Movie,96,125,2025-10-06,1,Laptop,Incomplete
+11164,U163,Benjamin Scott,UAE,Premium,M896,Loki,Crime,Movie,98,109,2025-08-05,4,Tablet,Incomplete
+11165,U232,Arnav Joshi,USA,Free,M885,Wednesday,Crime,Movie,33,36,2025-08-20,1,Smart TV,Completed
+11166,U188,Priya Nair,UK,Standard,M342,Game of Thrones,Action,Movie,60,102,2025-08-14,2,Smart TV,Incomplete
+11167,U878,Meera Kapoor,UK,Premium,M451,Interstellar,Crime,Movie,146,174,2025-08-21,5,Smart TV,Incomplete
+11168,U574,Saanvi Jain,UK,Premium,M243,Spider-Man: No Way Home,Fantasy,TV Show,26,51,2025-10-09,4,Tablet,Incomplete
+11169,U707,Benjamin Scott,Australia,Premium,M318,Extraction,Thriller,TV Show,35,36,2025-08-31,2,Smart TV,Completed
+11170,U743,Mia Patel,India,Standard,M265,Loki,Comedy,TV Show,19,29,2025-09-27,2,Smart TV,Incomplete
+11171,U397,Noah Clark,UAE,Premium,M893,The Office,Sci-Fi,TV Show,47,53,2025-08-04,5,Mobile,Incomplete
+11172,U687,Meera Kapoor,Australia,Premium,M802,Loki,Comedy,TV Show,36,38,2025-08-30,1,Smart TV,Completed
+11173,U385,Neha Verma,India,Standard,M715,Jawan,Action,Movie,14,26,2025-09-05,1,Smart TV,Incomplete
+11174,U696,Lily Martin,Japan,Free,M171,Bridgerton,Romance,Movie,27,37,2025-09-28,4,Laptop,Incomplete
+11175,U224,Lucas Green,UK,Standard,M350,Sacred Games,Crime,Movie,82,95,2025-10-19,2,Tablet,Incomplete
+11176,U335,Isabella Thomas,India,Free,M941,Lucifer,Fantasy,Movie,103,152,2025-09-14,1,Laptop,Incomplete
+11177,U350,Neha Verma,Japan,Standard,M435,The 100,Drama,Movie,101,124,2025-09-10,3,Tablet,Incomplete
+11178,U451,Lucas Green,Australia,Standard,M610,Inception,Comedy,TV Show,45,51,2025-10-18,5,Tablet,Incomplete
+11179,U955,Saanvi Jain,UAE,Standard,M175,Reacher,Sci-Fi,TV Show,28,32,2025-08-07,3,Tablet,Incomplete
+11180,U581,Aarav Gupta,USA,Standard,M120,The Crown,Crime,Movie,109,163,2025-10-05,4,Mobile,Incomplete
+11181,U606,David Wilson,USA,Premium,M418,Squid Game,Drama,Movie,81,103,2025-09-22,3,Laptop,Incomplete
+11182,U872,Neha Verma,UK,Standard,M462,The Crown,Action,Movie,97,122,2025-08-19,1,Mobile,Incomplete
+11183,U888,Priya Nair,Canada,Free,M506,Dune,Fantasy,TV Show,41,42,2025-08-12,2,Smart TV,Completed
+11184,U113,Noah Clark,UAE,Standard,M432,Loki,Thriller,TV Show,45,50,2025-10-09,4,Laptop,Completed
+11185,U915,Oliver Brown,UK,Free,M532,Inception,Fantasy,Movie,82,93,2025-10-02,2,Smart TV,Incomplete
+11186,U362,Yash Garg,Canada,Premium,M505,Loki,Romance,TV Show,39,56,2025-10-20,3,Tablet,Incomplete
+11187,U348,Rohan Singh,UK,Premium,M663,Lucifer,Comedy,TV Show,50,57,2025-10-08,4,Tablet,Incomplete
+11188,U191,Saanvi Jain,Canada,Free,M204,Sacred Games,Crime,TV Show,37,45,2025-08-30,4,Tablet,Incomplete
+11189,U975,Lily Martin,UAE,Free,M500,Breaking Bad,Drama,Movie,58,111,2025-09-29,3,Laptop,Incomplete
+11190,U959,Harshit Tiwari,Australia,Premium,M102,Lucifer,Crime,TV Show,32,47,2025-10-16,5,Smart TV,Incomplete
+11191,U865,Raj Sharma,UAE,Standard,M670,Mirzapur,Comedy,Movie,26,33,2025-09-09,3,Laptop,Incomplete
+11192,U911,Sarah Lee,USA,Premium,M800,Extraction,Crime,TV Show,19,36,2025-08-24,5,Mobile,Incomplete
+11193,U836,Sophia Hall,Canada,Free,M819,Cobra Kai,Action,Movie,51,64,2025-08-24,5,Mobile,Incomplete
+11194,U215,Raj Sharma,Japan,Standard,M283,Cobra Kai,Romance,Movie,47,68,2025-08-29,5,Smart TV,Incomplete
+11195,U345,Benjamin Scott,UK,Premium,M267,The Flash,Sci-Fi,TV Show,33,55,2025-08-03,5,Smart TV,Incomplete
+11196,U572,Ella Turner,UK,Premium,M842,Dark,Sci-Fi,Movie,55,78,2025-08-03,4,Mobile,Incomplete
+11197,U202,Aarav Gupta,UK,Premium,M915,The Mandalorian,Romance,Movie,92,159,2025-08-08,3,Smart TV,Incomplete
+11198,U206,Aarav Gupta,Australia,Standard,M499,The Crown,Drama,TV Show,37,39,2025-10-10,2,Smart TV,Completed
+11199,U207,Raj Sharma,India,Standard,M282,Black Mirror,Drama,TV Show,33,36,2025-10-06,3,Laptop,Completed
+11200,U366,Ethan Davis,Japan,Free,M274,Black Mirror,Adventure,Movie,114,161,2025-10-07,5,Mobile,Incomplete
+11201,U659,David Wilson,India,Premium,M108,Inception,Drama,Movie,33,60,2025-08-16,3,Laptop,Incomplete
+11202,U650,Priya Nair,UAE,Premium,M791,Bridgerton,Thriller,TV Show,19,21,2025-10-03,3,Tablet,Completed
+11203,U673,Oliver Brown,Canada,Standard,M357,Money Heist,Romance,TV Show,15,31,2025-08-22,4,Mobile,Incomplete
+11204,U769,Meera Kapoor,UK,Free,M297,The Crown,Adventure,Movie,107,120,2025-10-07,5,Mobile,Incomplete
+11205,U620,Yash Garg,UAE,Premium,M906,Stranger Things,Fantasy,TV Show,10,20,2025-09-28,1,Mobile,Incomplete
+11206,U141,Jack Anderson,UK,Standard,M982,Breaking Bad,Drama,Movie,123,127,2025-10-13,2,Mobile,Completed
+11207,U742,Yash Garg,UK,Free,M372,Stranger Things,Romance,TV Show,20,28,2025-09-11,2,Smart TV,Incomplete
+11208,U509,Priya Nair,Canada,Premium,M575,Wednesday,Romance,Movie,116,160,2025-09-21,2,Tablet,Incomplete
+11209,U266,Ava White,UK,Standard,M213,Peaky Blinders,Fantasy,Movie,35,55,2025-08-01,3,Mobile,Incomplete
+11210,U267,Lily Martin,USA,Standard,M641,House of the Dragon,Comedy,Movie,75,85,2025-10-06,2,Mobile,Incomplete
+11211,U965,Saanvi Jain,India,Standard,M294,Bridgerton,Adventure,TV Show,41,46,2025-10-07,2,Laptop,Incomplete
+11212,U915,Yash Garg,UAE,Free,M118,Extraction,Fantasy,TV Show,31,58,2025-09-02,1,Mobile,Incomplete
+11213,U732,Jack Anderson,Australia,Free,M861,Dark,Sci-Fi,TV Show,19,35,2025-10-22,1,Laptop,Incomplete
+11214,U421,Harshit Tiwari,India,Free,M875,Reacher,Drama,Movie,85,130,2025-09-17,2,Laptop,Incomplete
+11215,U752,Ryan Moore,USA,Premium,M884,The Office,Fantasy,TV Show,16,26,2025-09-11,2,Laptop,Incomplete
+11216,U751,Sophia Hall,Australia,Premium,M913,Jawan,Drama,TV Show,34,34,2025-10-16,3,Mobile,Completed
+11217,U186,Aarav Gupta,USA,Free,M339,Extraction,Comedy,TV Show,33,45,2025-10-20,4,Tablet,Incomplete
+11218,U858,Ethan Davis,USA,Free,M274,Money Heist,Adventure,TV Show,26,32,2025-08-07,1,Smart TV,Incomplete
+11219,U437,Benjamin Scott,UK,Standard,M210,Breaking Bad,Thriller,Movie,43,56,2025-10-19,3,Laptop,Incomplete
+11220,U700,Priya Nair,Japan,Free,M870,Interstellar,Drama,Movie,49,81,2025-10-20,3,Smart TV,Incomplete
+11221,U947,Aarav Gupta,UAE,Free,M369,Cobra Kai,Thriller,TV Show,36,58,2025-08-01,3,Smart TV,Incomplete
+11222,U565,Neha Verma,Canada,Standard,M688,Dune,Drama,TV Show,31,40,2025-08-12,5,Mobile,Incomplete
+11223,U442,Ryan Moore,UAE,Standard,M268,Inception,Sci-Fi,Movie,53,59,2025-10-29,1,Laptop,Incomplete
+11224,U196,Lily Martin,India,Premium,M346,Stranger Things,Sci-Fi,TV Show,28,40,2025-08-19,5,Mobile,Incomplete
+11225,U952,Sophia Hall,UAE,Standard,M130,Stranger Things,Thriller,Movie,89,141,2025-09-15,4,Smart TV,Incomplete
+11226,U522,Emma Johnson,Australia,Standard,M201,Dune,Action,Movie,30,58,2025-09-04,1,Tablet,Incomplete
+11227,U598,Aisha Khan,UK,Premium,M497,Peaky Blinders,Thriller,TV Show,26,53,2025-10-10,4,Mobile,Incomplete
+11228,U247,Ava White,UAE,Free,M734,The 100,Fantasy,TV Show,27,34,2025-09-02,3,Laptop,Incomplete
+11229,U909,Harshit Tiwari,Japan,Standard,M441,Peaky Blinders,Adventure,Movie,106,131,2025-09-20,4,Mobile,Incomplete
+11230,U706,Sophia Hall,India,Standard,M683,The Flash,Action,TV Show,36,47,2025-09-05,5,Smart TV,Incomplete
+11231,U133,Raj Sharma,Canada,Free,M696,The 100,Drama,TV Show,25,49,2025-10-22,4,Smart TV,Incomplete
+11232,U519,Yash Garg,Japan,Standard,M164,Interstellar,Action,TV Show,49,59,2025-09-12,5,Mobile,Incomplete
+11233,U426,Priya Nair,India,Free,M910,Avatar,Fantasy,Movie,40,50,2025-09-26,2,Tablet,Incomplete
+11234,U856,Ryan Moore,Australia,Premium,M585,Spider-Man: No Way Home,Crime,Movie,39,53,2025-08-14,2,Tablet,Incomplete
+11235,U797,Jack Anderson,USA,Free,M884,The Boys,Action,TV Show,41,44,2025-10-07,3,Tablet,Completed
+11236,U725,Mia Patel,Canada,Standard,M476,The Crown,Action,TV Show,25,42,2025-08-19,2,Mobile,Incomplete
+11237,U783,Mia Patel,UK,Premium,M209,Friends,Drama,TV Show,17,28,2025-08-09,5,Mobile,Incomplete
+11238,U489,Arnav Joshi,UAE,Standard,M361,Lucifer,Crime,Movie,172,179,2025-08-16,1,Smart TV,Completed
+11239,U129,Charlotte Adams,UK,Standard,M759,Game of Thrones,Comedy,Movie,81,85,2025-08-09,4,Smart TV,Completed
+11240,U811,Raj Sharma,India,Free,M671,Inception,Crime,Movie,48,71,2025-09-26,4,Tablet,Incomplete
+11241,U330,Charlotte Adams,Canada,Free,M948,Peaky Blinders,Thriller,Movie,57,115,2025-08-18,4,Tablet,Incomplete
+11242,U350,Rohan Singh,USA,Premium,M543,The Mandalorian,Adventure,Movie,72,102,2025-09-26,1,Smart TV,Incomplete
+11243,U342,Aarav Gupta,India,Premium,M676,House of the Dragon,Drama,Movie,39,79,2025-09-02,4,Mobile,Incomplete
+11244,U127,Charlotte Adams,Canada,Premium,M520,The Witcher,Drama,TV Show,22,24,2025-09-11,3,Mobile,Completed
+11245,U559,Arjun Mehra,USA,Free,M139,The Mandalorian,Action,TV Show,18,27,2025-08-22,5,Laptop,Incomplete
+11246,U898,Aisha Khan,UK,Free,M597,Breaking Bad,Crime,Movie,90,174,2025-10-07,1,Tablet,Incomplete
+11247,U654,Arjun Mehra,Australia,Free,M675,Extraction,Comedy,TV Show,44,55,2025-08-29,4,Mobile,Incomplete
+11248,U568,Harshit Tiwari,UAE,Standard,M291,Vikings,Comedy,TV Show,51,56,2025-10-27,2,Smart TV,Completed
+11249,U164,Saanvi Jain,UAE,Free,M781,Money Heist,Romance,TV Show,10,21,2025-10-06,2,Laptop,Incomplete
+11250,U741,Aarav Gupta,Australia,Premium,M657,Friends,Crime,Movie,37,45,2025-10-09,2,Tablet,Incomplete
+11251,U931,Lucas Green,UK,Free,M776,Avatar,Adventure,TV Show,28,56,2025-09-23,3,Smart TV,Incomplete
+11252,U938,Diya Reddy,Japan,Free,M587,Vikings,Romance,TV Show,31,46,2025-08-30,5,Laptop,Incomplete
+11253,U277,Sarah Lee,USA,Premium,M905,Narcos,Fantasy,TV Show,31,50,2025-08-24,5,Mobile,Incomplete
+11254,U720,Priya Nair,UK,Premium,M905,Black Mirror,Drama,TV Show,19,31,2025-08-01,3,Mobile,Incomplete
+11255,U921,Aisha Khan,UK,Premium,M837,Friends,Crime,TV Show,40,47,2025-08-27,5,Tablet,Incomplete
+11256,U351,Harshit Tiwari,India,Standard,M774,Interstellar,Action,TV Show,17,26,2025-09-27,3,Smart TV,Incomplete
+11257,U918,David Wilson,UAE,Premium,M931,The Crown,Crime,Movie,56,71,2025-10-18,2,Smart TV,Incomplete
+11258,U457,Aisha Khan,Canada,Free,M609,The Flash,Thriller,TV Show,32,58,2025-08-08,5,Laptop,Incomplete
+11259,U766,Noah Clark,India,Standard,M229,Reacher,Action,Movie,129,154,2025-09-09,2,Mobile,Incomplete
+11260,U783,Oliver Brown,India,Standard,M447,Cobra Kai,Comedy,Movie,173,178,2025-10-16,1,Mobile,Completed
+11261,U193,David Wilson,UK,Premium,M943,Reacher,Action,TV Show,36,47,2025-08-04,3,Mobile,Incomplete
+11262,U139,Ethan Davis,India,Standard,M866,Peaky Blinders,Thriller,Movie,95,177,2025-10-16,1,Smart TV,Incomplete
+11263,U244,Jack Anderson,Canada,Premium,M450,Black Mirror,Comedy,Movie,114,129,2025-08-24,2,Smart TV,Incomplete
+11264,U769,Diya Reddy,Japan,Premium,M882,Extraction,Comedy,Movie,72,129,2025-08-15,3,Mobile,Incomplete
+11265,U846,Sarah Lee,USA,Free,M230,Jawan,Drama,Movie,104,167,2025-08-17,1,Tablet,Incomplete
+11266,U722,Charlotte Adams,Canada,Premium,M282,Friends,Romance,TV Show,47,47,2025-08-16,4,Mobile,Completed
+11267,U960,David Wilson,Canada,Premium,M684,Loki,Action,Movie,131,143,2025-08-17,1,Smart TV,Completed
+11268,U947,Diya Reddy,USA,Premium,M551,The 100,Adventure,TV Show,24,40,2025-08-21,1,Tablet,Incomplete
+11269,U194,David Wilson,UAE,Free,M271,Interstellar,Romance,Movie,30,39,2025-10-26,4,Tablet,Incomplete
+11270,U834,Jack Anderson,Canada,Premium,M974,Spider-Man: No Way Home,Sci-Fi,Movie,78,105,2025-08-08,1,Smart TV,Incomplete
+11271,U113,Oliver Brown,Australia,Premium,M113,Bridgerton,Thriller,Movie,52,92,2025-10-28,4,Tablet,Incomplete
+11272,U257,Saanvi Jain,India,Free,M491,Game of Thrones,Comedy,TV Show,21,32,2025-09-20,3,Mobile,Incomplete
+11273,U174,Meera Kapoor,Canada,Premium,M782,Jawan,Thriller,Movie,104,176,2025-08-12,3,Smart TV,Incomplete
+11274,U249,Lucas Green,Canada,Free,M558,Inception,Fantasy,Movie,24,46,2025-09-02,1,Tablet,Incomplete
+11275,U341,Meera Kapoor,UK,Standard,M701,Game of Thrones,Crime,Movie,77,102,2025-09-21,2,Tablet,Incomplete
+11276,U414,Isabella Thomas,Australia,Premium,M699,Avatar,Sci-Fi,Movie,117,178,2025-10-10,1,Laptop,Incomplete
+11277,U479,Arnav Joshi,Japan,Standard,M321,Squid Game,Adventure,TV Show,36,51,2025-09-16,3,Smart TV,Incomplete
+11278,U961,Sophia Hall,India,Standard,M181,Black Mirror,Thriller,Movie,17,27,2025-08-01,4,Smart TV,Incomplete
+11279,U916,Oliver Brown,Japan,Premium,M461,Peaky Blinders,Fantasy,TV Show,27,42,2025-10-20,2,Tablet,Incomplete
+11280,U111,Benjamin Scott,UAE,Standard,M687,Bridgerton,Romance,TV Show,38,38,2025-09-05,3,Mobile,Completed
+11281,U988,Ava White,UAE,Standard,M729,House of the Dragon,Comedy,Movie,39,42,2025-09-28,1,Tablet,Completed
+11282,U245,Arnav Joshi,Australia,Free,M281,Vikings,Action,TV Show,22,39,2025-09-26,2,Mobile,Incomplete
+11283,U303,Priya Nair,India,Free,M607,Reacher,Action,TV Show,12,25,2025-08-23,3,Mobile,Incomplete
+11284,U215,Lily Martin,USA,Free,M406,Mirzapur,Action,TV Show,20,40,2025-09-05,3,Mobile,Incomplete
+11285,U406,Aisha Khan,UK,Standard,M179,Peaky Blinders,Comedy,Movie,53,94,2025-09-23,5,Laptop,Incomplete
+11286,U241,Arnav Joshi,Japan,Premium,M766,Dark,Sci-Fi,Movie,114,156,2025-09-15,4,Smart TV,Incomplete
+11287,U236,Emma Johnson,India,Premium,M638,Jawan,Romance,TV Show,21,22,2025-09-14,4,Tablet,Completed
+11288,U921,David Wilson,Canada,Standard,M482,Cobra Kai,Adventure,Movie,128,140,2025-10-17,2,Mobile,Completed
+11289,U206,Aarav Gupta,UK,Premium,M599,Dune,Crime,TV Show,23,25,2025-10-15,5,Tablet,Completed
+11290,U855,Isabella Thomas,India,Free,M352,Friends,Romance,TV Show,37,39,2025-08-09,1,Laptop,Completed
+11291,U105,Ryan Moore,UK,Free,M369,The 100,Comedy,Movie,39,62,2025-09-26,4,Laptop,Incomplete
+11292,U669,Saanvi Jain,UK,Standard,M205,The Boys,Drama,TV Show,29,47,2025-09-13,5,Tablet,Incomplete
+11293,U870,Meera Kapoor,Canada,Premium,M957,The Flash,Crime,TV Show,24,38,2025-10-24,3,Tablet,Incomplete
+11294,U717,Aisha Khan,USA,Standard,M419,Jawan,Thriller,Movie,38,38,2025-08-20,5,Smart TV,Completed
+11295,U483,David Wilson,UK,Free,M797,Lucifer,Drama,Movie,121,159,2025-08-19,5,Mobile,Incomplete
+11296,U572,Arjun Mehra,USA,Premium,M375,Sacred Games,Comedy,TV Show,16,28,2025-09-09,4,Smart TV,Incomplete
+11297,U503,Noah Clark,Australia,Free,M783,Stranger Things,Thriller,Movie,41,56,2025-09-08,5,Mobile,Incomplete
+11298,U546,David Wilson,Japan,Premium,M477,The Flash,Sci-Fi,TV Show,45,45,2025-09-09,5,Smart TV,Completed
+11299,U989,Sarah Lee,Japan,Free,M989,Avatar,Drama,Movie,55,110,2025-08-10,3,Mobile,Incomplete
+11300,U694,Lucas Green,Canada,Premium,M192,Avatar,Adventure,TV Show,14,26,2025-09-08,5,Laptop,Incomplete
+11301,U655,Ethan Davis,Australia,Free,M509,Reacher,Fantasy,TV Show,39,39,2025-09-12,1,Mobile,Completed
+11302,U874,Harshit Tiwari,UK,Standard,M172,Lucifer,Romance,TV Show,33,36,2025-08-09,2,Mobile,Completed
+11303,U155,Harshit Tiwari,UAE,Standard,M304,Interstellar,Comedy,TV Show,36,45,2025-09-19,4,Tablet,Incomplete
+11304,U359,Sophia Hall,India,Premium,M526,The Flash,Action,Movie,105,125,2025-10-21,3,Tablet,Incomplete
+11305,U642,Ava White,UK,Premium,M766,Reacher,Romance,TV Show,38,54,2025-09-30,4,Smart TV,Incomplete
+11306,U506,Charlotte Adams,Australia,Premium,M919,Avatar,Drama,TV Show,18,31,2025-09-11,3,Mobile,Incomplete
+11307,U540,Saanvi Jain,UAE,Premium,M198,Spider-Man: No Way Home,Adventure,TV Show,26,46,2025-10-02,3,Smart TV,Incomplete
+11308,U977,Ryan Moore,UAE,Standard,M982,Black Mirror,Crime,TV Show,48,55,2025-08-05,1,Laptop,Incomplete
+11309,U937,Ella Turner,India,Free,M304,Inception,Action,TV Show,21,29,2025-08-25,2,Tablet,Incomplete
+11310,U446,Mia Patel,USA,Standard,M630,Avatar,Sci-Fi,TV Show,29,56,2025-09-10,4,Tablet,Incomplete
+11311,U837,Lily Martin,Japan,Standard,M525,Game of Thrones,Thriller,TV Show,32,45,2025-10-18,3,Smart TV,Incomplete
+11312,U625,Ryan Moore,UAE,Premium,M981,The Flash,Fantasy,Movie,144,158,2025-08-06,1,Mobile,Completed
+11313,U856,Arjun Mehra,UK,Standard,M443,Wednesday,Action,TV Show,30,40,2025-10-27,4,Smart TV,Incomplete
+11314,U783,Aarav Gupta,Japan,Premium,M744,The Mandalorian,Adventure,TV Show,35,41,2025-09-03,1,Mobile,Incomplete
+11315,U521,Emma Johnson,UAE,Premium,M713,Loki,Action,TV Show,47,60,2025-08-11,1,Smart TV,Incomplete
+11316,U382,Priya Nair,USA,Free,M274,The Boys,Adventure,Movie,32,37,2025-09-30,5,Mobile,Incomplete
+11317,U400,Raj Sharma,Japan,Standard,M151,Cobra Kai,Fantasy,Movie,84,123,2025-09-17,5,Mobile,Incomplete
+11318,U418,Saanvi Jain,UAE,Standard,M634,Game of Thrones,Comedy,TV Show,25,51,2025-08-20,4,Smart TV,Incomplete
+11319,U239,Charlotte Adams,UK,Premium,M205,Wednesday,Fantasy,Movie,76,94,2025-09-20,4,Laptop,Incomplete
+11320,U645,Aisha Khan,India,Premium,M441,Lucifer,Sci-Fi,Movie,90,119,2025-10-28,5,Smart TV,Incomplete
+11321,U600,Noah Clark,Australia,Free,M785,Money Heist,Comedy,TV Show,28,57,2025-10-06,1,Tablet,Incomplete
+11322,U895,Noah Clark,Australia,Free,M748,The Crown,Action,TV Show,33,59,2025-10-01,4,Laptop,Incomplete
+11323,U726,Charlotte Adams,Australia,Premium,M930,Bridgerton,Crime,TV Show,34,36,2025-10-14,4,Smart TV,Completed
+11324,U404,Lily Martin,Australia,Standard,M899,The Witcher,Romance,TV Show,53,57,2025-09-19,2,Mobile,Completed
+11325,U826,Jack Anderson,Canada,Premium,M890,Sacred Games,Fantasy,TV Show,24,36,2025-08-24,5,Laptop,Incomplete
+11326,U317,Arnav Joshi,UAE,Free,M464,House of the Dragon,Comedy,Movie,91,92,2025-10-11,3,Tablet,Completed
+11327,U445,David Wilson,UAE,Premium,M585,Money Heist,Fantasy,Movie,37,54,2025-10-05,3,Mobile,Incomplete
+11328,U445,Meera Kapoor,UAE,Premium,M237,Black Mirror,Action,TV Show,29,33,2025-08-20,2,Laptop,Incomplete
+11329,U659,Saanvi Jain,India,Standard,M224,Friends,Comedy,Movie,111,118,2025-08-17,1,Tablet,Completed
+11330,U550,Mia Patel,India,Premium,M226,Interstellar,Fantasy,Movie,24,34,2025-10-22,3,Mobile,Incomplete
+11331,U345,Sarah Lee,UK,Free,M918,Reacher,Comedy,Movie,34,62,2025-08-29,5,Mobile,Incomplete
+11332,U399,Harshit Tiwari,Canada,Free,M201,Mirzapur,Comedy,TV Show,10,20,2025-09-28,5,Smart TV,Incomplete
+11333,U534,David Wilson,UAE,Standard,M832,The Office,Fantasy,Movie,107,159,2025-09-08,3,Tablet,Incomplete
+11334,U946,Sarah Lee,USA,Standard,M606,Cobra Kai,Comedy,TV Show,41,48,2025-08-06,5,Tablet,Incomplete
+11335,U414,Ryan Moore,USA,Premium,M551,Inception,Drama,Movie,84,125,2025-08-31,3,Tablet,Incomplete
+11336,U842,Raj Sharma,Japan,Standard,M791,Sacred Games,Action,TV Show,40,41,2025-09-28,1,Tablet,Completed
+11337,U313,Sarah Lee,Japan,Free,M749,Inception,Adventure,Movie,116,158,2025-09-05,1,Tablet,Incomplete
+11338,U276,Oliver Brown,Canada,Free,M196,The Mandalorian,Drama,TV Show,21,32,2025-09-28,4,Laptop,Incomplete
+11339,U558,Aisha Khan,India,Standard,M356,Money Heist,Sci-Fi,TV Show,30,30,2025-09-04,1,Laptop,Completed
+11340,U200,Lucas Green,Canada,Free,M897,Squid Game,Comedy,TV Show,23,25,2025-08-14,1,Laptop,Completed
+11341,U364,Emma Johnson,Australia,Standard,M281,The Mandalorian,Drama,TV Show,45,46,2025-08-24,2,Mobile,Completed
+11342,U527,Ella Turner,Australia,Premium,M794,Cobra Kai,Sci-Fi,TV Show,24,46,2025-10-07,1,Tablet,Incomplete
+11343,U283,Noah Clark,UK,Free,M986,Mirzapur,Fantasy,Movie,55,109,2025-10-29,2,Tablet,Incomplete
+11344,U388,Priya Nair,Australia,Premium,M384,Interstellar,Action,Movie,34,35,2025-10-02,4,Laptop,Completed
+11345,U937,Noah Clark,UAE,Premium,M418,Reacher,Romance,Movie,123,123,2025-09-05,5,Smart TV,Completed
+11346,U139,Neha Verma,USA,Standard,M299,Stranger Things,Adventure,Movie,81,151,2025-09-05,2,Smart TV,Incomplete
+11347,U608,Ella Turner,Australia,Free,M323,Spider-Man: No Way Home,Action,TV Show,35,60,2025-10-13,4,Tablet,Incomplete
+11348,U674,Ava White,USA,Premium,M295,Dark,Crime,TV Show,29,31,2025-09-17,2,Laptop,Completed
+11349,U421,Harshit Tiwari,India,Premium,M266,House of the Dragon,Fantasy,TV Show,50,57,2025-08-22,5,Laptop,Incomplete
+11350,U721,Lily Martin,Canada,Premium,M649,Jawan,Action,TV Show,24,24,2025-08-12,1,Tablet,Completed
+11351,U313,Sarah Lee,UK,Premium,M355,Narcos,Action,TV Show,19,34,2025-10-19,5,Laptop,Incomplete
+11352,U690,Lucas Green,India,Premium,M221,Vikings,Crime,TV Show,36,41,2025-09-24,3,Mobile,Incomplete
+11353,U343,Rohan Singh,USA,Premium,M153,Narcos,Adventure,TV Show,29,29,2025-10-10,5,Tablet,Completed
+11354,U655,Sophia Hall,UK,Premium,M914,Interstellar,Action,TV Show,17,25,2025-10-15,2,Smart TV,Incomplete
+11355,U571,Sarah Lee,Japan,Standard,M116,Jawan,Action,Movie,113,121,2025-08-29,1,Laptop,Completed
+11356,U554,Oliver Brown,India,Standard,M767,Wednesday,Thriller,TV Show,39,43,2025-08-20,1,Smart TV,Completed
+11357,U217,Noah Clark,Canada,Standard,M986,Friends,Comedy,Movie,18,27,2025-10-17,2,Smart TV,Incomplete
+11358,U236,Mia Patel,USA,Premium,M658,Jawan,Thriller,Movie,80,141,2025-08-29,2,Mobile,Incomplete
+11359,U238,Raj Sharma,Japan,Premium,M416,Wednesday,Adventure,TV Show,36,36,2025-09-22,3,Laptop,Completed
+11360,U712,Meera Kapoor,Japan,Standard,M445,Game of Thrones,Comedy,TV Show,33,49,2025-10-14,2,Mobile,Incomplete
+11361,U859,Charlotte Adams,USA,Free,M231,Interstellar,Fantasy,TV Show,23,37,2025-10-28,3,Laptop,Incomplete
+11362,U996,Diya Reddy,UAE,Premium,M230,Jawan,Romance,Movie,55,78,2025-08-22,4,Tablet,Incomplete
+11363,U114,Priya Nair,Australia,Standard,M306,Spider-Man: No Way Home,Fantasy,TV Show,28,34,2025-08-26,5,Smart TV,Incomplete
+11364,U649,Sophia Hall,Japan,Free,M537,The Crown,Action,TV Show,22,39,2025-10-24,3,Laptop,Incomplete
+11365,U510,Arjun Mehra,UAE,Premium,M292,Bridgerton,Comedy,TV Show,13,21,2025-09-11,5,Tablet,Incomplete
+11366,U707,Charlotte Adams,Canada,Premium,M342,Stranger Things,Adventure,Movie,122,169,2025-10-05,3,Tablet,Incomplete
+11367,U268,Arjun Mehra,Australia,Standard,M495,Spider-Man: No Way Home,Adventure,Movie,108,134,2025-10-25,4,Mobile,Incomplete
+11368,U227,Emma Johnson,India,Standard,M905,The Boys,Fantasy,TV Show,50,60,2025-08-08,1,Tablet,Incomplete
+11369,U886,Lucas Green,Australia,Standard,M932,House of the Dragon,Thriller,TV Show,33,48,2025-08-14,2,Smart TV,Incomplete
+11370,U843,Sophia Hall,USA,Free,M479,Stranger Things,Comedy,Movie,101,176,2025-08-05,3,Tablet,Incomplete
+11371,U468,Neha Verma,Canada,Standard,M595,Money Heist,Fantasy,Movie,22,29,2025-10-02,2,Mobile,Incomplete
+11372,U935,Aarav Gupta,Japan,Premium,M570,The Witcher,Romance,TV Show,14,20,2025-09-01,3,Mobile,Incomplete
+11373,U718,Arnav Joshi,UK,Standard,M197,Cobra Kai,Thriller,Movie,62,67,2025-08-25,5,Tablet,Completed
+11374,U876,Sophia Hall,Australia,Free,M270,Dune,Crime,TV Show,25,39,2025-09-27,2,Tablet,Incomplete
+11375,U817,David Wilson,India,Free,M708,Breaking Bad,Sci-Fi,Movie,40,56,2025-09-30,2,Mobile,Incomplete
+11376,U558,Harshit Tiwari,UK,Free,M980,Dark,Romance,Movie,29,58,2025-08-04,2,Laptop,Incomplete
+11377,U306,Priya Nair,India,Premium,M128,Interstellar,Romance,Movie,118,178,2025-09-23,3,Laptop,Incomplete
+11378,U832,Meera Kapoor,UAE,Standard,M252,Jawan,Crime,TV Show,40,47,2025-08-01,3,Laptop,Incomplete
+11379,U267,Sarah Lee,India,Standard,M372,Money Heist,Crime,Movie,46,48,2025-09-18,1,Mobile,Completed
+11380,U438,Ella Turner,Japan,Free,M410,Squid Game,Drama,Movie,98,104,2025-08-25,2,Tablet,Completed
+11381,U831,Mia Patel,Canada,Free,M301,House of the Dragon,Thriller,TV Show,34,60,2025-10-26,3,Tablet,Incomplete
+11382,U863,Raj Sharma,USA,Free,M214,House of the Dragon,Romance,Movie,110,160,2025-09-15,3,Laptop,Incomplete
+11383,U162,Sarah Lee,Australia,Premium,M132,Mirzapur,Comedy,Movie,89,137,2025-08-09,4,Mobile,Incomplete
+11384,U744,Meera Kapoor,Japan,Standard,M810,Peaky Blinders,Crime,Movie,30,47,2025-08-17,3,Smart TV,Incomplete
+11385,U164,Charlotte Adams,UAE,Standard,M699,Lucifer,Romance,TV Show,27,32,2025-09-27,1,Laptop,Incomplete
+11386,U400,Harshit Tiwari,UAE,Premium,M175,Vikings,Comedy,Movie,107,178,2025-09-27,1,Smart TV,Incomplete
+11387,U766,Ava White,USA,Premium,M286,Stranger Things,Romance,Movie,84,132,2025-09-04,4,Mobile,Incomplete
+11388,U288,Isabella Thomas,Australia,Standard,M206,Wednesday,Adventure,Movie,88,91,2025-10-28,1,Tablet,Completed
+11389,U716,Harshit Tiwari,UK,Standard,M430,Dark,Romance,TV Show,21,39,2025-09-05,1,Laptop,Incomplete
+11390,U104,Priya Nair,USA,Free,M218,Lucifer,Comedy,Movie,61,106,2025-10-25,5,Tablet,Incomplete
+11391,U326,Ryan Moore,Canada,Premium,M517,Dark,Comedy,TV Show,15,26,2025-08-11,4,Tablet,Incomplete
+11392,U112,Yash Garg,Canada,Standard,M886,The 100,Drama,Movie,92,139,2025-10-30,4,Mobile,Incomplete
+11393,U798,Sarah Lee,Australia,Premium,M649,Narcos,Thriller,TV Show,48,52,2025-09-11,1,Laptop,Completed
+11394,U690,Diya Reddy,UAE,Standard,M738,Inception,Action,Movie,155,173,2025-09-11,3,Tablet,Incomplete
+11395,U996,Oliver Brown,Canada,Standard,M328,Narcos,Comedy,Movie,105,152,2025-10-24,3,Laptop,Incomplete
+11396,U498,Mia Patel,India,Free,M921,Extraction,Adventure,TV Show,49,50,2025-09-02,5,Mobile,Completed
+11397,U498,Jack Anderson,Australia,Free,M484,Bridgerton,Crime,Movie,52,103,2025-10-15,5,Mobile,Incomplete
+11398,U285,Ava White,Canada,Premium,M353,Dune,Fantasy,Movie,120,140,2025-10-02,3,Laptop,Incomplete
+11399,U110,Ava White,India,Standard,M209,Inception,Sci-Fi,Movie,32,49,2025-09-25,1,Mobile,Incomplete
+11400,U180,Ava White,India,Free,M754,The Mandalorian,Fantasy,TV Show,29,37,2025-10-25,3,Tablet,Incomplete
+11401,U934,Priya Nair,Australia,Free,M396,Friends,Sci-Fi,TV Show,31,44,2025-08-31,2,Mobile,Incomplete
+11402,U837,Neha Verma,Australia,Premium,M529,Jawan,Action,Movie,20,33,2025-09-15,3,Mobile,Incomplete
+11403,U766,Lucas Green,Australia,Premium,M654,House of the Dragon,Action,Movie,83,142,2025-09-29,1,Tablet,Incomplete
+11404,U820,Yash Garg,UAE,Standard,M744,Vikings,Romance,Movie,94,169,2025-10-25,4,Laptop,Incomplete
+11405,U277,Ella Turner,India,Standard,M581,The 100,Sci-Fi,Movie,20,39,2025-10-29,3,Laptop,Incomplete
+11406,U786,Rohan Singh,Australia,Premium,M819,Narcos,Crime,TV Show,20,26,2025-09-01,5,Mobile,Incomplete
+11407,U816,Lily Martin,Japan,Standard,M249,The Flash,Thriller,TV Show,29,39,2025-10-12,2,Mobile,Incomplete
+11408,U984,Priya Nair,India,Free,M568,Avatar,Drama,Movie,130,163,2025-09-28,4,Tablet,Incomplete
+11409,U179,Meera Kapoor,USA,Free,M934,Breaking Bad,Sci-Fi,Movie,41,69,2025-10-23,4,Tablet,Incomplete
+11410,U887,Ethan Davis,UK,Premium,M868,The Crown,Crime,Movie,100,180,2025-10-05,4,Smart TV,Incomplete
+11411,U704,Benjamin Scott,Canada,Standard,M607,Mirzapur,Romance,TV Show,15,24,2025-10-01,2,Tablet,Incomplete
+11412,U133,Ella Turner,India,Premium,M375,Cobra Kai,Sci-Fi,TV Show,14,23,2025-10-26,4,Smart TV,Incomplete
+11413,U820,Sarah Lee,Japan,Standard,M603,Sacred Games,Action,Movie,17,30,2025-10-20,2,Laptop,Incomplete
+11414,U929,Sarah Lee,India,Free,M779,Stranger Things,Thriller,Movie,119,137,2025-10-13,1,Tablet,Incomplete
+11415,U785,Neha Verma,India,Premium,M161,Extraction,Comedy,Movie,91,161,2025-09-29,4,Tablet,Incomplete
+11416,U120,Isabella Thomas,India,Premium,M760,Game of Thrones,Comedy,TV Show,13,22,2025-08-07,4,Mobile,Incomplete
+11417,U571,Noah Clark,UK,Premium,M483,The Crown,Drama,Movie,71,85,2025-08-05,5,Laptop,Incomplete
+11418,U189,Sophia Hall,UK,Standard,M617,Lucifer,Comedy,Movie,142,168,2025-08-12,2,Laptop,Incomplete
+11419,U520,Raj Sharma,Australia,Standard,M322,The Boys,Drama,Movie,120,125,2025-09-07,5,Laptop,Completed
+11420,U785,Neha Verma,UK,Standard,M505,Wednesday,Drama,TV Show,13,20,2025-08-01,4,Laptop,Incomplete
+11421,U354,Ethan Davis,Australia,Premium,M500,Breaking Bad,Comedy,Movie,91,101,2025-09-22,3,Tablet,Completed
+11422,U795,Saanvi Jain,Australia,Premium,M581,Jawan,Adventure,TV Show,18,34,2025-10-06,1,Laptop,Incomplete
+11423,U770,Ella Turner,India,Free,M131,Dune,Action,Movie,91,162,2025-09-11,4,Laptop,Incomplete
+11424,U371,Lucas Green,Australia,Free,M161,Dark,Comedy,TV Show,26,41,2025-10-09,2,Laptop,Incomplete
+11425,U436,David Wilson,India,Standard,M480,The Flash,Fantasy,TV Show,19,30,2025-08-18,1,Tablet,Incomplete
+11426,U517,Priya Nair,USA,Standard,M936,Dark,Action,TV Show,30,31,2025-08-07,2,Smart TV,Completed
+11427,U330,Lily Martin,UAE,Standard,M772,Friends,Action,Movie,68,86,2025-09-27,1,Tablet,Incomplete
+11428,U202,Saanvi Jain,Australia,Free,M907,Friends,Comedy,TV Show,32,44,2025-10-13,1,Laptop,Incomplete
+11429,U318,Isabella Thomas,India,Premium,M538,Mirzapur,Adventure,TV Show,18,24,2025-09-10,1,Tablet,Incomplete
+11430,U337,Diya Reddy,India,Premium,M906,The Flash,Drama,Movie,100,153,2025-10-08,5,Smart TV,Incomplete
+11431,U870,Lily Martin,Australia,Standard,M589,Wednesday,Drama,TV Show,13,24,2025-09-01,5,Laptop,Incomplete
+11432,U176,David Wilson,Japan,Free,M855,Interstellar,Sci-Fi,TV Show,39,54,2025-10-05,2,Tablet,Incomplete
+11433,U551,Noah Clark,Canada,Free,M981,Cobra Kai,Comedy,TV Show,34,37,2025-08-04,3,Smart TV,Completed
+11434,U982,Ethan Davis,UK,Premium,M675,Reacher,Fantasy,Movie,59,84,2025-08-15,5,Smart TV,Incomplete
+11435,U658,Benjamin Scott,Japan,Standard,M766,Stranger Things,Drama,Movie,106,119,2025-08-10,3,Smart TV,Incomplete
+11436,U921,Sophia Hall,Canada,Standard,M536,Interstellar,Fantasy,TV Show,22,22,2025-09-24,3,Smart TV,Completed
+11437,U833,Yash Garg,UAE,Free,M991,House of the Dragon,Action,Movie,77,150,2025-08-22,4,Tablet,Incomplete
+11438,U788,Aisha Khan,Australia,Premium,M333,The 100,Drama,TV Show,33,41,2025-10-16,4,Tablet,Incomplete
+11439,U336,Noah Clark,Canada,Free,M739,The Witcher,Romance,TV Show,49,58,2025-10-14,5,Laptop,Incomplete
+11440,U191,Neha Verma,India,Free,M208,Stranger Things,Sci-Fi,Movie,103,141,2025-08-09,3,Mobile,Incomplete
+11441,U157,Harshit Tiwari,Japan,Premium,M606,Sacred Games,Thriller,TV Show,27,47,2025-08-03,1,Smart TV,Incomplete
+11442,U172,Ethan Davis,Australia,Free,M787,Dark,Adventure,TV Show,42,56,2025-08-26,3,Laptop,Incomplete
+11443,U617,Aisha Khan,Canada,Free,M815,The Office,Adventure,Movie,16,28,2025-08-08,4,Laptop,Incomplete
+11444,U190,Priya Nair,Canada,Premium,M523,Wednesday,Adventure,Movie,104,118,2025-09-21,4,Laptop,Incomplete
+11445,U701,Sophia Hall,UAE,Free,M141,Game of Thrones,Fantasy,Movie,66,88,2025-09-12,4,Tablet,Incomplete
+11446,U383,Benjamin Scott,UAE,Standard,M475,Sacred Games,Romance,Movie,83,143,2025-10-23,5,Mobile,Incomplete
+11447,U390,Sarah Lee,Canada,Free,M699,House of the Dragon,Action,TV Show,52,55,2025-10-15,5,Smart TV,Completed
+11448,U578,Saanvi Jain,UK,Premium,M379,Dark,Thriller,TV Show,46,49,2025-08-07,2,Tablet,Completed
+11449,U291,Raj Sharma,UK,Standard,M239,Stranger Things,Thriller,TV Show,29,53,2025-09-10,5,Smart TV,Incomplete
+11450,U335,Harshit Tiwari,USA,Standard,M268,The 100,Sci-Fi,Movie,56,67,2025-10-02,4,Smart TV,Incomplete
+11451,U441,Arnav Joshi,UK,Standard,M356,Spider-Man: No Way Home,Fantasy,Movie,72,84,2025-08-20,3,Mobile,Incomplete
+11452,U100,Raj Sharma,UAE,Standard,M871,Stranger Things,Crime,Movie,68,91,2025-09-27,1,Laptop,Incomplete
+11453,U785,Arnav Joshi,UK,Premium,M899,Inception,Romance,TV Show,47,55,2025-09-24,1,Laptop,Incomplete
+11454,U512,Benjamin Scott,USA,Free,M283,Spider-Man: No Way Home,Comedy,TV Show,30,52,2025-09-11,2,Laptop,Incomplete
+11455,U708,Neha Verma,Australia,Premium,M947,Wednesday,Drama,Movie,83,126,2025-10-16,3,Laptop,Incomplete
+11456,U309,Sophia Hall,USA,Standard,M837,The Flash,Thriller,TV Show,36,49,2025-09-02,4,Smart TV,Incomplete
+11457,U448,Diya Reddy,Australia,Standard,M962,Stranger Things,Thriller,Movie,152,154,2025-08-04,2,Laptop,Completed
+11458,U942,Jack Anderson,UK,Free,M256,Loki,Drama,Movie,113,124,2025-10-25,2,Laptop,Completed
+11459,U204,David Wilson,Australia,Free,M789,Squid Game,Fantasy,Movie,19,31,2025-08-29,4,Tablet,Incomplete
+11460,U793,Lily Martin,UK,Premium,M299,The Witcher,Romance,TV Show,28,57,2025-09-30,1,Smart TV,Incomplete
+11461,U453,Saanvi Jain,Australia,Standard,M565,The Crown,Comedy,TV Show,20,26,2025-08-05,3,Mobile,Incomplete
+11462,U461,Lucas Green,Canada,Standard,M325,Money Heist,Fantasy,Movie,31,39,2025-10-20,1,Laptop,Incomplete
+11463,U250,Jack Anderson,Canada,Standard,M555,The Crown,Sci-Fi,TV Show,33,46,2025-08-04,1,Smart TV,Incomplete
+11464,U172,Ryan Moore,UK,Standard,M952,Peaky Blinders,Comedy,TV Show,15,29,2025-10-15,2,Tablet,Incomplete
+11465,U795,Yash Garg,UAE,Premium,M309,Narcos,Sci-Fi,TV Show,15,20,2025-08-30,4,Tablet,Incomplete
+11466,U989,David Wilson,Australia,Premium,M630,The Mandalorian,Thriller,TV Show,35,47,2025-10-24,2,Smart TV,Incomplete
+11467,U787,Yash Garg,UAE,Free,M486,Friends,Fantasy,Movie,32,56,2025-08-10,5,Laptop,Incomplete
+11468,U776,Aarav Gupta,UAE,Free,M707,Interstellar,Comedy,TV Show,25,30,2025-10-17,1,Mobile,Incomplete
+11469,U775,Harshit Tiwari,UK,Free,M344,Sacred Games,Thriller,Movie,92,170,2025-10-04,4,Mobile,Incomplete
+11470,U801,Benjamin Scott,Australia,Free,M486,The Crown,Adventure,Movie,54,72,2025-10-16,2,Laptop,Incomplete
